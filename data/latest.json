@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:20:09.036Z",
+  "generatedAt": "2026-11-08T02:32:44.495Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-08",
   "changeSummary": {
@@ -30,17 +30,22 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
-    {
-      "name": "量子位",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -51,6 +56,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -60,14 +70,19 @@
   ],
   "failures": [
     {
-      "name": "量子位",
+      "name": "央视网-科技",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "工信部",
       "error": "fetch failed",
       "optional": false
     },
     {
-      "name": "央视网-科技",
+      "name": "工信部-政策文件",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -78,6 +93,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -166,9 +186,8 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 34,
+      "failed": false,
       "optional": false
     },
     {
@@ -253,14 +272,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -303,8 +324,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -337,13 +359,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1510,
+  "itemsSeen": 1483,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 261,
-  "itemsAfterDedupe": 184,
+  "itemsAfterRelevantFilter": 262,
+  "itemsAfterDedupe": 185,
   "todayItemsSeen": 19,
-  "suspectedItemsSeen": 11,
-  "skippedNonToday": 154,
+  "suspectedItemsSeen": 14,
+  "skippedNonToday": 152,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -425,9 +447,8 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 34,
+      "failed": false,
       "optional": false
     },
     {
@@ -512,14 +533,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -562,8 +585,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -751,14 +775,19 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "量子位",
+      "name": "央视网-科技",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "工信部",
       "error": "fetch failed",
       "optional": false
     },
     {
-      "name": "央视网-科技",
+      "name": "工信部-政策文件",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -769,6 +798,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -1383,74 +1417,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "机器人的训练成本被 Supermimic 打下来了？",
-      "summary": "人形机器人全身控制（WBC）是实现机器人仿人运动、走向实用化的底层核心。当下主流方案大多依托无模型强化学习，想要覆盖更丰富的人类动作，就要投入集群级算力。UC Berkeley 近期的 SuperMimic 工作把十万级人体动作跟踪策略的训...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixyrxk4297807.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixyrxk4297807.shtml"
-      ],
-      "publishedAt": "2026-11-08",
-      "date": "2026-11-08",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 170,
-      "reporterScore": 176,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人的训练成本被 Supermimic 打下来了？” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "人形机器人全身控制（WBC）是实现机器人仿人运动、走向实用化的底层核心。当下主流方案大多依托无模型强化学习，想要覆盖更丰富的人类动作，就要投入集群级算力。UC Berkeley 近期的 SuperMimic 工作把十万级人体动作跟踪策略的训...",
-      "relatedTitles": [
-        "机器人的训练成本被 Supermimic 打下来了？"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要",
       "summary": "欧洲多地抗议AI数据中心",
@@ -1719,6 +1685,74 @@
       "rawText": "IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。芝加哥大学...",
       "relatedTitles": [
         "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "机器人的训练成本被 Supermimic 打下来了？",
+      "summary": "人形机器人全身控制（WBC）是实现机器人仿人运动、走向实用化的底层核心。当下主流方案大多依托无模型强化学习，想要覆盖更丰富的人类动作，就要投入集群级算力。UC Berkeley 近期的 SuperMimic 工作把十万级人体动作跟踪策略的训...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixyrxk4297807.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixyrxk4297807.shtml"
+      ],
+      "publishedAt": "2026-11-08",
+      "date": "2026-11-08",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 160,
+      "reporterScore": 166,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人的训练成本被 Supermimic 打下来了？” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人全身控制（WBC）是实现机器人仿人运动、走向实用化的底层核心。当下主流方案大多依托无模型强化学习，想要覆盖更丰富的人类动作，就要投入集群级算力。UC Berkeley 近期的 SuperMimic 工作把十万级人体动作跟踪策略的训...",
+      "relatedTitles": [
+        "机器人的训练成本被 Supermimic 打下来了？"
       ],
       "isNewSinceLastRun": false
     },
@@ -2201,6 +2235,73 @@
   ],
   "suspectedLeads": [
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
+      "sourceUrls": [
+        "https://www.qbitai.com/meet/meet2026/"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
+      "relatedTitles": [
+        "MEET大会"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板",
       "summary": "人工智能正在从模型能力竞赛，走向产业现场深处。2026年，AI智能体开始进入真实工作流，具身智能加速迈向物理世界，AI基础设施支撑大规模应用落地，AI内容与文化生态也在重塑新的生产方式与消费体验。AI不再只是技术变量，而正在成为产业升级、城市进化和创业创新的核心引擎。 在这一时代节点下，\"2026新一代人工智能（深圳）",
@@ -2670,6 +2771,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "ChatGPT",
+      "summary": "ChatGPT GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 14分钟前 ChatGPT Claude 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/chatgpt",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/chatgpt"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "ChatGPT GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 14分钟前 ChatGPT Claude 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。 henry 2026-09-15 AI ChatGPT 陶哲轩 GPT-5.6今起大降价，最大幅度80%！ Luna打骨折 听雨 2026-07-31 AI ChatGPT OpenAI 难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！ 豆包硬刚ChatGPT 十三 2026-06-08 ChatGPT 豆包 高考数学 LeCun点赞：国产开源模型占领硅谷，性价比超10倍 开源模型，已经来到了中国时间 听雨 2026-04-10 AI ChatGPT 人工智能 OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了 正面回应了和Anthropic的竞争 henry 2026-04-05 Ch",
+      "relatedTitles": [
+        "ChatGPT"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美股暴跌，但民主党胜选未必真利空AI",
       "summary": "围绕AI的投资交易，与AI作为一种变革性技术的长期发展前景，并不是一回事。",
@@ -2872,7 +3040,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 135814",
+      "title": "阅读 135865",
       "summary": "那些在汽车市场上为了降低几百元成本、提高几个百分点效率而反复优化的技术，到了航空领域，却成为一项相当有价值的技术积累，并且有大量现成方案可用。新能源汽车市场上这种近乎白热化的竞争，最终让航空工业也跟着沾了光。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -2929,12 +3097,79 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “阅读 135814” against primary-source evidence.",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “阅读 135865” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "新能源车与智能驾驶",
       "rawText": "那些在汽车市场上为了降低几百元成本、提高几个百分点效率而反复优化的技术，到了航空领域，却成为一项相当有价值的技术积累，并且有大量现成方案可用。新能源汽车市场上这种近乎白热化的竞争，最终让航空工业也跟着沾了光。",
       "relatedTitles": [
-        "阅读 135814"
+        "阅读 135865"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI迄今最强网络安全模型！发现81个Firefox高危漏洞",
+      "summary": "OpenAI OpenAI开始断网训练最强模型：“安全起见” 模型开始利用GPU缓存聊天？ 程浅 11小时前 OpenAI 断网 谁在给OpenAI供应具身数据？ 挤进全球Physical AI核心供应链 梦瑶 2026-10-22 OpenAI GPT证千禧年难题成果大反转！OpenAI自己没看懂就发… OpenAI",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/t/2026-11-06/doc-inixucsw8253214.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/t/2026-11-06/doc-inixucsw8253214.shtml"
+      ],
+      "publishedAt": "2026-11-06",
+      "date": "2026-11-06",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 3,
+      "score": 101,
+      "reporterScore": 109,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": -35,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": true,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 70
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI迄今最强网络安全模型！发现81个Firefox高危漏洞” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "（来源：快科技）快科技11月6日消息，日前，OpenAI正式发布迄今最强网络安全专用模型GPT-6 Cyber，重点提升软件漏洞发现、漏洞验证以及漏洞利用开发能力。在Firefox安全研究中，GPT-6 Cyber发现了81个此前未被发现的...",
+      "relatedTitles": [
+        "OpenAI迄今最强网络安全模型！发现81个Firefox高危漏洞"
       ]
     }
   ],
@@ -3228,8 +3463,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-08｜V3\n生成时间：2026/11/8 10:20:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2476｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   科技日报｜2026-11-08｜https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   IT之家｜2026-11-08｜https://www.ithome.com/1/023/833.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-08｜V3\n生成时间：2026/11/8 10:20:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2476｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   科技日报｜2026-11-08｜https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   IT之家｜2026-11-08｜https://www.ithome.com/1/023/833.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-08｜生成时间：2026/11/8 10:20:09｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2476｜确认今日 19｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 19 条｜国际 9 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-08] 国内首个科技法学院在雄安新区成立</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：195｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词</strong>\n      <span>科技日报｜2026-11-08｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：189｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单</strong>\n      <span>IT之家｜2026-11-08｜<a href=\"https://www.ithome.com/1/023/833.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：188｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns</strong>\n      <span>时间：Fri, 06 Nov 2026 14:13:32 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage conc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia hardware worth $11.4M vanished between Oakland and Texas</strong>\n      <span>时间：Fri, 06 Nov 2026 20:05:30 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia hardware worth $11.4M vanished between Oakland and Texas” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not</strong>\n      <span>时间：Thu, 05 Nov 2026 21:37:18 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI bugging suspect Alfozan pleads not guilty</strong>\n      <span>时间：Fri, 06 Nov 2026 21:15:47 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI bugging suspect Alfozan pleads not guilty” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off</strong>\n      <span>时间：Fri, 06 Nov 2026 18:35:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/8 10:20:09\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   来源：IT之家\n   链接：https://www.ithome.com/1/023/833.htm\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-08｜V3\n生成时间：2026/11/8 10:32:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2449｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   科技日报｜2026-11-08｜https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   IT之家｜2026-11-08｜https://www.ithome.com/1/023/833.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-08｜V3\n生成时间：2026/11/8 10:32:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2449｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   新浪科技｜2026-11-08｜https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   科技日报｜2026-11-08｜https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   IT之家｜2026-11-08｜https://www.ithome.com/1/023/833.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-08｜生成时间：2026/11/8 10:32:44｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2449｜确认今日 19｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 19 条｜国际 9 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-08] 国内首个科技法学院在雄安新区成立</strong>\n      <span>新浪科技｜2026-11-08｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：195｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词</strong>\n      <span>科技日报｜2026-11-08｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：189｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单</strong>\n      <span>IT之家｜2026-11-08｜<a href=\"https://www.ithome.com/1/023/833.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：188｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns</strong>\n      <span>时间：Fri, 06 Nov 2026 14:13:32 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage conc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia hardware worth $11.4M vanished between Oakland and Texas</strong>\n      <span>时间：Fri, 06 Nov 2026 20:05:30 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia hardware worth $11.4M vanished between Oakland and Texas” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not</strong>\n      <span>时间：Thu, 05 Nov 2026 21:37:18 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI bugging suspect Alfozan pleads not guilty</strong>\n      <span>时间：Fri, 06 Nov 2026 21:15:47 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI bugging suspect Alfozan pleads not guilty” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off</strong>\n      <span>时间：Fri, 06 Nov 2026 18:35:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/8 10:32:44\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示” against primary-source evidence.\n\n2. [2026-11-08] 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml\n   角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周” against primary-source evidence.\n\n3. [2026-11-08] 国内首个科技法学院在雄安新区成立\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “国内首个科技法学院在雄安新区成立” against primary-source evidence.\n\n4. [2026-11-08] 中国科普作家协会发布2026年度十大科普热词\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科普作家协会发布2026年度十大科普热词” against primary-source evidence.\n\n5. [22:56] 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单\n   来源：IT之家\n   链接：https://www.ithome.com/1/023/833.htm\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（8 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/\n2. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/\n3. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/\n4. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html\n5. OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off｜CNBC Technology｜https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
