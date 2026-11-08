@@ -3,53 +3,53 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/8 20:12:14
+生成时间：2026/11/8 20:53:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 41 条｜国际 0 条
-延续跟踪线索：国内 1 条｜国际 9 条
+新增核心线索：国内 11 条｜国际 0 条
+延续跟踪线索：国内 38 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-08] 美发布月球基地建设与核动力月球车发射新规划
+1. [2026-11-08] 靠AI帮忙：微星旧笔记本变废为宝！拆出主板做智能中枢
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztkw3900742.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “靠AI帮忙：微星旧笔记本变废为宝！拆出主板做智能中枢” against primary-source evidence.
+
+2. [2026-11-08] 美发布月球基地建设与核动力月球车发射新规划
    来源：网易科技
    链接：https://www.163.com/dy/article/LB7MAIPV05198CJN.html
    角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “美发布月球基地建设与核动力月球车发射新规划” against primary-source evidence.
 
-2. [11:02] SpaceX 星舰计划最早本月 14 日第 15 次试飞，首次尝试返回发射场
+3. [2026-11-08] QUICK FactSet：2026Q3全球五大存储芯片厂商合计营业利润32万亿日元，同比增长10倍
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztku7123858.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “QUICK FactSet：2026Q3全球五大存储芯片厂商合计营业利润32万亿日元，同比增长10倍” against primary-source evidence.
+
+4. [11:02] SpaceX 星舰计划最早本月 14 日第 15 次试飞，首次尝试返回发射场
    来源：IT之家
    链接：https://www.ithome.com/1/023/986.htm
    角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星舰计划最早本月 14 日第 15 次试飞，首次尝试返回发射场” against primary-source evidence.
 
-3. [2026-11-08] 上纬新材旗下启元机器人第10000台个人机器人下
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB7HC7JT0534A4SC.html
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “上纬新材旗下启元机器人第10000台个人机器人下” against primary-source evidence.
-
-4. [2026-11-08] 专访｜世界媒体探讨交流AI应用意义重大——访日本共同社社长兼总编辑泽井俊光
+5. [2026-11-08] 专访｜世界媒体探讨交流AI应用意义重大——访日本共同社社长兼总编辑泽井俊光
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixzpau3683758.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “专访｜世界媒体探讨交流AI应用意义重大——访日本共同社社长兼总编辑泽井俊光” against primary-source evidence.
 
-5. [2026-11-08] 卫宁健康副董事长周成父亲判刑后他火速接班 公司前三季度仍亏损
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixzpaw7202343.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “卫宁健康副董事长周成父亲判刑后他火速接班 公司前三季度仍亏损” against primary-source evidence.
-
 本次新增线索：
-- 美发布月球基地建设与核动力月球车发射新规划｜网易科技｜https://www.163.com/dy/article/LB7MAIPV05198CJN.html
-- SpaceX 星舰计划最早本月 14 日第 15 次试飞，首次尝试返回发射场｜IT之家｜https://www.ithome.com/1/023/986.htm
-- 上纬新材旗下启元机器人第10000台个人机器人下｜网易科技｜https://www.163.com/dy/article/LB7HC7JT0534A4SC.html
-- 专访｜世界媒体探讨交流AI应用意义重大——访日本共同社社长兼总编辑泽井俊光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixzpau3683758.shtml
-- 卫宁健康副董事长周成父亲判刑后他火速接班 公司前三季度仍亏损｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixzpaw7202343.shtml
+- 靠AI帮忙：微星旧笔记本变废为宝！拆出主板做智能中枢｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztkw3900742.shtml
+- QUICK FactSet：2026Q3全球五大存储芯片厂商合计营业利润32万亿日元，同比增长10倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztku7123858.shtml
+- 华熙生物开启一人一方时代，AI如何改变护肤行业？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztkq6926561.shtml
+- 铠侠控股：2027年存储芯片产能售罄，2028年配额锁定超50%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztkq6926097.shtml
+- 李在明：2027年财政总支出820.9万亿韩元，同比增长12.8%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-08/doc-inixztkw3899775.shtml
 
 今日热点方向：
-- AI 应用：AI动态（8 条，4 个来源）
+- AI 应用：AI动态（12 条，4 个来源）
 - 芯片/半导体：半导体供应链（3 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 机器人/具身智能：机器人动态（4 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
 - 科学前沿：
 
