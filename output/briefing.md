@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/9 10:05:22
+生成时间：2026/11/9 10:34:42
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 42 条｜国际 5 条
-延续跟踪线索：国内 0 条｜国际 2 条
+新增核心线索：国内 14 条｜国际 0 条
+延续跟踪线索：国内 35 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-09] 消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniyazcy6365633.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平” against primary-source evidence.
-
-2. [2026-11-09] 重大突破！我国新一代光刻机模型亮相 性能直追国际标杆：全国产半导体可期
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-09/doc-iniyauwh6697013.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “重大突破！我国新一代光刻机模型亮相 性能直追国际标杆：全国产半导体可期” against primary-source evidence.
-
-3. [2026-11-09] 瑞银首席执行官：中期选举为AI基础设施建设带来不确定性
+1. [2026-11-09] 瑞银首席执行官：中期选举为AI基础设施建设带来不确定性
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3424179.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “瑞银首席执行官：中期选举为AI基础设施建设带来不确定性” against primary-source evidence.
 
-4. [2026-11-09] 马斯克要单挑三星！Terafab月产70万片晶圆：等于三星DRAM总产能
+2. [2026-11-09] 财经早报丨国常会首提“完善资本市场稳市机制” ，黄仁勋承认出轨发布致英伟达全员信丨2026年11月9日
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyazcy6367196.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克要单挑三星！Terafab月产70万片晶圆：等于三星DRAM总产能” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/y/2026-11-09/doc-iniyauwk3415932.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “财经早报丨国常会首提“完善资本市场稳市机制” ，黄仁勋承认出轨发布致英伟达全员信丨2026年11月9日” against primary-source evidence.
 
-5. [2026-11-09] AI应用嵌入全链条 全球传媒业向智能化加速迈进
+3. [2026-11-09] 美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwa6475689.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI应用嵌入全链条 全球传媒业向智能化加速迈进” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniyazeh3384634.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO” against primary-source evidence.
+
+4. [2026-11-09] 全球网络峰会Web Summit即将揭幕，新浪财经三场对话聚焦大模型、AI与耐心资本
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-09/doc-iniyazeh3350472.shtml
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球网络峰会Web Summit即将揭幕，新浪财经三场对话聚焦大模型、AI与耐心资本” against primary-source evidence.
+
+5. [2026-11-09] 中国引领“开源10月”！DeepSeek等技术被欧美借鉴，引发关注
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyazcy6386527.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “中国引领“开源10月”！DeepSeek等技术被欧美借鉴，引发关注” against primary-source evidence.
 
 本次新增线索：
-- 消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniyazcy6365633.shtml
-- 重大突破！我国新一代光刻机模型亮相 性能直追国际标杆：全国产半导体可期｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-09/doc-iniyauwh6697013.shtml
-- 瑞银首席执行官：中期选举为AI基础设施建设带来不确定性｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3424179.shtml
-- 马斯克要单挑三星！Terafab月产70万片晶圆：等于三星DRAM总产能｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyazcy6367196.shtml
-- AI应用嵌入全链条 全球传媒业向智能化加速迈进｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwa6475689.shtml
-- BOSGAME drops a 192GB RAM mini PC with dual 10GbE and OCuLink｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/bosgame-drops-192gb-ram-mini-221000994.html
+- 美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniyazeh3384634.shtml
+- 中国引领“开源10月”！DeepSeek等技术被欧美借鉴，引发关注｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyazcy6386527.shtml
+- 美国人工智能建设遭遇电力瓶颈｜网易科技｜https://www.163.com/dy/article/LB9MH44L05198CJN.html
+- 消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平｜IT之家｜https://www.ithome.com/1/024/046.htm
+- 快讯：创指重返2500点 人形机器人概念爆发｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-11-09/detail-iniyazcy6384493.d.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（5 条，3 个来源）
-- 芯片/半导体：半导体供应链（7 条，2 个来源）
-- 机器人/具身智能：
+- AI 应用：AI动态（10 条，3 个来源）
+- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
 - 科学前沿：
 
 国际科技背景：
-1. BOSGAME drops a 192GB RAM mini PC with dual 10GbE and OCuLink｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/bosgame-drops-192gb-ram-mini-221000994.html
+1. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/
 2. Read Huang's email to his staff and statement from Nvidia's board of directors｜CNBC Technology｜https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html
 3. Don't Like Google Health's AI Coach? Here's How To Turn It Off｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/dont-google-healths-ai-coach-211500466.html
-4. Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board｜TechCrunch｜https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
-5. SpaceXAI Grok Bot Availability Just Keeps Growing - Here's Which Plans Offer It｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/spacexai-grok-bot-availability-just-234500404.html
+4. Tech companies face mounting child safety lawsuits while pushing AI into schools｜CNBC Technology｜https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html
+5. Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board｜TechCrunch｜https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
