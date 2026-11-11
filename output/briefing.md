@@ -3,59 +3,59 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/11 21:42:43
+生成时间：2026/11/11 22:29:03
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 18 条｜国际 2 条
-延续跟踪线索：国内 48 条｜国际 30 条
+新增核心线索：国内 10 条｜国际 1 条
+延续跟踪线索：国内 57 条｜国际 32 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-11] 荣耀CEO李健：荣耀成为2026年APEC会议官方赞助商，Robot Phone、机器人闪电等将亮相
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvy9016828.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “荣耀CEO李健：荣耀成为2026年APEC会议官方赞助商，Robot Phone、机器人闪电等将亮相” against primary-source evidence.
-
-2. [2026-11-11] 授时中心召开党委理论学习中心组学习会
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202611/t20261111_5123977.shtml
-   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “授时中心召开党委理论学习中心组学习会” against primary-source evidence.
-
-3. [2026-11-11] 李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手
+1. [2026-11-11] 李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9131095.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手” against primary-source evidence.
 
-4. [2026-11-11] Qwen4即将发布，预览版已上线阿里Token Plan
+2. [2026-11-11] Qwen4即将发布，预览版已上线阿里Token Plan
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-11-11/doc-iniyipkf2011399.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Qwen4即将发布，预览版已上线阿里Token Plan” against primary-source evidence.
 
-5. [2026-11-11] AI进化速递 | MiniMax开源H3-Image图像模型
+3. [2026-11-11] 千元机真没了！500万人今年首次买二手手机
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2240096.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI进化速递 | MiniMax开源H3-Image图像模型” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-11/doc-iniykqvt1722073.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “千元机真没了！500万人今年首次买二手手机” against primary-source evidence.
+
+4. [2026-11-11] 荣耀CEO李健：荣耀成为2026年APEC会议官方赞助商，Robot Phone、机器人闪电等将亮相
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvy9016828.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “荣耀CEO李健：荣耀成为2026年APEC会议官方赞助商，Robot Phone、机器人闪电等将亮相” against primary-source evidence.
+
+5. [2026-11-11] 银河星仔双足人形机器人获CES最高创新奖
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-11-11/doc-iniyitsa2060092.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “银河星仔双足人形机器人获CES最高创新奖” against primary-source evidence.
 
 本次新增线索：
-- 荣耀CEO李健：荣耀成为2026年APEC会议官方赞助商，Robot Phone、机器人闪电等将亮相｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvy9016828.shtml
-- 授时中心召开党委理论学习中心组学习会｜中国科学院｜https://www.cas.cn/djcx/gz/202611/t20261111_5123977.shtml
-- AI进化速递 | MiniMax开源H3-Image图像模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2240096.shtml
-- IBM 发布下一代量子处理器 Nighthawk r3，计划明年实现超 1000 量子比特系统｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniykqvy9010386.shtml
-- 沈阳分院分党组传达学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神｜中国科学院｜https://www.cas.cn/djcx/gz/202611/t20261111_5124039.shtml
-- The robot boom: Are businesses ready for an AI-powered workforce?｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce
+- 千元机真没了！500万人今年首次买二手手机｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-11/doc-iniykqvt1722073.shtml
+- 沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniykqvy9037700.shtml
+- AI 提升飓风预报精度，人类气象专家仍不可替代｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniykqvx2261688.shtml
+- 超微电脑宣布H15服务器系列开始出货 搭载AMD第六代EPYC 9006系列处理器｜网易科技｜https://www.163.com/dy/article/LBG4C7UA05198CJN.html
+- 为鸿蒙计划等探路！我国探路者卫星发射成功｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-11/doc-iniykqvt1721964.shtml
+- SpaceX targets 'Holy Grail of rocketry' with Starship flight 15｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-holy-grail-rocketry-135235144.html
 
 今日热点方向：
 - AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（6 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（7 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. The robot boom: Are businesses ready for an AI-powered workforce?｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce
+1. SpaceX targets 'Holy Grail of rocketry' with Starship flight 15｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-holy-grail-rocketry-135235144.html
 2. Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'｜France24 Technology｜https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government
 3. Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline｜TechCrunch｜https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
 4. European Commission to host information session on the EU AI Media Platform funding opportunity｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/european-commission-host-information-session-eu-ai-media-platform-funding-opportunity
