@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/10 22:58:18
+生成时间：2026/11/11 10:17:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 2 条
-延续跟踪线索：国内 60 条｜国际 19 条
+新增核心线索：国内 31 条｜国际 20 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-10] 号称行业首个具身全模态端到端交互大模型！智元机器人发布WITA-Omni
+1. [2026-11-11] 成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-10/doc-iniyhmws2540905.shtml
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “号称行业首个具身全模态端到端交互大模型！智元机器人发布WITA-Omni” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniyipkf1979516.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”” against primary-source evidence.
 
-2. [2026-11-10] 继黄仁勋后！马斯克等也被盯上了：美国民主党拟明年1月展开调查
+2. [02:10] 阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线
+   来源：IT之家
+   链接：https://www.ithome.com/1/025/301.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线” against primary-source evidence.
+
+3. [2026-11-11] 落地徐汇！把运动跟踪误差降低30%～80%，人形机器人全身控制模型Anchor 1发布
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-10/doc-iniyfeci2738185.shtml
-   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “继黄仁勋后！马斯克等也被盯上了：美国民主党拟明年1月展开调查” against primary-source evidence.
+   链接：https://finance.sina.com.cn/wm/2026-11-11/doc-iniyiiak8710505.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “落地徐汇！把运动跟踪误差降低30%～80%，人形机器人全身控制模型Anchor 1发布” against primary-source evidence.
 
-3. [2026-11-10] 中亦科技：暂未涉及人形机器人或工业机器人领域
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LBDISNJA0512B07B.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中亦科技：暂未涉及人形机器人或工业机器人领域” against primary-source evidence.
+4. [01:51] Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展
+   来源：IT之家
+   链接：https://www.ithome.com/1/025/292.htm
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展” against primary-source evidence.
 
-4. [2026-11-10] 两部门：到2028年 实现人工智能在自然资源领域
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LBDAPQL60512B07B.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “两部门：到2028年 实现人工智能在自然资源领域” against primary-source evidence.
-
-5. [2026-11-10] 算力要上天，谁在抢建底座？
+5. [2026-11-11] 东微电子：全链条发力 打造半导体行业独角兽
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyhfqv2525060.shtml
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “算力要上天，谁在抢建底座？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyipkh8604842.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “东微电子：全链条发力 打造半导体行业独角兽” against primary-source evidence.
 
 本次新增线索：
-- 号称行业首个具身全模态端到端交互大模型！智元机器人发布WITA-Omni｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-10/doc-iniyhmws2540905.shtml
-- 中亦科技：暂未涉及人形机器人或工业机器人领域｜网易科技｜https://www.163.com/dy/article/LBDISNJA0512B07B.html
-- 今日宜休ISHO Ring披露首销权益：15天无理由+两代新品半价换新，锚定睡眠AI与临床验证｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-11-10/doc-iniyhmws2531754.shtml
-- Adobe Creative Cloud 向第三方智能体大开城门，未来让 AI 帮你本地修图剪片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-10/doc-iniyhmwq5759714.shtml
-- 埃森哲推出Data-as-a-Service服务 助力企业构建适用于AI的数据基础｜网易科技｜https://www.163.com/dy/article/LBDIF87705198CJN.html
-- SpaceX's First Attempt To Catch Both Starship Stages Takes Place November 13｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-first-attempt-catch-both-130318882.html
+- 成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniyipkf1979516.shtml
+- 阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线｜IT之家｜https://www.ithome.com/1/025/301.htm
+- 落地徐汇！把运动跟踪误差降低30%～80%，人形机器人全身控制模型Anchor 1发布｜新浪科技｜https://finance.sina.com.cn/wm/2026-11-11/doc-iniyiiak8710505.shtml
+- Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展｜IT之家｜https://www.ithome.com/1/025/292.htm
+- 东微电子：全链条发力 打造半导体行业独角兽｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyipkh8604842.shtml
+- Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline｜TechCrunch｜https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
 
 今日热点方向：
-- AI 应用：AI动态（15 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（9 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
-- 科学前沿：
+- AI 应用：AI 应用与智能体（5 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. SpaceX's First Attempt To Catch Both Starship Stages Takes Place November 13｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-first-attempt-catch-both-130318882.html
-2. Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'｜France24 Technology｜https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government
-3. A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal｜TechCrunch｜https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/
-4. The race is on to sue Nvidia｜TechCrunch｜https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/
-5. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
+1. Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline｜TechCrunch｜https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+2. European Commission to host information session on the EU AI Media Platform funding opportunity｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/european-commission-host-information-session-eu-ai-media-platform-funding-opportunity
+3. The robot boom: Are businesses ready for an AI-powered workforce?｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce
+4. Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'｜France24 Technology｜https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government
+5. Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI｜Ars Technica｜https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
