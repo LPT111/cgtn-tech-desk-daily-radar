@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/11 10:51:00
+生成时间：2026/11/11 20:57:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 35 条｜国际 30 条
+新增核心线索：国内 70 条｜国际 9 条
+延续跟踪线索：国内 5 条｜国际 24 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-11] 成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”
+1. [2026-11-11] 李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-11/doc-iniyipkf1979516.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9131095.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手” against primary-source evidence.
 
-2. [02:10] 阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线
-   来源：IT之家
-   链接：https://www.ithome.com/1/025/301.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线” against primary-source evidence.
-
-3. [2026-11-11] 菲尔兹奖得主邓煜：无论AI多么强大，人永远是主体
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-11/11/content_39095674.htm
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “菲尔兹奖得主邓煜：无论AI多么强大，人永远是主体” against primary-source evidence.
-
-4. [2026-11-11] 在岗更在行｜浙江人形 NAVIAI 亮相进博会，以深度适配夯实工业具身应用创领者定位
+2. [2026-11-11] Qwen4即将发布，预览版已上线阿里Token Plan
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyipka5346733.shtml
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “在岗更在行｜浙江人形 NAVIAI 亮相进博会，以深度适配夯实工业具身应用创领者定位” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-11-11/doc-iniyipkf2011399.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Qwen4即将发布，预览版已上线阿里Token Plan” against primary-source evidence.
 
-5. [2026-11-11] 落地徐汇！把运动跟踪误差降低30%～80%，人形机器人全身控制模型Anchor 1发布
+3. [2026-11-11] 台积电：2026年10月营收5868.9亿新台币，同比增长59.7%，环比增长14.7%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-11-11/doc-iniyiiak8710505.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “落地徐汇！把运动跟踪误差降低30%～80%，人形机器人全身控制模型Anchor 1发布” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2215140.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “台积电：2026年10月营收5868.9亿新台币，同比增长59.7%，环比增长14.7%” against primary-source evidence.
+
+4. [2026-11-11] 银河星仔双足人形机器人获CES最高创新奖
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-11-11/doc-iniyitsa2060092.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “银河星仔双足人形机器人获CES最高创新奖” against primary-source evidence.
+
+5. [2026-11-11] 小螺号｜2000小时无故障写进硬指标，机器人要先“用得住”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvy8994479.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “小螺号｜2000小时无故障写进硬指标，机器人要先“用得住”” against primary-source evidence.
 
 本次新增线索：
-- 菲尔兹奖得主邓煜：无论AI多么强大，人永远是主体｜光明网-科技｜https://tech.gmw.cn/2026-11/11/content_39095674.htm
-- 领克 900L 旗舰大七座 SUV 全球首秀：车长增至 5280mm，2.0T 插混配 70kWh 电池｜IT之家｜https://www.ithome.com/1/025/262.htm
-- AI给出答案的前提，是人类构建思维链｜光明网-科技｜https://tech.gmw.cn/2026-11/11/content_39095677.htm
-- 马斯克宣布特斯拉 Cybertruck 赛博皮卡即将停产后，改装厂主动请缨接手｜IT之家｜https://www.ithome.com/1/025/310.htm
-- 从“硅基”到“碳基”，柔性电子将重塑媒介形态｜光明网-科技｜https://tech.gmw.cn/2026-11/11/content_39095769.htm
+- 李彦宏现身预热百度世界大会！和AI搓麻将，体验AI健身助手｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9131095.shtml
+- Qwen4即将发布，预览版已上线阿里Token Plan｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-11/doc-iniyipkf2011399.shtml
+- 台积电：2026年10月营收5868.9亿新台币，同比增长59.7%，环比增长14.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2215140.shtml
+- 银河星仔双足人形机器人获CES最高创新奖｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-11/doc-iniyitsa2060092.shtml
+- 小螺号｜2000小时无故障写进硬指标，机器人要先“用得住”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvy8994479.shtml
+- Ring cameras go mobile as Amazon debuts AI-powered security drone and robot｜Ars Technica｜https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
 
 今日热点方向：
-- AI 应用：AI动态（6 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI 应用与智能体（13 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（8 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'｜France24 Technology｜https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government
-2. Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline｜TechCrunch｜https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
-3. Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight｜CNBC Technology｜https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html
-4. Nasdaq defies Nvidia impact as Huang faces espionage affair probe｜CNBC Technology｜https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html
-5. European Commission to host information session on the EU AI Media Platform funding opportunity｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/european-commission-host-information-session-eu-ai-media-platform-funding-opportunity
+1. Ring cameras go mobile as Amazon debuts AI-powered security drone and robot｜Ars Technica｜https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
+2. Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'｜France24 Technology｜https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government
+3. Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline｜TechCrunch｜https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+4. European Commission to host information session on the EU AI Media Platform funding opportunity｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/european-commission-host-information-session-eu-ai-media-platform-funding-opportunity
+5. Innovating with AI in the special chemicals industry｜MIT Technology Review｜https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
