@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/12 22:45:50
+生成时间：2026/11/12 23:21:13
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 13 条｜国际 7 条
-延续跟踪线索：国内 62 条｜国际 20 条
+新增核心线索：国内 11 条｜国际 0 条
+延续跟踪线索：国内 67 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,27 +39,26 @@ ChenChen 今日 Briefing｜V3
    角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “科学家发现植物镍元素传输机制” against primary-source evidence.
 
 本次新增线索：
-- 科学家发现植物镍元素传输机制｜中国科学院｜https://www.cas.cn/syky/202611/t20261112_5124060.shtml
-- 研究将超子电偶极矩测量精度提高约1000倍｜中国科学院｜https://www.cas.cn/syky/202611/t20261112_5124059.shtml
-- 中芯国际业绩爆发！三季度净利润28.47亿元 同比大增87.6%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniynyax3715361.shtml
-- 印度裔高管接替黄仁勋出任英伟达CEO引热议：谣言！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniyntux1703757.shtml
-- 黄仁勋辞任 CEO 后，英伟达称维持原定时间公布 2027 财年三季度财报｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-12/doc-iniynyax3731192.shtml
-- Building safer AI products for children｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/building-safer-ai-products-children-140449045.html
+- 黄仁勋辞去 CEO 后，英伟达首任董事会主席哈维 · 琼斯发表内部信｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-12/doc-iniynyax3770757.shtml
+- 百度推出大模型交易平台词元所｜网易科技｜https://www.163.com/dy/article/LBHH1NFF05198CJN.html
+- 英伟达发布 GeForce 621.24 Game Ready 驱动：为《战锤 40000：战争黎明 4》优化，《燕云十六声》新增 DLSS 5｜IT之家｜https://www.ithome.com/1/026/425.htm
+- Anthropic 被曝为 Claude 加入限制：禁止生成宝可梦相关游戏素材｜IT之家｜https://www.ithome.com/1/026/348.htm
+- 英伟达CEO换人，盘中市值跌破4万亿美元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniynyax3753361.shtml
 
 今日热点方向：
 - AI 应用：AI动态（19 条，5 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（4 条，2 个来源）
 
 国际科技背景：
 1. Building safer AI products for children｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/building-safer-ai-products-children-140449045.html
 2. Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO｜TechCrunch｜https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/
-3. China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway｜WIRED Business｜https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/
-4. The robot boom: Are businesses ready for an AI-powered workforce?｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce
-5. Jensen Huang accused of having another affair — with an Nvidia exec｜TechCrunch｜https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+3. Jensen Huang accused of having another affair — with an Nvidia exec｜TechCrunch｜https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+4. China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway｜WIRED Business｜https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/
+5. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
