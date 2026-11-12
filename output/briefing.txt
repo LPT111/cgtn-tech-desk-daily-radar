@@ -1,62 +1,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/12 11:54:15
+生成时间：2026/11/12 21:59:14
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 1 条
-延续跟踪线索：国内 56 条｜国际 25 条
+新增核心线索：国内 54 条｜国际 6 条
+延续跟踪线索：国内 16 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [03:36] Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资
-   来源：IT之家
-   链接：https://www.ithome.com/1/025/934.htm
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资” against primary-source evidence.
-
-2. [2026-11-12] 李彦宏：模型越多选择越困难，百度推出“词元所”大模型交易平台
+1. [2026-11-12] 十年之后，李彦宏把“下一幕”从人工智能改写为智能组织
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-12/doc-iniymwrm3863468.shtml
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “李彦宏：模型越多选择越困难，百度推出“词元所”大模型交易平台” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniyntux1687530.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “十年之后，李彦宏把“下一幕”从人工智能改写为智能组织” against primary-source evidence.
 
-3. [2026-11-12] 李彦宏：推理将成AI芯片长期持续增长的主要推动力
+2. [2026-11-12] 大湾区首家，自变量通用具身大模型GreatWall完成备案
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwrk8610491.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “李彦宏：推理将成AI芯片长期持续增长的主要推动力” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniynifc1721191.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “大湾区首家，自变量通用具身大模型GreatWall完成备案” against primary-source evidence.
 
-4. [2026-11-12] 福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域
+3. [2026-11-12] 摩根大通预计美国人形机器人2030年产量达40万台
    来源：网易科技
-   链接：https://www.163.com/dy/article/LBHI9M9B05198CJN.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域” against primary-source evidence.
+   链接：https://www.163.com/dy/article/LBIECO3205198CJN.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “摩根大通预计美国人形机器人2030年产量达40万台” against primary-source evidence.
 
-5. [2026-11-12] 李彦宏：现在的具身智能相当于2016年前后的无人驾驶
+4. [2026-11-12] 中芯国际：2026年前三季度净利润73.14亿元，同比增长91.6%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwri1833061.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “李彦宏：现在的具身智能相当于2016年前后的无人驾驶” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniyntuz3820425.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “中芯国际：2026年前三季度净利润73.14亿元，同比增长91.6%” against primary-source evidence.
+
+5. [2026-11-12] 传达摩院具身模型负责人李昕离职创业，官方暂无回应
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniyniff3907690.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “传达摩院具身模型负责人李昕离职创业，官方暂无回应” against primary-source evidence.
 
 本次新增线索：
-- 李彦宏：推理将成AI芯片长期持续增长的主要推动力｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwrk8610491.shtml
-- 福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域｜网易科技｜https://www.163.com/dy/article/LBHI9M9B05198CJN.html
-- 李彦宏：现在的具身智能相当于2016年前后的无人驾驶｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwri1833061.shtml
-- 李彦宏对话杨元庆：AI变革踩过哪些坑，企业如何重构组织？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrc1236349.shtml
-- 英伟达盘后跌超8%！谁能接黄仁勋的班？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrc1236650.shtml
-- What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
+- 十年之后，李彦宏把“下一幕”从人工智能改写为智能组织｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniyntux1687530.shtml
+- 大湾区首家，自变量通用具身大模型GreatWall完成备案｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniynifc1721191.shtml
+- 摩根大通预计美国人形机器人2030年产量达40万台｜网易科技｜https://www.163.com/dy/article/LBIECO3205198CJN.html
+- 中芯国际：2026年前三季度净利润73.14亿元，同比增长91.6%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniyntuz3820425.shtml
+- 传达摩院具身模型负责人李昕离职创业，官方暂无回应｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniyniff3907690.shtml
+- Ring cameras go mobile as Amazon debuts AI-powered security drone and robot｜Ars Technica｜https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（16 条，4 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，2 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
+- AI 应用：AI动态（19 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（9 条，2 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
+1. Ring cameras go mobile as Amazon debuts AI-powered security drone and robot｜Ars Technica｜https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
 2. Jensen Huang accused of having another affair — with an Nvidia exec｜TechCrunch｜https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
-3. Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang｜TechCrunch｜https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
-4. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
+3. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
+4. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
 5. I Saw the Future of Robotics in a Virtual Duck That Chases My Cat｜WIRED Business｜https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/
 
 发稿前核验提示：
