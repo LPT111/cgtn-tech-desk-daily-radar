@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/12 11:45:15
+生成时间：2026/11/12 11:54:15
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 13 条｜国际 0 条
-延续跟踪线索：国内 48 条｜国际 25 条
+新增核心线索：国内 7 条｜国际 1 条
+延续跟踪线索：国内 56 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,42 +21,43 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/roll/2026-11-12/doc-iniymwrm3863468.shtml
    角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “李彦宏：模型越多选择越困难，百度推出“词元所”大模型交易平台” against primary-source evidence.
 
-3. [2026-11-12] Intel最强推理卡准备就绪：480GB显存加1.5TB/s带宽
+3. [2026-11-12] 李彦宏：推理将成AI芯片长期持续增长的主要推动力
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-12/doc-iniymwri1817682.shtml
-   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Intel最强推理卡准备就绪：480GB显存加1.5TB/s带宽” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwrk8610491.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “李彦宏：推理将成AI芯片长期持续增长的主要推动力” against primary-source evidence.
 
-4. [2026-11-12] 对话上交大连文昭：机器人学会实验，距离自主科研闭环还有多远？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrm3853423.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “对话上交大连文昭：机器人学会实验，距离自主科研闭环还有多远？” against primary-source evidence.
+4. [2026-11-12] 福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LBHI9M9B05198CJN.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域” against primary-source evidence.
 
-5. [2026-11-12] 手握全球最强芯片架构！本土却造不出一颗：英国半导体陷入尴尬
+5. [2026-11-12] 李彦宏：现在的具身智能相当于2016年前后的无人驾驶
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrk8600092.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “手握全球最强芯片架构！本土却造不出一颗：英国半导体陷入尴尬” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwri1833061.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “李彦宏：现在的具身智能相当于2016年前后的无人驾驶” against primary-source evidence.
 
 本次新增线索：
-- Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资｜IT之家｜https://www.ithome.com/1/025/934.htm
-- Intel最强推理卡准备就绪：480GB显存加1.5TB/s带宽｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-12/doc-iniymwri1817682.shtml
-- 手握全球最强芯片架构！本土却造不出一颗：英国半导体陷入尴尬｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrk8600092.shtml
-- 百度天池1024卡超节点发布：可支撑5万亿参数模型训练，明年上市｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-12/doc-iniymwrm3884335.shtml
-- 中科闻歌发布MediaOne，探索媒体智能化新路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwri1829350.shtml
+- 李彦宏：推理将成AI芯片长期持续增长的主要推动力｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwrk8610491.shtml
+- 福建：加快推动人工智能全方位赋能科学技术、产业发展、消费提质等重点行业领域｜网易科技｜https://www.163.com/dy/article/LBHI9M9B05198CJN.html
+- 李彦宏：现在的具身智能相当于2016年前后的无人驾驶｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-12/doc-iniymwri1833061.shtml
+- 李彦宏对话杨元庆：AI变革踩过哪些坑，企业如何重构组织？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrc1236349.shtml
+- 英伟达盘后跌超8%！谁能接黄仁勋的班？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniymwrc1236650.shtml
+- What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（15 条，4 个来源）
+- AI 应用：AI 应用与智能体（16 条，4 个来源）
 - 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. Jensen Huang accused of having another affair — with an Nvidia exec｜TechCrunch｜https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
-2. Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang｜TechCrunch｜https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
-3. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
-4. I Saw the Future of Robotics in a Virtual Duck That Chases My Cat｜WIRED Business｜https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/
-5. The robot boom: Are businesses ready for an AI-powered workforce?｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce
+1. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
+2. Jensen Huang accused of having another affair — with an Nvidia exec｜TechCrunch｜https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+3. Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang｜TechCrunch｜https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+4. Jensen Huang’s Troubles Leave the AI Industry Reeling｜WIRED Business｜https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/
+5. I Saw the Future of Robotics in a Virtual Duck That Chases My Cat｜WIRED Business｜https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
