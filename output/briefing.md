@@ -3,61 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/13 11:26:48
+生成时间：2026/11/13 21:26:21
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 14 条｜国际 0 条
-延续跟踪线索：国内 60 条｜国际 20 条
+新增核心线索：国内 43 条｜国际 7 条
+延续跟踪线索：国内 17 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌
-   来源：IT之家
-   链接：https://www.ithome.com/1/026/478.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.
-
-2. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益
+1. [2026-11-13] 马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并
    来源：新浪科技
-   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqwtt0932639.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并” against primary-source evidence.
 
-3. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.
+2. [2026-11-13] 2026世界中文大会发布国际中文教育垂直大模型
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-11/13/content_612936.html
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026世界中文大会发布国际中文教育垂直大模型” against primary-source evidence.
 
-4. [2026-11-13] 高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济
+3. [2026-11-13] 黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypvhp3780582.shtml
+   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破” against primary-source evidence.
 
-5. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？
+4. [2026-11-13] 第3段婚外情浮现！黄仁勋被曝与另一名英伟达女员工存在亲密关系
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1042796.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “第3段婚外情浮现！黄仁勋被曝与另一名英伟达女员工存在亲密关系” against primary-source evidence.
+
+5. [2026-11-13] 星动纪元机器人跑出1500件/小时分拣峰值，完成双11大促高峰考验
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqnef3705737.shtml
+   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “星动纪元机器人跑出1500件/小时分拣峰值，完成双11大促高峰考验” against primary-source evidence.
 
 本次新增线索：
-- 对话Web Summit CEO：中国商飞将使全球航空业受益｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
-- 高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml
-- 特朗普曾提前与黄仁勋通话：保住职位！｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1061295.shtml
-- 中芯国际赵海军：AI算力供不应求 2027年半导体代工产能将非常紧缺｜网易科技｜https://www.163.com/dy/article/LBK14SQJ05198CJN.html
-- 给马斯克写邮件只能三句话！特斯拉前高管曝光内部沟通铁则｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyqfwi3659543.shtml
+- 马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqwtt0932639.shtml
+- 2026世界中文大会发布国际中文教育垂直大模型｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/13/content_612936.html
+- 黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypvhp3780582.shtml
+- 第3段婚外情浮现！黄仁勋被曝与另一名英伟达女员工存在亲密关系｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1042796.shtml
+- 星动纪元机器人跑出1500件/小时分拣峰值，完成双11大促高峰考验｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqnef3705737.shtml
+- China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（8 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（12 条，5 个来源）
+- 芯片/半导体：半导体供应链（3 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，1 个来源）
 
 国际科技背景：
-1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/
-2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry｜TechCrunch｜https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
-3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html
-4. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html
+1. China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade
+2. Why Singapore keeps turning up in the fight over Nvidia chips and China｜CNBC Technology｜https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html
+3. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry｜TechCrunch｜https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
+4. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html
 5. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506
 
 发稿前核验提示：
