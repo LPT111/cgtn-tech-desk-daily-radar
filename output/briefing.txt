@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/13 11:21:20
+生成时间：2026/11/13 11:26:48
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 1 条
-延续跟踪线索：国内 56 条｜国际 19 条
+新增核心线索：国内 14 条｜国际 0 条
+延续跟踪线索：国内 60 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -16,41 +16,40 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/1/026/478.htm
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.
 
-2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么
+2. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.
+
+3. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.
 
-3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？
+4. [2026-11-13] 高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济” against primary-source evidence.
+
+5. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.
 
-4. [2026-11-13] 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.
-
-5. [2026-11-13] 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.
-
 本次新增线索：
-- 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml
-- 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml
-- 大晓机器人发布ACE-CaP-0，真机操作任务成功率｜网易科技｜https://www.163.com/dy/article/LBK1QNRK0534A4SC.html
-- Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产｜IT之家｜https://www.ithome.com/1/026/544.htm
-- SpaceX与特斯拉合并，有新进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml
-- 'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'｜France24 Technology｜https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe
+- 对话Web Summit CEO：中国商飞将使全球航空业受益｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
+- 高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml
+- 特朗普曾提前与黄仁勋通话：保住职位！｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1061295.shtml
+- 中芯国际赵海军：AI算力供不应求 2027年半导体代工产能将非常紧缺｜网易科技｜https://www.163.com/dy/article/LBK14SQJ05198CJN.html
+- 给马斯克写邮件只能三句话！特斯拉前高管曝光内部沟通铁则｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyqfwi3659543.shtml
 
 今日热点方向：
-- AI 应用：AI动态（6 条，4 个来源）
+- AI 应用：AI动态（9 条，4 个来源）
 - 芯片/半导体：半导体供应链（8 条，3 个来源）
-- 机器人/具身智能：机器人动态（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（3 条，3 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/
