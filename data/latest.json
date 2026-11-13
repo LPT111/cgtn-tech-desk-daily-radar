@@ -1,64 +1,44 @@
 {
-  "generatedAt": "2026-11-13T02:58:32.657Z",
+  "generatedAt": "2026-11-13T03:21:20.104Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-13",
   "changeSummary": {
-    "domesticNew": 73,
-    "globalNew": 14,
-    "domesticContinued": 0,
-    "globalContinued": 7,
+    "domesticNew": 11,
+    "globalNew": 1,
+    "domesticContinued": 56,
+    "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/026/478.htm"
-      },
-      {
-        "title": "王虹的导师拉里·古斯：AI时代，数学对我意味着什么",
+        "title": "芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml"
       },
       {
-        "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
+        "title": "黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml"
       },
       {
-        "title": "对话Web Summit CEO：中国商飞将使全球航空业受益",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml"
-      },
-      {
-        "title": "长征二号丁运载火箭成功发射探源计划探路者卫星",
+        "title": "大晓机器人发布ACE-CaP-0，真机操作任务成功率",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LBJPNFB90512B07B.html"
+        "url": "https://www.163.com/dy/article/LBK1QNRK0534A4SC.html"
+      },
+      {
+        "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/026/544.htm"
+      },
+      {
+        "title": "SpaceX与特斯拉合并，有新进展",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'",
+        "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
         "source": "France24 Technology",
-        "url": "https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade"
-      },
-      {
-        "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
-      },
-      {
-        "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506"
-      },
-      {
-        "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
-      },
-      {
-        "title": "Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a very hard place'",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/video/20261112-he-powers-and-bankrolls-ai-revolution-nvidia-ceo-huang-caught-between-rock-and-a-very-hard-place-1"
+        "url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe"
       }
     ],
     "hasPrevious": true
@@ -67,8 +47,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 827,
-    "globalRejected": 879,
+    "domesticRejected": 833,
+    "globalRejected": 880,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,13 +62,8 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -111,11 +86,6 @@
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -141,7 +111,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 103,
       "failed": false,
       "optional": false
     },
@@ -191,8 +161,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -389,18 +358,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1561,
+  "itemsSeen": 1481,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 283,
-  "itemsAfterDedupe": 206,
-  "todayItemsSeen": 73,
+  "itemsAfterRelevantFilter": 276,
+  "itemsAfterDedupe": 200,
+  "todayItemsSeen": 67,
   "suspectedItemsSeen": 11,
-  "skippedNonToday": 118,
+  "skippedNonToday": 119,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 103,
       "failed": false,
       "optional": false
     },
@@ -450,8 +419,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -803,11 +771,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -854,11 +817,11 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 970,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 175,
+  "globalItemsAfterRelevantFilter": 183,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 9,
+      "count": 6,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -869,31 +832,31 @@
       "items": [
         "王虹的导师拉里·古斯：AI时代，数学对我意味着什么",
         "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
-        "高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济",
-        "第九届央企优秀故事暨AIGC作品获奖名单发布",
-        "Hugging Face CEO 哀叹黄仁勋从英伟达离职：“令人无比难过的一天”，承诺继续力挺开源 AI"
+        "Hugging Face CEO 哀叹黄仁勋从英伟达离职：“令人无比难过的一天”，承诺继续力挺开源 AI",
+        "热点回应丨AI黑灯实验室，不止于“无人做实验”",
+        "明略科技(2718.HK)吴明辉谈AI投资下半场，算清A"
       ]
     },
     {
       "topic": "芯片动态",
-      "count": 15,
+      "count": 12,
       "sourceCount": 3,
       "sources": [
-        "IT之家",
         "新浪科技",
+        "IT之家",
         "网易科技"
       ],
       "items": [
+        "黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围",
+        "黄仁勋辞职后，英伟达总部外出现鲜花和蜡烛",
+        "突发｜英伟达官宣黄仁勋卸任，Cress任临时CEO",
         "消息称 Rapidus 考虑将 2nm 先进制程量产推迟至 2028 财年",
-        "黄仁勋辞职后 英伟达总部外出现鲜花和蜡烛",
-        "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”",
-        "第三段婚外情曝光！黄仁勋辞职后再遭爆料，对象仍是英伟达员工",
         "马斯克谈黄仁勋结束33年掌舵英伟达生"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 8,
+      "count": 9,
       "sourceCount": 3,
       "sources": [
         "IT之家",
@@ -903,9 +866,9 @@
       "items": [
         "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
         "长征二号丁运载火箭成功发射探源计划探路者卫星",
-        "特朗普曾提前与黄仁勋通话：保住职位！",
-        "小K快评：张一鸣的“差距说”，到底差在哪里？",
-        "邦盛科技CTO王新根出席ICITFS2026 分享风控智能体前沿"
+        "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
+        "豆包工作接入Kimi K3.1 Pro等多款第三方模型；",
+        "小K快评：张一鸣的“差距说”，到底差在哪里？"
       ]
     },
     {
@@ -930,8 +893,8 @@
       "count": 8,
       "sourceCount": 3,
       "sources": [
-        "新浪科技",
         "IT之家",
+        "新浪科技",
         "网易科技"
       ],
       "items": [
@@ -947,16 +910,31 @@
       "count": 7,
       "sourceCount": 3,
       "sources": [
-        "IT之家",
         "新浪科技",
+        "IT之家",
         "网易科技"
       ],
       "items": [
+        "芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU",
         "超 740 亿美元砸向 AI：马斯克的 SpaceX 不光造火箭，还要建超级算力帝国",
-        "11月13日隔夜要闻：美股收跌 油价上涨 英伟达官宣黄仁勋辞职",
         "中芯国际：预计2026年收入超过120亿美元 全球设",
         "不靠补贴、不增加他人成本：微软承诺其 AI 扩张电费将自己买单",
         "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "网易科技",
+        "科技日报",
+        "IT之家"
+      ],
+      "items": [
+        "大晓机器人发布ACE-CaP-0，真机操作任务成功率",
+        "这些机器人，水下显身手​",
+        "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯"
       ]
     },
     {
@@ -964,13 +942,13 @@
       "count": 3,
       "sourceCount": 3,
       "sources": [
-        "网易科技",
         "新浪科技",
+        "网易科技",
         "IT之家"
       ],
       "items": [
+        "SpaceX与特斯拉合并，有新进展",
         "SpaceX计划在亚利桑那州和德克萨斯州投资740亿",
-        "SpaceX特斯拉合并谈判最快或12月宣布",
         "有望改写人类火箭复用史：SpaceX 星舰明日第 15 次试飞，“筷子”首次挑战双级捕获"
       ]
     },
@@ -990,32 +968,6 @@
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "对话Web Summit CEO：中国商飞将使全球航空业受益",
-        "机器人双十一＂考场＂：大卖之后，交付和产线才是"
-      ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "科技日报",
-        "IT之家"
-      ],
-      "items": [
-        "这些机器人，水下显身手​",
-        "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯"
-      ]
-    },
-    {
       "topic": "新能源车与智能驾驶",
       "count": 2,
       "sourceCount": 2,
@@ -1029,19 +981,6 @@
       ]
     },
     {
-      "topic": "数字经济动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "微软365多个服务出现服务降级 官方称正逐步恢复受影响服务器",
-        "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等"
-      ]
-    },
-    {
       "topic": "商业航天与卫星互联网",
       "count": 2,
       "sourceCount": 1,
@@ -1051,6 +990,17 @@
       "items": [
         "长二丁发射成功，星舰“双回收”在即！卫星板块",
         "甘德一号记录残骸撞月轨迹，商业太空交管空间有"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "机器人双十一＂考场＂：大卖之后，交付和产线才是"
       ]
     },
     {
@@ -1073,6 +1023,17 @@
       ],
       "items": [
         "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini"
+      ]
+    },
+    {
+      "topic": "数字经济动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等"
       ]
     }
   ],
@@ -1143,7 +1104,7 @@
       "relatedTitles": [
         "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1211,7 +1172,7 @@
       "relatedTitles": [
         "王虹的导师拉里·古斯：AI时代，数学对我意味着什么"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1279,43 +1240,43 @@
       "relatedTitles": [
         "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "对话Web Summit CEO：中国商飞将使全球航空业受益",
-      "summary": "2026年国际网络峰会期间，Web Summit创始人兼CEO帕迪·科斯格雷夫对话新浪科技时表示，西方应多向中国学习，援引ASPI研究指出中国多技术领域领先度显著提升。当前中国企业占全球已部署人形机器人总量约98%，前十企业均为中国企业。他还提及中国商飞、航空发动机是未来十年值得关注的技术方向，认为AI模型将逐步商品化",
+      "title": "芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU",
+      "summary": "快科技11月13日消息，美国众议院议员比尔·福斯特近日向媒体透露，英伟达代表在私下会谈中承认，《芯片安全法》要求的反走私追踪技术是可以做到的。这与公开表态截然相反。2026年3月，英伟达所在的美国半导体行业协会曾明确反对该法案，称芯片追踪要...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml"
       ],
       "publishedAt": "2026-11-13",
       "date": "2026-11-13",
-      "category": "机器人",
-      "classificationConfidence": 0.74,
+      "category": "芯片",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 179,
-      "reporterScore": 193,
+      "score": 176,
+      "reporterScore": 184,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 8,
+        "visual": 0,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
@@ -1327,25 +1288,93 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "2026年国际网络峰会期间，Web Summit创始人兼CEO帕迪·科斯格雷夫对话新浪科技时表示，西方应多向中国学习，援引ASPI研究指出中国多技术领域领先度显著提升。当前中国企业占全球已部署人形机器人总量约98%，前十企业均为中国企业。他还提及中国商飞、航空发动机是未来十年值得关注的技术方向，认为AI模型将逐步商品化，同时指出欧洲需反思过时制度以适配科技竞争，建议创业者保持谦逊，重视大学科研的创新源头作用。(AI生成)",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "快科技11月13日消息，美国众议院议员比尔·福斯特近日向媒体透露，英伟达代表在私下会谈中承认，《芯片安全法》要求的反走私追踪技术是可以做到的。这与公开表态截然相反。2026年3月，英伟达所在的美国半导体行业协会曾明确反对该法案，称芯片追踪要...",
       "relatedTitles": [
-        "对话Web Summit CEO：中国商飞将使全球航空业受益"
+        "芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围",
+      "summary": "11月13日彭博社发布博文称，黄仁勋在董事会施压下辞去英伟达首席执行官职务后心力交瘁，昔日活力荡然无存，近期常将“随便吧”“我不在乎”挂在嘴边，离任最后阶段精力耗尽，以往强势主导局面的姿态已消退。黄仁勋执掌英伟达33年，事必躬亲将其打造成市值数万亿美元的人工智能芯片巨头，曾是AI时代领军人物。因深陷桃色丑闻，近期接触他",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "芯片",
+      "classificationConfidence": 0.9,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 11 月 13 日消息，科技媒体 AppleInsider 昨日（11 月 12 日）发布博文，报道称英伟达董事会已聘请外部机构物色新 CEO 候选人，而苹果芯片负责人约翰尼 · 斯鲁吉（Johny Srouji）已被列为潜在考虑...",
+      "relatedTitles": [
+        "黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围"
       ],
       "isNewSinceLastRun": true
     },
@@ -1415,6 +1444,210 @@
       "relatedTitles": [
         "长征二号丁运载火箭成功发射探源计划探路者卫星"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "大晓机器人发布ACE-CaP-0，真机操作任务成功率",
+      "summary": "大晓机器人发布ACE-CaP-0，真机操作任务成功率达92.1%,机器人,ace,cap,普通用户",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LBK1QNRK0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LBK1QNRK0534A4SC.html"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “大晓机器人发布ACE-CaP-0，真机操作任务成功率” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "大晓机器人发布ACE-CaP-0，真机操作任务成功率达92.1%,机器人,ace,cap,普通用户",
+      "relatedTitles": [
+        "大晓机器人发布ACE-CaP-0，真机操作任务成功率"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
+      "summary": "Axelera AI 表示，4U Titania 风冷服务器的 DeepSeek R1 每用户速度足以匹配 NVIDIA 的 Vera Rubin NVL72 液冷机架。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/026/544.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/026/544.htm"
+      ],
+      "publishedAt": "Fri, 13 Nov 2026 02:56:08 GMT",
+      "date": "2026-11-13",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Axelera AI 表示，4U Titania 风冷服务器的 DeepSeek R1 每用户速度足以匹配 NVIDIA 的 Vera Rubin NVL72 液冷机架。",
+      "relatedTitles": [
+        "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "SpaceX与特斯拉合并，有新进展",
+      "summary": "马斯克旗下SpaceX与特斯拉的合并谈判取得进展，最快或于今年12月公布交易，也可能延后至2027年初，合并评估工作于今年10月启动。12日美股收盘，特斯拉涨1.69%，SpaceX涨0.14%。合并需获特斯拉全部已发行股份50%支持，表决门槛较高。当前SpaceX市值约1.9万亿美元，特斯拉市值约1.57万亿美元，合",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "太空与低空",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX与特斯拉合并，有新进展” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "马斯克旗下SpaceX与特斯拉的合并谈判取得进展，最快或于今年12月公布交易，也可能延后至2027年初，合并评估工作于今年10月启动。12日美股收盘，特斯拉涨1.69%，SpaceX涨0.14%。合并需获特斯拉全部已发行股份50%支持，表决门槛较高。当前SpaceX市值约1.9万亿美元，特斯拉市值约1.57万亿美元，合计约3.47万亿美元。双方此前已在Terafab芯片项目、星链车载集成等领域合作，合并后将整合多类业务，后续还需应对交易细节磋商、跨国监管审批等挑战。(AI生成)",
+      "relatedTitles": [
+        "SpaceX与特斯拉合并，有新进展"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1483,111 +1716,43 @@
       "relatedTitles": [
         "超 740 亿美元砸向 AI：马斯克的 SpaceX 不光造火箭，还要建超级算力帝国"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济",
-      "summary": "高盛发布2027年经济展望，预计当年全球GDP增长2.8%，其中美国增2.4%、英国增1.4%。AI投资将成美国企业资本开支增长核心动力，推动实际企业固定投资增8%，2027年底美AI相关硬件及知识产权投资年化规模将达1.4万亿美元，相当于美GDP近4%。当前全球经济增长面临能源价涨、融资成本高、货币政策收紧等风险，高",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "这些机器人，水下显身手​",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 这些机器人，水下显身手​ 2026-11-13 09:42:28 来源: 人民日报海外版 点击数： 热点",
+      "source": "科技日报",
       "sources": [
-        "新浪科技"
+        "科技日报"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml",
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-11/13/content_612597.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml"
+        "https://www.stdaily.com/web/gdxw/2026-11/13/content_612597.html"
       ],
       "publishedAt": "2026-11-13",
       "date": "2026-11-13",
-      "category": "AI",
-      "classificationConfidence": 0.68,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 172,
-      "reporterScore": 188,
+      "score": 173,
+      "reporterScore": 187,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 90,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 18,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 130
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "高盛发布2027年经济展望，预计当年全球GDP增长2.8%，其中美国增2.4%、英国增1.4%。AI投资将成美国企业资本开支增长核心动力，推动实际企业固定投资增8%，2027年底美AI相关硬件及知识产权投资年化规模将达1.4万亿美元，相当于美GDP近4%。当前全球经济增长面临能源价涨、融资成本高、货币政策收紧等风险，高盛上调美联储加息预期，整体经济增长风险偏向下行，AI投资能否抵消高利率与能源成本负面影响是关键。(AI生成)",
-      "relatedTitles": [
-        "高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特朗普曾提前与黄仁勋通话：保住职位！",
-      "summary": "美东时间周二，在黄仁勋因两段婚外情曝光即将卸任英伟达CEO前夕，特朗普致电劝其保住职位，这是特朗普力挺黄仁勋的最新举动。黄仁勋现为特朗普阵营知名盟友、AI领域核心顾问，特朗普担忧其卸任引发股市大幅回调，认为英伟达命运与美国经济、股市深度绑定。英伟达垄断至少80%先进大模型训练芯片市场，2025年黄仁勋表态将在美国落地最",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1061295.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1061295.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "AI",
-      "classificationConfidence": 0.95,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
+        "visual": 8,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
@@ -1599,27 +1764,27 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
+        "hardTechWeight": 90,
+        "reporterScore": 123
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普曾提前与黄仁勋通话：保住职位！” against primary-source evidence.",
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “这些机器人，水下显身手​” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "美东时间周二，在黄仁勋因两段婚外情曝光即将卸任英伟达CEO前夕，特朗普致电劝其保住职位，这是特朗普力挺黄仁勋的最新举动。黄仁勋现为特朗普阵营知名盟友、AI领域核心顾问，特朗普担忧其卸任引发股市大幅回调，认为英伟达命运与美国经济、股市深度绑定。英伟达垄断至少80%先进大模型训练芯片市场，2025年黄仁勋表态将在美国落地最高5000亿美元AI基础设施产能，二人从两年前几无交集发展为深度绑定的政商盟友。(AI生成)",
+      "matchedTopic": "机器人动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 这些机器人，水下显身手​ 2026-11-13 09:42:28 来源: 人民日报海外版 点击数： 热点",
       "relatedTitles": [
-        "特朗普曾提前与黄仁勋通话：保住职位！"
+        "这些机器人，水下显身手​"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1687,7 +1852,7 @@
       "relatedTitles": [
         "中芯国际赵海军：AI 算力供不应求，2027 年半导体代工产能将非常紧缺"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1755,7 +1920,7 @@
       "relatedTitles": [
         "中芯国际赵海军：中国客户需求增速高于公司整体"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1822,6 +1987,142 @@
       "rawText": "中芯国际：人工智能需求有望拉长半导体上行周期,半导体,产业链,中芯国际,人工智能芯片",
       "relatedTitles": [
         "中芯国际：人工智能需求有望拉长半导体上行周期"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "黄仁勋辞职后，英伟达总部外出现鲜花和蜡烛",
+      "summary": "11月12日科技媒体Business Insider报道，美国加州圣克拉拉英伟达总部标志前被摆放鲜花与玻璃罐装白蜡烛，被外界视为致敬刚辞任CEO的联合创始人黄仁勋。黄仁勋执掌英伟达33年，是公司成长为全球AI算力核心供应商的关键人物，其离任引发员工震动失落，部分员工落泪，内部弥漫对公司未来的焦虑。此前11月9日-10日",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqk8071573.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqk8071573.shtml"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “黄仁勋辞职后，英伟达总部外出现鲜花和蜡烛” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "11月12日科技媒体Business Insider报道，美国加州圣克拉拉英伟达总部标志前被摆放鲜花与玻璃罐装白蜡烛，被外界视为致敬刚辞任CEO的联合创始人黄仁勋。黄仁勋执掌英伟达33年，是公司成长为全球AI算力核心供应商的关键人物，其离任引发员工震动失落，部分员工落泪，内部弥漫对公司未来的焦虑。此前11月9日-10日Blind对232名英伟达员工的调查显示，88%受访者希望黄仁勋留任，该样本不代表全体员工意见；另一项覆盖1689名各行业人士的调查显示，60%受访者支持其留任。(AI生成)",
+      "relatedTitles": [
+        "黄仁勋辞职后，英伟达总部外出现鲜花和蜡烛"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "突发｜英伟达官宣黄仁勋卸任，Cress任临时CEO",
+      "summary": "【iMobile爱科技资讯】11月12日英伟达董事会发布公告，黄仁勋辞去公司总裁、首席执行官及董事职务，辞呈即刻生效。公司执行副总裁兼首席财务官科莱特・克雷斯出任临时CEO，在董事会选出正式继任者之前，她将继续兼任执行副总裁与CFO。目前董...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1116218.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1116218.shtml"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突发｜英伟达官宣黄仁勋卸任，Cress任临时CEO” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "【iMobile爱科技资讯】11月12日英伟达董事会发布公告，黄仁勋辞去公司总裁、首席执行官及董事职务，辞呈即刻生效。公司执行副总裁兼首席财务官科莱特・克雷斯出任临时CEO，在董事会选出正式继任者之前，她将继续兼任执行副总裁与CFO。目前董...",
+      "relatedTitles": [
+        "突发｜英伟达官宣黄仁勋卸任，Cress任临时CEO"
       ],
       "isNewSinceLastRun": true
     },
@@ -1891,7 +2192,7 @@
       "relatedTitles": [
         "中芯国际赵海军：智能手机和消费电子需求仍较为疲弱，本土化切换带动三领域增长"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1958,6 +2259,74 @@
       "rawText": "有消息称 Rapidus 在集成晶体管与其它元件的技术研发上面临重重阻碍，无法实现高性能目标；另有消息传出 Rapidus 正努力提高芯片良率。",
       "relatedTitles": [
         "消息称 Rapidus 考虑将 2nm 先进制程量产推迟至 2028 财年"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "豆包工作接入Kimi K3.1 Pro等多款第三方模型；",
+      "summary": "豆包工作接入Kimi K3.1 Pro等多款第三方模型；自变量GreatWall通用具身大模型完成备案｜未来商业早参,字节,张一鸣,kimi,豆包图像",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LBJJ9QBI0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LBJJ9QBI0512B07B.html"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “豆包工作接入Kimi K3.1 Pro等多款第三方模型；” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "豆包工作接入Kimi K3.1 Pro等多款第三方模型；自变量GreatWall通用具身大模型完成备案｜未来商业早参,字节,张一鸣,kimi,豆包图像",
+      "relatedTitles": [
+        "豆包工作接入Kimi K3.1 Pro等多款第三方模型；"
       ],
       "isNewSinceLastRun": true
     },
@@ -2027,22 +2396,22 @@
       "relatedTitles": [
         "小K快评：张一鸣的“差距说”，到底差在哪里？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "这些机器人，水下显身手​",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 这些机器人，水下显身手​ 2026-11-13 09:42:28 来源: 人民日报海外版 点击数： 热点",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
+      "summary": "法拉第未来旗下 FFR 披露 2026 年前九月机器人业务营收约 230 万美元，毛利率约 26%。公司计划 2027 年一季度进入芝加哥、达拉斯市场，并推进美国本土生产。#法拉第未来#",
+      "source": "IT之家",
       "sources": [
-        "科技日报"
+        "IT之家"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-11/13/content_612597.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/026/471.htm",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-11/13/content_612597.html"
+        "https://www.ithome.com/1/026/471.htm"
       ],
-      "publishedAt": "2026-11-13",
+      "publishedAt": "Fri, 13 Nov 2026 00:04:39 GMT",
       "date": "2026-11-13",
       "category": "机器人",
       "classificationConfidence": 0.75,
@@ -2060,8 +2429,8 @@
       "scoreBreakdown": {
         "hardTech": 90,
         "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 12,
+        "sourceAuthority": 8,
+        "multiSource": 22,
         "cgtFocus": 0,
         "visual": 8,
         "international": 9,
@@ -2088,14 +2457,14 @@
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “这些机器人，水下显身手​” against primary-source evidence.",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "机器人动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 这些机器人，水下显身手​ 2026-11-13 09:42:28 来源: 人民日报海外版 点击数： 热点",
+      "rawText": "法拉第未来旗下 FFR 披露 2026 年前九月机器人业务营收约 230 万美元，毛利率约 26%。公司计划 2027 年一季度进入芝加哥、达拉斯市场，并推进美国本土生产。#法拉第未来#",
       "relatedTitles": [
-        "这些机器人，水下显身手​"
+        "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2163,143 +2532,7 @@
       "relatedTitles": [
         "机器人双十一＂考场＂：大卖之后，交付和产线才是"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "黄仁勋辞职后 英伟达总部外出现鲜花和蜡烛",
-      "summary": "美国加州圣克拉拉英伟达总部外，有人在公司标志前摆放多束鲜花，还放置了一支装在玻璃罐中的白色蜡烛，被外界视为向AI时代标志性人物黄仁勋致敬。现场画面显示，一名路人将玻璃罐装蜡烛放在“NVIDIA”标志前，鲜花整齐靠在标志下方，这些物品未附带留言，被外界视作向刚刚辞去首席执行官职务的联合创始人黄仁勋表达告别与致敬。(AI生",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqk8099984.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqk8099984.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.81,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋辞职后 英伟达总部外出现鲜花和蜡烛” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "美国加州圣克拉拉英伟达总部外，有人在公司标志前摆放多束鲜花，还放置了一支装在玻璃罐中的白色蜡烛，被外界视为向AI时代标志性人物黄仁勋致敬。现场画面显示，一名路人将玻璃罐装蜡烛放在“NVIDIA”标志前，鲜花整齐靠在标志下方，这些物品未附带留言，被外界视作向刚刚辞去首席执行官职务的联合创始人黄仁勋表达告别与致敬。(AI生成)",
-      "relatedTitles": [
-        "黄仁勋辞职后 英伟达总部外出现鲜花和蜡烛"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "11月13日隔夜要闻：美股收跌 油价上涨 英伟达官宣黄仁勋辞职",
-      "summary": "11月13日美股三大股指集体收跌约0.4%，英伟达跌超4%，以1186亿美元成交额居美股当日成交额前20榜首，AMD、博通逆势上涨；热门中概股普跌，阿里巴巴跌超7%，BOSS直聘暴跌25%。英伟达官宣黄仁勋辞职，CFO临时接任，分析师纷纷下调其评级。 大宗商品方面油价上涨，铜、金下挫，特朗普称美国无需与伊朗达成协议；欧",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypvhf1021853.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypvhf1021853.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.81,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “11月13日隔夜要闻：美股收跌 油价上涨 英伟达官宣黄仁勋辞职” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "11月13日美股三大股指集体收跌约0.4%，英伟达跌超4%，以1186亿美元成交额居美股当日成交额前20榜首，AMD、博通逆势上涨；热门中概股普跌，阿里巴巴跌超7%，BOSS直聘暴跌25%。英伟达官宣黄仁勋辞职，CFO临时接任，分析师纷纷下调其评级。 大宗商品方面油价上涨，铜、金下挫，特朗普称美国无需与伊朗达成协议；欧洲股市创历史新高，资金受英伟达风波推动从AI板块转向欧洲市场。微软多项服务大规模故障，Outlook异常报告超13万起；币安全额补齐63亿美元被盗资产。美国250亿美元30年期国债拍卖需求不及预期，中标收益率升至5.441%，美元创下2026年新高。SpaceX与特斯拉合并谈判进展顺利，最早12月官宣，SpaceX计划投740亿美元在亚利桑那、德克萨斯建数据中心。(AI生成)",
-      "relatedTitles": [
-        "11月13日隔夜要闻：美股收跌 油价上涨 英伟达官宣黄仁勋辞职"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2367,143 +2600,7 @@
       "relatedTitles": [
         "邦盛科技CTO王新根出席ICITFS2026 分享风控智能体前沿"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”",
-      "summary": "IT之家 11 月 13 日消息，AMD 官方 X 账号今日发文，祝贺 AMD 董事长兼 CEO 苏姿丰获评“年度最佳 CEO”称号。这一称号由“全球最大的商业新闻平台”雅虎财经评选得出，该媒体指出，苏姿丰 2026 年改变游戏规则的经历，...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqc1101718.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqc1101718.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD 发文祝贺苏姿丰获评“年度最佳 CEO”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 11 月 13 日消息，AMD 官方 X 账号今日发文，祝贺 AMD 董事长兼 CEO 苏姿丰获评“年度最佳 CEO”称号。这一称号由“全球最大的商业新闻平台”雅虎财经评选得出，该媒体指出，苏姿丰 2026 年改变游戏规则的经历，...",
-      "relatedTitles": [
-        "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "第三段婚外情曝光！黄仁勋辞职后再遭爆料，对象仍是英伟达员工",
-      "summary": "【TechWeb】黄仁勋的婚外情风波再添新料。美国媒体最新跟进报道指出，黄仁勋此前还曾与英伟达内部另一名员工保持过一段从未被公开的亲密关系——而且，这名员工与此前已被媒体点名的两名相关女性完全不是同一人。这意味着，黄仁勋隐而未宣的相关私人关...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3738393.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3738393.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “第三段婚外情曝光！黄仁勋辞职后再遭爆料，对象仍是英伟达员工” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "【TechWeb】黄仁勋的婚外情风波再添新料。美国媒体最新跟进报道指出，黄仁勋此前还曾与英伟达内部另一名员工保持过一段从未被公开的亲密关系——而且，这名员工与此前已被媒体点名的两名相关女性完全不是同一人。这意味着，黄仁勋隐而未宣的相关私人关...",
-      "relatedTitles": [
-        "第三段婚外情曝光！黄仁勋辞职后再遭爆料，对象仍是英伟达员工"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2571,7 +2668,7 @@
       "relatedTitles": [
         "马斯克谈黄仁勋结束33年掌舵英伟达生"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2639,75 +2736,7 @@
       "relatedTitles": [
         "中芯国际：预计2026年收入超过120亿美元 全球设"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "第九届央企优秀故事暨AIGC作品获奖名单发布",
-      "summary": "11月13日消息，第九届中央企业优秀故事暨2026AIGC创意传播作品发布展示活动在北京举行。现场发布了第九届中央企业优秀故事作品名单，包括卓越作品40个、精选作品100个、新锐作品150个，以及10个优秀传播案例和10位优秀故事讲述者...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/roll/2026-11-13/doc-iniypzqm3747462.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/roll/2026-11-13/doc-iniypzqm3747462.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “第九届央企优秀故事暨AIGC作品获奖名单发布” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "11月13日消息，第九届中央企业优秀故事暨2026AIGC创意传播作品发布展示活动在北京举行。现场发布了第九届中央企业优秀故事作品名单，包括卓越作品40个、精选作品100个、新锐作品150个，以及10个优秀传播案例和10位优秀故事讲述者...",
-      "relatedTitles": [
-        "第九届央企优秀故事暨AIGC作品获奖名单发布"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2775,75 +2804,7 @@
       "relatedTitles": [
         "不靠补贴、不增加他人成本：微软承诺其 AI 扩张电费将自己买单"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
-      "summary": "IT之家 11 月 13 日消息，彭博社今天（11 月 13 日）发布博文，报道称黄仁勋在董事会施压下，辞去英伟达首席执行官职务之后心力交瘁，昔日的活力荡然无存。据一位知情人士透露，黄仁勋此前雷厉风行，但近期开始把“随便吧”和“我不在乎”之...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqc1101162.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqc1101162.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind ““我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 11 月 13 日消息，彭博社今天（11 月 13 日）发布博文，报道称黄仁勋在董事会施压下，辞去英伟达首席执行官职务之后心力交瘁，昔日的活力荡然无存。据一位知情人士透露，黄仁勋此前雷厉风行，但近期开始把“随便吧”和“我不在乎”之...",
-      "relatedTitles": [
-        "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2910,6 +2871,74 @@
       "rawText": "谷歌发布 Gemini 4 Hydrogen 反杀旗舰 速度提升 2.5 倍,谷歌,工作流,智能体,gemini,层级,hydrogen",
       "relatedTitles": [
         "谷歌发布 Gemini 4 Hydrogen 反杀旗舰 速度提升 2.5 倍"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘",
+      "summary": "比亚迪法务部披露多起网络侵权案件，多人因造谣诋毁被行拘，现以最高 500 万悬赏征集 MCN 有组织抹黑线索，已保全证据启动追责。#比亚迪反黑公关#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/026/515.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/026/515.htm"
+      ],
+      "publishedAt": "Fri, 13 Nov 2026 02:02:18 GMT",
+      "date": "2026-11-13",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "比亚迪法务部披露多起网络侵权案件，多人因造谣诋毁被行拘，现以最高 500 万悬赏征集 MCN 有组织抹黑线索，已保全证据启动追责。#比亚迪反黑公关#",
+      "relatedTitles": [
+        "比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘"
       ],
       "isNewSinceLastRun": true
     },
@@ -2979,7 +3008,7 @@
       "relatedTitles": [
         "消息称英伟达前 CEO 黄仁勋同意在感恩节前赴国会作证，具体日期仍在协商"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3047,7 +3076,7 @@
       "relatedTitles": [
         "中芯国际赵海军：第三季度平均晶圆单价环比提升 1.8%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3115,7 +3144,7 @@
       "relatedTitles": [
         "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3183,7 +3212,77 @@
       "relatedTitles": [
         "快讯：开盘半小时两市缩量超600亿 创业板指探底回升翻红 科创50指数涨超2%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接",
+      "summary": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接班人浮出水面，4000亿美元AI融资网络牵动市场神经,微软,巴克,黄仁勋,gpu,知名企业,英伟达芯片,英伟达ceo",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LBIT1J9H0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LBIT1J9H0512B07B.html",
+        "https://www.163.com/dy/article/LBK1LDA90512B07B.html"
+      ],
+      "publishedAt": "2026-11-13",
+      "date": "2026-11-13",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接班人浮出水面，4000亿美元AI融资网络牵动市场神经,微软,巴克,黄仁勋,gpu,知名企业,英伟达芯片,英伟达ceo",
+      "relatedTitles": [
+        "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接",
+        "优必选与沐曦股份合资芯片公司获5亿元融资，对"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3251,7 +3350,7 @@
       "relatedTitles": [
         "光刻机概念表现活跃 波长光电涨超13%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3319,7 +3418,7 @@
       "relatedTitles": [
         "存储超级周期延续，南方基金旗下科创芯片ETF南"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3387,75 +3486,7 @@
       "relatedTitles": [
         "“AI央行”大地震，冲击会沿融资链传多远？"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接",
-      "summary": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接班人浮出水面，4000亿美元AI融资网络牵动市场神经,微软,巴克,黄仁勋,gpu,知名企业,英伟达芯片,英伟达ceo",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/LBIT1J9H0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/LBIT1J9H0512B07B.html"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接班人浮出水面，4000亿美元AI融资网络牵动市场神经,微软,巴克,黄仁勋,gpu,知名企业,英伟达芯片,英伟达ceo",
-      "relatedTitles": [
-        "黄仁勋辞任英伟达CEO！CFO临时接棒，四大潜在接"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3523,92 +3554,24 @@
       "relatedTitles": [
         "SpaceX计划在亚利桑那州和德克萨斯州投资740亿"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
-      "summary": "法拉第未来旗下 FFR 披露 2026 年前九月机器人业务营收约 230 万美元，毛利率约 26%。公司计划 2027 年一季度进入芝加哥、达拉斯市场，并推进美国本土生产。#法拉第未来#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/026/471.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/026/471.htm"
-      ],
-      "publishedAt": "Fri, 13 Nov 2026 00:04:39 GMT",
-      "date": "2026-11-13",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "法拉第未来旗下 FFR 披露 2026 年前九月机器人业务营收约 230 万美元，毛利率约 26%。公司计划 2027 年一季度进入芝加哥、达拉斯市场，并推进美国本土生产。#法拉第未来#",
-      "relatedTitles": [
-        "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "SpaceX特斯拉合并谈判最快或12月宣布",
-      "summary": "11月13日，据报道，SpaceX与特斯拉的合并谈判正在推进，双方董事会及顾问正敲定交易条款和合并后公司的治理架构等事项，双方最快可能于12月宣布这笔交易，也可能推迟至2027年初。合并将把电动汽车、储能电池、火箭和卫星业务整合至同一集团，...",
+      "title": "DLSS迎来新对手！全新AI帧生成技术号称快2.4倍：N卡A卡Intel都能用",
+      "summary": "快科技11月13日消息，AI计算公司Apex Compute近日公布全新神经渲染技术Apex Neural Rendering（ANR），声称其帧生成性能相比DLSS快了2.4倍，同时兼容NVIDIA、AMD及Intel多家厂商的显卡。AN...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3743961.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyqfwi3658363.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3743961.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyqfwi3658363.shtml"
       ],
       "publishedAt": "2026-11-13",
       "date": "2026-11-13",
-      "category": "太空与低空",
+      "category": "芯片",
       "classificationConfidence": 0.84,
       "classificationEvidence": [
         "title",
@@ -3616,18 +3579,18 @@
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 164,
+      "score": 155,
+      "reporterScore": 155,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
+        "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
@@ -3639,25 +3602,25 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX特斯拉合并谈判最快或12月宣布” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DLSS迎来新对手！全新AI帧生成技术号称快2.4倍：N卡A卡Intel都能用” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "11月13日，据报道，SpaceX与特斯拉的合并谈判正在推进，双方董事会及顾问正敲定交易条款和合并后公司的治理架构等事项，双方最快可能于12月宣布这笔交易，也可能推迟至2027年初。合并将把电动汽车、储能电池、火箭和卫星业务整合至同一集团，...",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技11月13日消息，AI计算公司Apex Compute近日公布全新神经渲染技术Apex Neural Rendering（ANR），声称其帧生成性能相比DLSS快了2.4倍，同时兼容NVIDIA、AMD及Intel多家厂商的显卡。AN...",
       "relatedTitles": [
-        "SpaceX特斯拉合并谈判最快或12月宣布"
+        "DLSS迎来新对手！全新AI帧生成技术号称快2.4倍：N卡A卡Intel都能用"
       ],
       "isNewSinceLastRun": true
     },
@@ -3727,7 +3690,7 @@
       "relatedTitles": [
         "长二丁发射成功，星舰“双回收”在即！卫星板块"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3795,7 +3758,7 @@
       "relatedTitles": [
         "甘德一号记录残骸撞月轨迹，商业太空交管空间有"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3862,6 +3825,74 @@
       "rawText": "黄仁勋昨日（11 月 12 日）辞去英伟达总裁、首席执行官及董事职务，即刻生效。Hugging Face 首席执行官克莱芒 · 德朗格（Clement Delangue）随即在领英发文，称这是“令人无比难过的一天”，并表示将继续更坚定地推动开源人工智能。",
       "relatedTitles": [
         "Hugging Face CEO 哀叹黄仁勋从英伟达离职：“令人无比难过的一天”，承诺继续力挺开源 AI"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”",
+      "summary": "AMD 官方 X 账号今日发文，祝贺 AMD 董事长兼 CEO 苏姿丰获评“年度最佳 CEO”称号。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/026/532.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/026/532.htm"
+      ],
+      "publishedAt": "Fri, 13 Nov 2026 02:35:46 GMT",
+      "date": "2026-11-13",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD 发文祝贺苏姿丰获评“年度最佳 CEO”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "AMD 官方 X 账号今日发文，祝贺 AMD 董事长兼 CEO 苏姿丰获评“年度最佳 CEO”称号。",
+      "relatedTitles": [
+        "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”"
       ],
       "isNewSinceLastRun": true
     },
@@ -3931,7 +3962,7 @@
       "relatedTitles": [
         "量子计算能让AI更便宜吗？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3999,7 +4030,7 @@
       "relatedTitles": [
         "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -4067,75 +4098,7 @@
       "relatedTitles": [
         "热点回应丨AI黑灯实验室，不止于“无人做实验”"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘",
-      "summary": "11月13日比亚迪法务部发布公告，披露近期多起网络侵权案件进展：冯某、季某、姜某因编造散布不实信息、发布侮辱诋毁言论被处拘留；“娱乐”“车界”等多个账号被判侵权，需公开道歉并赔偿。数十家MCN机构旗下账号靠AI生成同质化内容、以“辟谣式传谣”抹黑比亚迪，比亚迪已完成证据保全正追责。其针对MCN有组织抹黑线索悬赏50万-",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3728275.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3728275.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "11月13日比亚迪法务部发布公告，披露近期多起网络侵权案件进展：冯某、季某、姜某因编造散布不实信息、发布侮辱诋毁言论被处拘留；“娱乐”“车界”等多个账号被判侵权，需公开道歉并赔偿。数十家MCN机构旗下账号靠AI生成同质化内容、以“辟谣式传谣”抹黑比亚迪，比亚迪已完成证据保全正追责。其针对MCN有组织抹黑线索悬赏50万-500万元，其他合规线索悬赏5万-500万元，举报渠道为@比亚迪新闻打假办公室及指定邮箱。该悬赏机制2021年12月启动，2022年6月起上限提至500万元，比亚迪称将持续以法律手段维权。(AI生成)",
-      "relatedTitles": [
-        "比亚迪悬赏 50 万至 500 万元征集 MCN 黑公关线索，已有多人被拘"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -4203,7 +4166,7 @@
       "relatedTitles": [
         "有望改写人类火箭复用史：SpaceX 星舰明日第 15 次试飞，“筷子”首次挑战双级捕获"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -4271,75 +4234,7 @@
       "relatedTitles": [
         "比亚迪公开第二代海豹 07 车型 AES 自动紧急转向测试视频，90~130km/h 避让成功"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "两位接手英伟达的硅谷老将，会如何定位英伟达？",
-      "summary": "英伟达官宣黄仁勋卸任，其卸任后，英伟达周四市值蒸发约2000亿美元。此次变动由曾早年指点黄仁勋、1993年起便任职英伟达董事会的哈维·琼斯推动，琼斯出任新设立的董事会主席，持有超700万股英伟达股票，价值超10亿美元。CFO科莱特·克雷斯临时接任CEO，她2013年加入英伟达，曾主导数百亿美元AI生态布局，持有约480",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqm3736970.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqm3736970.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “两位接手英伟达的硅谷老将，会如何定位英伟达？” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "英伟达官宣黄仁勋卸任，其卸任后，英伟达周四市值蒸发约2000亿美元。此次变动由曾早年指点黄仁勋、1993年起便任职英伟达董事会的哈维·琼斯推动，琼斯出任新设立的董事会主席，持有超700万股英伟达股票，价值超10亿美元。CFO科莱特·克雷斯临时接任CEO，她2013年加入英伟达，曾主导数百亿美元AI生态布局，持有约480万股英伟达股票，价值约8亿美元。二人需稳住身处AI浪潮核心的英伟达，同时物色黄仁勋的继任者。(AI生成)",
-      "relatedTitles": [
-        "两位接手英伟达的硅谷老将，会如何定位英伟达？"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -4407,7 +4302,7 @@
       "relatedTitles": [
         "主机独占不再！AMD向PC厂商开放次世代主机GPU：带宽冲到770GB/s"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -4475,279 +4370,7 @@
       "relatedTitles": [
         "AMD新一代核显性能起飞！GDDR7显存加持：Zen 6+RDNA 5双升级"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "部分员工落泪、88%支持留任：黄仁勋辞职后英伟达内部情绪实录",
-      "summary": "【TechWeb】黄仁勋辞职了，但在英伟达总部外，有人为他留下了鲜花和蜡烛。据Business Insider报道，当地时间周四，在加州圣克拉拉的英伟达总部，有人将多束鲜花整齐摆放在\"NVIDIA\"公司标志下方，一名男子还将...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1088374.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1088374.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “部分员工落泪、88%支持留任：黄仁勋辞职后英伟达内部情绪实录” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "【TechWeb】黄仁勋辞职了，但在英伟达总部外，有人为他留下了鲜花和蜡烛。据Business Insider报道，当地时间周四，在加州圣克拉拉的英伟达总部，有人将多束鲜花整齐摆放在\"NVIDIA\"公司标志下方，一名男子还将...",
-      "relatedTitles": [
-        "部分员工落泪、88%支持留任：黄仁勋辞职后英伟达内部情绪实录"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "NVIDIA显卡限制惨遭破解：8GB显存秒变80GB！10张能成功9张",
-      "summary": "快科技11月13日消息，研究者Kate利用电压故障注入技术，成功解锁NVIDIA CMP 170HX矿卡原本被禁用的显存及计算单元，将标称8GB显存的矿卡改造成具备80GB显存的A100级计算卡。CMP 170HX是NVIDIA推出的挖矿产...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3741772.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3741772.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use export controls and supply-chain resilience as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “NVIDIA显卡限制惨遭破解：8GB显存秒变80GB！10张能成功9张” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "快科技11月13日消息，研究者Kate利用电压故障注入技术，成功解锁NVIDIA CMP 170HX矿卡原本被禁用的显存及计算单元，将标称8GB显存的矿卡改造成具备80GB显存的A100级计算卡。CMP 170HX是NVIDIA推出的挖矿产...",
-      "relatedTitles": [
-        "NVIDIA显卡限制惨遭破解：8GB显存秒变80GB！10张能成功9张"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "黄仁勋辞职！英伟达内部调查反转 88%员工希望他留任",
-      "summary": "英伟达刚刚宣布黄仁勋辞去公司总裁、CEO及董事职务。此前相关调查显示，黄仁勋在公司内部员工与科技圈仍享有极高支持率：针对232名英伟达员工的Blind匿名调查显示，88%的员工希望黄仁勋继续担任CEO，11%认为他应自愿辞职，仅1%希望董事会直接罢免他；针对1689名科技专业人士的独立调查显示，60%受访者支持黄仁勋留",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3730323.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3730323.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋辞职！英伟达内部调查反转 88%员工希望他留任” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "英伟达刚刚宣布黄仁勋辞去公司总裁、CEO及董事职务。此前相关调查显示，黄仁勋在公司内部员工与科技圈仍享有极高支持率：针对232名英伟达员工的Blind匿名调查显示，88%的员工希望黄仁勋继续担任CEO，11%认为他应自愿辞职，仅1%希望董事会直接罢免他；针对1689名科技专业人士的独立调查显示，60%受访者支持黄仁勋留任，可见其在内部团队及行业同仁中仍有深厚广泛的支持基础。(AI生成)",
-      "relatedTitles": [
-        "黄仁勋辞职！英伟达内部调查反转 88%员工希望他留任"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "海信集团董事长贾少谦出席福耀集团50周年志庆，对话创始人曹德旺：AI+质量构筑可持续的“质造力”！",
-      "summary": "11月12日，福耀集团创业50周年志庆开幕式在福耀科技大学举行，海信集团董事长贾少谦受邀出席开幕式，在福耀科技大学主办的盖雅论坛上与福耀集团创始人、终身荣誉董事长曹德旺，福耀科技大学校长王树国等企业家、学者对话，并作《AI+质量，重...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqk8080459.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqk8080459.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “海信集团董事长贾少谦出席福耀集团50周年志庆，对话创始人曹德旺：AI+质量构筑可持续的“质造力”！” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "11月12日，福耀集团创业50周年志庆开幕式在福耀科技大学举行，海信集团董事长贾少谦受邀出席开幕式，在福耀科技大学主办的盖雅论坛上与福耀集团创始人、终身荣誉董事长曹德旺，福耀科技大学校长王树国等企业家、学者对话，并作《AI+质量，重...",
-      "relatedTitles": [
-        "海信集团董事长贾少谦出席福耀集团50周年志庆，对话创始人曹德旺：AI+质量构筑可持续的“质造力”！"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -4815,7 +4438,7 @@
       "relatedTitles": [
         "黄仁勋辞职英伟达！韩路：能否像乔布斯那样杀回来"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -4883,7 +4506,7 @@
       "relatedTitles": [
         "明略科技(2718.HK)吴明辉谈AI投资下半场，算清A"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -4951,7 +4574,7 @@
       "relatedTitles": [
         "百度李彦宏：岗位不会消失但会收敛；长鑫科技副"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -5019,7 +4642,7 @@
       "relatedTitles": [
         "李彦宏谈AI时代的“智能组织”，百度自己还在寻"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -5087,7 +4710,7 @@
       "relatedTitles": [
         "英伟达对手公司大涨"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5155,7 +4778,7 @@
       "relatedTitles": [
         "路透社：黄仁勋与不止一位公司员工存在亲密关系，英伟达拒绝置评"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -5223,7 +4846,7 @@
       "relatedTitles": [
         "我科研团队发现调控外周免疫细胞抗肿瘤新机制"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -5291,12 +4914,12 @@
       "relatedTitles": [
         "悬赏上限提至500万：比亚迪向有组织抹黑行为全面宣战"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "发财机会到！比亚迪最高悬赏500万征集线索：多名造谣者被拘",
-      "summary": "快科技11月13日消息，今日，比亚迪法务部对外公布了一批网络侵权维权案件进展，持续整治网络造谣抹黑行为，同时推出高额悬赏机制征集黑公关线索，最高奖励可达500万元。通报显示，已有多名恶意造谣、诋毁品牌的人员受到法律惩处。冯某、季某刻意编造虚...",
+      "summary": "11月13日比亚迪法务部公布一批网络侵权维权案件进展，整治造谣抹黑行为，推出最高500万元的黑公关线索悬赏机制。通报显示，冯某、季某、姜某等多名恶意造谣诋毁人员已被警方拘留，多个涉诋毁内容的网络账号被法院判定侵权，需公开致歉并承担经济赔偿。比亚迪还发现数十家MCN机构旗下账号借AI批量生成雷同抹黑内容，已固定证据将追责",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -5309,7 +4932,7 @@
       "publishedAt": "2026-11-13",
       "date": "2026-11-13",
       "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
@@ -5355,11 +4978,11 @@
       "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “发财机会到！比亚迪最高悬赏500万征集线索：多名造谣者被拘” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "快科技11月13日消息，今日，比亚迪法务部对外公布了一批网络侵权维权案件进展，持续整治网络造谣抹黑行为，同时推出高额悬赏机制征集黑公关线索，最高奖励可达500万元。通报显示，已有多名恶意造谣、诋毁品牌的人员受到法律惩处。冯某、季某刻意编造虚...",
+      "rawText": "11月13日比亚迪法务部公布一批网络侵权维权案件进展，整治造谣抹黑行为，推出最高500万元的黑公关线索悬赏机制。通报显示，冯某、季某、姜某等多名恶意造谣诋毁人员已被警方拘留，多个涉诋毁内容的网络账号被法院判定侵权，需公开致歉并承担经济赔偿。比亚迪还发现数十家MCN机构旗下账号借AI批量生成雷同抹黑内容，已固定证据将追责。其设置分级奖励，查实MCN策划抹黑线索奖励50万至500万元，公众可通过指定渠道提交线索，比亚迪称将持续依法维权。(AI生成)",
       "relatedTitles": [
         "发财机会到！比亚迪最高悬赏500万征集线索：多名造谣者被拘"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -5427,7 +5050,7 @@
       "relatedTitles": [
         "“超量子”湍流现象首获观测"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -5495,7 +5118,7 @@
       "relatedTitles": [
         "比亚迪公示网络侵权维权进展：多人被拘留"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5563,7 +5186,7 @@
       "relatedTitles": [
         "22.5~26 万元比亚迪第三代唐预售：定位大五座旗舰 SUV 车型，续航 770~850km"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5631,7 +5254,7 @@
       "relatedTitles": [
         "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5699,12 +5322,12 @@
       "relatedTitles": [
         "消息称方程豹钛 9 车型 11 月 19 日上市，比亚迪闪充技术 + 二代刀片电池"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "“甜甜圈”实锤：人类首张黑洞照片通过新算法复核",
-      "summary": "根据 11 月 11 日发表于《自然》（Nature）最新研究报告，澳大利亚科研团队通过新算法，确认 2019 年人类首张黑洞照片主角 M87 黑洞的“甜甜圈”是真的。",
+      "summary": "IT之家 11 月 13 日消息，根据 11 月 11 日发表于《自然》（Nature）最新研究报告， 澳大利亚科研团队通过新算法，确认 2019 年人类首张黑洞照片主角 M87 黑洞的“甜甜圈”是真的。 <p style=\"text-align: center;\" data-v",
       "source": "IT之家",
       "sources": [
         "IT之家"
@@ -5763,11 +5386,11 @@
       "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind ““甜甜圈”实锤：人类首张黑洞照片通过新算法复核” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿动态",
-      "rawText": "根据 11 月 11 日发表于《自然》（Nature）最新研究报告，澳大利亚科研团队通过新算法，确认 2019 年人类首张黑洞照片主角 M87 黑洞的“甜甜圈”是真的。",
+      "rawText": "IT之家 11 月 13 日消息，根据 11 月 11 日发表于《自然》（Nature）最新研究报告， 澳大利亚科研团队通过新算法，确认 2019 年人类首张黑洞照片主角 M87 黑洞的“甜甜圈”是真的。 M87 星系中心超大质量黑洞 M87* 距离地球约 5,500 万光年，事件视界望远镜合作组于 2019 年以其为主角，公布为人类首张黑洞照片。照片中，明亮物质环",
       "relatedTitles": [
         "“甜甜圈”实锤：人类首张黑洞照片通过新算法复核"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5835,7 +5458,7 @@
       "relatedTitles": [
         "新能源渗透率达 74.9%，乘联分会公布 11 月 1-8 日全国零售数据"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -5903,75 +5526,7 @@
       "relatedTitles": [
         "9.99万起的纯电SUV有多刚 大众5X硬扛12吨墙体重压：测试后还能正常驾驶"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "微软365多个服务出现服务降级 官方称正逐步恢复受影响服务器",
-      "summary": "快科技11月13日消息，微软当地时间11月12日更新服务状态称，Microsoft 365商业版及企业版多个服务出现降级。微软表示，调查发现受影响服务器上的一个核心进程负载过高，导致服务器停止响应并造成服务容量损失。此次宕机还波及OpenA...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3730217.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqm3730217.shtml"
-      ],
-      "publishedAt": "2026-11-13",
-      "date": "2026-11-13",
-      "category": "数字经济",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 130,
-      "scoreBreakdown": {
-        "hardTech": 70,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 85
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “微软365多个服务出现服务降级 官方称正逐步恢复受影响服务器” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字经济动态",
-      "rawText": "快科技11月13日消息，微软当地时间11月12日更新服务状态称，Microsoft 365商业版及企业版多个服务出现降级。微软表示，调查发现受影响服务器上的一个核心进程负载过高，导致服务器停止响应并造成服务容量损失。此次宕机还波及OpenA...",
-      "relatedTitles": [
-        "微软365多个服务出现服务降级 官方称正逐步恢复受影响服务器"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -5999,13 +5554,13 @@
       "hardTechPriority": 70,
       "keywords": "digital infrastructure, data flows and the platform economy",
       "priority": 4,
-      "score": 126,
-      "reporterScore": 126,
+      "score": 116,
+      "reporterScore": 116,
       "scoreBreakdown": {
         "hardTech": 70,
         "today": 18,
         "sourceAuthority": 8,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
@@ -6039,7 +5594,7 @@
       "relatedTitles": [
         "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -6313,6 +5868,73 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "英伟达临时CEO克雷斯是谁？",
+      "summary": "据央视新闻报道，美国芯片制造商英伟达公司12日宣布，公司执行副总裁兼首席财务官克雷斯将出任临时首席执行官。公",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908157.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908157.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 156,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达临时CEO克雷斯是谁？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "据央视新闻报道，美国芯片制造商英伟达公司12日宣布，公司执行副总裁兼首席财务官克雷斯将出任临时首席执行官。公",
+      "relatedTitles": [
+        "英伟达临时CEO克雷斯是谁？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "AI学什么已公开，但真正重要的一步还是秘密",
       "summary": "只要那些塑造人工智能系统的数据处理实践、评估标准及其背后的决策依据仍然处于隐蔽状态，透明度要求就无法真正建立有效的问责机制。",
       "source": "观察者网-产业科技",
@@ -6581,73 +6203,6 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "英伟达临时CEO克雷斯是谁？",
-      "summary": "nLue/2026_11_13_908155.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 28 俄罗斯之声 英伟达临时CEO克雷斯是谁？ <img original=\"https://i.guancha.cn/news/2026/11/13/c242ab47c",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908157.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908157.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 127,
-      "reporterScore": 127,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达临时CEO克雷斯是谁？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "nLue/2026_11_13_908155.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 28 俄罗斯之声 英伟达临时CEO克雷斯是谁？ <img original=\"https://i.guancha.cn/news/2026/11/13/c242ab47cf4d4ad08f201619f35987c2.png\" class=\"lazy height254\" data-original=\"https://i.guan",
-      "relatedTitles": [
-        "英伟达临时CEO克雷斯是谁？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "英伟达宣布：黄仁勋辞职",
       "summary": "据央视新闻报道，当地时间11月12日，英伟达公司宣布：黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。",
       "source": "观察者网-产业科技",
@@ -6784,20 +6339,20 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'",
-      "summary": "logo of American multinational tech company Nvidia on November 11, 2026\" loading=\"lazy\" class=\"a-img \" > China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade",
-      "publishedAt": "2026-11-12",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia announced on Thursday that CEO Jensen Huang was stepping down following revelations that he had an affair with a woman accused of spying for China. The company's chief finan",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "publishedAt": "Thu, 12 Nov 2026 15:37:29 +0000",
       "date": "2026-11-12",
-      "region": "Europe",
+      "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 85,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “China accuses US of 'fabricating' Nvidia spy claims to push tech 'blocka” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Jensen Huang is out at Nvidia — who is Colette Kress, his interim replac” against primary-source evidence.",
       "priority": 5,
       "score": 159,
       "reporterScore": 167,
@@ -6809,10 +6364,42 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 105
+        "reporterScore": 120
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia ⁠and its ​Chief ​Executive Jensen Huang were ​sued ‌on ⁠Monday ‌in ⁠a proposed class ​action accusing ‌them of ‌defrauding ​shareholders by concealing Huang's ties ​with ​a ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "publishedAt": "Thu, 12 Nov 2026 16:32:33 +0000",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.63,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry” against primary-source evidence.",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -6844,7 +6431,39 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+      "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+      "publishedAt": "Thu, 12 Nov 2026 03:02:03 GMT",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “What we know so far about Nvidia partner Megaspeed’s Asia footprint” against primary-source evidence.",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 166,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -6876,7 +6495,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -6902,38 +6521,6 @@
         "visual": false,
         "international": false,
         "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-      "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-      "publishedAt": "Thu, 12 Nov 2026 03:02:03 GMT",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “What we know so far about Nvidia partner Megaspeed’s Asia footprint” against primary-source evidence.",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
@@ -6976,20 +6563,20 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a very hard place'",
-      "summary": "on: Nvidia CEO caught between 'a rock and a very hard place'\" loading=\"eager\" class=\"a-img \" > Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a ver",
+      "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
+      "summary": "Erin Ogunkeye is pleased to welcome Raphaëlle d’Ornano, Founder and Managing Partner of D’Ornano + Co. “Nvidia has an absolutely central role in the ecosystem,” she explains, “If s",
       "source": "France24 Technology",
-      "url": "https://www.france24.com/en/video/20261112-he-powers-and-bankrolls-ai-revolution-nvidia-ceo-huang-caught-between-rock-and-a-very-hard-place-1",
-      "publishedAt": "2026-11-12",
-      "date": "2026-11-12",
+      "url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
+      "publishedAt": "2026-11-11",
+      "date": "2026-11-11",
       "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.58,
+      "category": "芯片",
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a r” against primary-source evidence.",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “'Central role in ecosystem: If something happens to Nvidia, it's going t” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -7002,70 +6589,6 @@
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "summary": "file photo of then-NVIDIA CEO Jensen Huang in San Jose, California, US\" loading=\"lazy\" class=\"a-img \" > Nvidia CEO Jensen Huang resigns after affair raises national security concer",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "publishedAt": "Thu, 12 Nov 2026 15:37:29 +0000",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Jensen Huang is out at Nvidia — who is Colette Kress, his interim replac” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very speci",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "publishedAt": "Thu, 12 Nov 2026 16:32:33 +0000",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
       },
       "status": "recent_48h",
       "isNewSinceLastRun": true
@@ -7100,7 +6623,39 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI builds a kill switch for its research models",
+      "summary": "How much damage can a rogue agent do in 35 seconds? Asking cos that’s how long it might take to shut one down",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+      "publishedAt": "Wed, 11 Nov 2026 05:20:56 +0000",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI builds a kill switch for its research models” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -7132,7 +6687,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -7164,7 +6719,7 @@
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -7182,134 +6737,6 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google promises its new smart specs won't give creeps their ideal view” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”...",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "publishedAt": "Thu, 12 Nov 2026 18:57:45 +0000",
-      "date": "2026-11-13",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google faces calls for AI moratoriums in schools after Gemini pilot back” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "publishedAt": "Thu, 12 Nov 2026 19:58:11 GMT",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track reco” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
-      "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "publishedAt": "Thu, 12 Nov 2026 21:17:21 GMT",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia stock closes down over 4% after CEO Jensen Huang announces resign” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI builds a kill switch for its research models",
-      "summary": "How much damage can a rogue agent do in 35 seconds? Asking cos that’s how long it might take to shut one down",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-      "publishedAt": "Wed, 11 Nov 2026 05:20:56 +0000",
-      "date": "2026-11-11",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI builds a kill switch for its research models” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -7360,6 +6787,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”...",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "publishedAt": "Thu, 12 Nov 2026 18:57:45 +0000",
+      "date": "2026-11-13",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google faces calls for AI moratoriums in schools after Gemini pilot back” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AMD: Where we're going we don't need (as much) DRAM",
       "summary": "The House of Zen",
       "source": "The Register",
@@ -7392,6 +6851,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "publishedAt": "Thu, 12 Nov 2026 19:58:11 GMT",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track reco” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
       "summary": "Shares in Nvidia are back in the red in premarket trading as Huang's future hangs in the balance",
       "source": "CNBC Technology",
@@ -7406,6 +6897,38 @@
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
       "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nerves around Nvidia as investors await the outcome of Board's crisis CE” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+      "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "publishedAt": "Thu, 12 Nov 2026 21:17:21 GMT",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia stock closes down over 4% after CEO Jensen Huang announces resign” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -7455,8 +6978,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-13｜V3\n生成时间：2026/11/13 10:58:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 73｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 73 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   IT之家｜2026-11-13｜https://www.ithome.com/1/026/478.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.\n\n5. [2026-11-13] 长征二号丁运载火箭成功发射探源计划探路者卫星\n   网易科技｜2026-11-13｜https://www.163.com/dy/article/LBJPNFB90512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征二号丁运载火箭成功发射探源计划探路者卫星” against primary-source evidence.\n\n本次新增线索：\n- 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌｜IT之家｜https://www.ithome.com/1/026/478.htm\n- 王虹的导师拉里·古斯：AI时代，数学对我意味着什么｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n- 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n- 对话Web Summit CEO：中国商飞将使全球航空业受益｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n- 长征二号丁运载火箭成功发射探源计划探路者卫星｜网易科技｜https://www.163.com/dy/article/LBJPNFB90512B07B.html\n- China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n2. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n3. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\n4. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500\n5. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-13｜V3\n生成时间：2026/11/13 10:58:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 73｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 73 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   IT之家｜2026-11-13｜https://www.ithome.com/1/026/478.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.\n\n5. [2026-11-13] 长征二号丁运载火箭成功发射探源计划探路者卫星\n   网易科技｜2026-11-13｜https://www.163.com/dy/article/LBJPNFB90512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征二号丁运载火箭成功发射探源计划探路者卫星” against primary-source evidence.\n\n本次新增线索：\n- 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌｜IT之家｜https://www.ithome.com/1/026/478.htm\n- 王虹的导师拉里·古斯：AI时代，数学对我意味着什么｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n- 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n- 对话Web Summit CEO：中国商飞将使全球航空业受益｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n- 长征二号丁运载火箭成功发射探源计划探路者卫星｜网易科技｜https://www.163.com/dy/article/LBJPNFB90512B07B.html\n- China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n2. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n3. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\n4. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500\n5. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-13｜生成时间：2026/11/13 10:58:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2531｜确认今日 73｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 73 条｜国际 14 条<br>延续跟踪线索：国内 0 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌</strong>\n      <span>IT之家｜2026-11-13｜<a href=\"https://www.ithome.com/1/026/478.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-13] 长征二号丁运载火箭成功发射探源计划探路者卫星</strong>\n      <span>网易科技｜2026-11-13｜<a href=\"https://www.163.com/dy/article/LBJPNFB90512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征二号丁运载火箭成功发射探源计划探路者卫星” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'</strong>\n      <span>时间：2026-11-12｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “China accuses US of 'fabricating' Nvidia spy claims to push tech 'blocka” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Alice Huang tied to Nvidia’s biggest Chinese competitor</strong>\n      <span>时间：Thu, 12 Nov 2026 22:47:28 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Alice Huang tied to Nvidia’s biggest Chinese competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. A third of US AI chatters are hot at bots, hurling insults at LLMs</strong>\n      <span>时间：Thu, 12 Nov 2026 21:33:58 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “A third of US AI chatters are hot at bots, hurling insults at LLMs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI launches security products, tells orgs they’re doomed if they don’t use them</strong>\n      <span>时间：Thu, 12 Nov 2026 20:48:45 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches security products, tells orgs they’re doomed if they don” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. What we know so far about Nvidia partner Megaspeed’s Asia footprint</strong>\n      <span>时间：Thu, 12 Nov 2026 03:02:03 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “What we know so far about Nvidia partner Megaspeed’s Asia footprint” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/13 10:58:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 73 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   来源：IT之家\n   链接：https://www.ithome.com/1/026/478.htm\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.\n\n5. [2026-11-13] 长征二号丁运载火箭成功发射探源计划探路者卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LBJPNFB90512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征二号丁运载火箭成功发射探源计划探路者卫星” against primary-source evidence.\n\n本次新增线索：\n- 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌｜IT之家｜https://www.ithome.com/1/026/478.htm\n- 王虹的导师拉里·古斯：AI时代，数学对我意味着什么｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n- 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n- 对话Web Summit CEO：中国商飞将使全球航空业受益｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml\n- 长征二号丁运载火箭成功发射探源计划探路者卫星｜网易科技｜https://www.163.com/dy/article/LBJPNFB90512B07B.html\n- China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n国际科技背景：\n1. China accuses US of 'fabricating' Nvidia spy claims to push tech 'blockade'｜France24 Technology｜https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade\n2. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n3. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\n4. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500\n5. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-13｜V3\n生成时间：2026/11/13 11:21:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2451｜确认今日 67｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 1 条\n延续跟踪线索：国内 56 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   IT之家｜2026-11-13｜https://www.ithome.com/1/026/478.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.\n\n5. [2026-11-13] 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.\n\n本次新增线索：\n- 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n- 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n- 大晓机器人发布ACE-CaP-0，真机操作任务成功率｜网易科技｜https://www.163.com/dy/article/LBK1QNRK0534A4SC.html\n- Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产｜IT之家｜https://www.ithome.com/1/026/544.htm\n- SpaceX与特斯拉合并，有新进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml\n- 'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'｜France24 Technology｜https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/\n2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry｜TechCrunch｜https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\n5. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-13｜V3\n生成时间：2026/11/13 11:21:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2451｜确认今日 67｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 1 条\n延续跟踪线索：国内 56 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   IT之家｜2026-11-13｜https://www.ithome.com/1/026/478.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.\n\n5. [2026-11-13] 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围\n   新浪科技｜2026-11-13｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.\n\n本次新增线索：\n- 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n- 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n- 大晓机器人发布ACE-CaP-0，真机操作任务成功率｜网易科技｜https://www.163.com/dy/article/LBK1QNRK0534A4SC.html\n- Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产｜IT之家｜https://www.ithome.com/1/026/544.htm\n- SpaceX与特斯拉合并，有新进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml\n- 'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'｜France24 Technology｜https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/\n2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry｜TechCrunch｜https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\n5. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-13｜生成时间：2026/11/13 11:21:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2451｜确认今日 67｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 11 条｜国际 1 条<br>延续跟踪线索：国内 56 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌</strong>\n      <span>IT之家｜2026-11-13｜<a href=\"https://www.ithome.com/1/026/478.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-13] 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-13] 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围</strong>\n      <span>新浪科技｜2026-11-13｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?</strong>\n      <span>时间：Thu, 12 Nov 2026 15:37:29 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Jensen Huang is out at Nvidia — who is Colette Kress, his interim replac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry</strong>\n      <span>时间：Thu, 12 Nov 2026 16:32:33 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Alice Huang tied to Nvidia’s biggest Chinese competitor</strong>\n      <span>时间：Thu, 12 Nov 2026 22:47:28 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Alice Huang tied to Nvidia’s biggest Chinese competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What we know so far about Nvidia partner Megaspeed’s Asia footprint</strong>\n      <span>时间：Thu, 12 Nov 2026 03:02:03 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “What we know so far about Nvidia partner Megaspeed’s Asia footprint” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. A third of US AI chatters are hot at bots, hurling insults at LLMs</strong>\n      <span>时间：Thu, 12 Nov 2026 21:33:58 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “A third of US AI chatters are hot at bots, hurling insults at LLMs” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/13 11:21:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 1 条\n延续跟踪线索：国内 56 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:52] 黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌\n   来源：IT之家\n   链接：https://www.ithome.com/1/026/478.htm\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌” against primary-source evidence.\n\n2. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.\n\n3. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.\n\n4. [2026-11-13] 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU” against primary-source evidence.\n\n5. [2026-11-13] 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围” against primary-source evidence.\n\n本次新增线索：\n- 芯片装追踪说关就关！美议员逼宫英伟达：要把定位机制焊进GPU｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1107543.shtml\n- 黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypzqm3778310.shtml\n- 大晓机器人发布ACE-CaP-0，真机操作任务成功率｜网易科技｜https://www.163.com/dy/article/LBK1QNRK0534A4SC.html\n- Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产｜IT之家｜https://www.ithome.com/1/026/544.htm\n- SpaceX与特斯拉合并，有新进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1101015.shtml\n- 'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'｜France24 Technology｜https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（8 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n国际科技背景：\n1. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/\n2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry｜TechCrunch｜https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. What we know so far about Nvidia partner Megaspeed’s Asia footprint｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html\n5. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
