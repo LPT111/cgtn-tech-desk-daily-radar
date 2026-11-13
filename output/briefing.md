@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/13 22:04:00
+生成时间：2026/11/13 22:39:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 1 条
-延续跟踪线索：国内 53 条｜国际 18 条
+新增核心线索：国内 11 条｜国际 4 条
+延续跟踪线索：国内 54 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,38 +28,38 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.
 
-4. [2026-11-13] 黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破
+4. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypvhp3780582.shtml
-   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.
 
-5. [2026-11-13] 第3段婚外情浮现！黄仁勋被曝与另一名英伟达女员工存在亲密关系
+5. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniypzqc1042796.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “第3段婚外情浮现！黄仁勋被曝与另一名英伟达女员工存在亲密关系” against primary-source evidence.
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.
 
 本次新增线索：
-- Anthropic 连发多条故障通报：微软服务中断波及 Claude｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniyrazr0882808.shtml
-- 成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案｜IT之家｜https://www.ithome.com/1/026/936.htm
-- 苹果、Alphabet、Uber都平稳度过创始人交接，英伟达的考验会更严峻｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazr0881615.shtml
-- 寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金｜IT之家｜https://www.ithome.com/1/026/953.htm
-- 微软最新邮件故障，演变为全球性云服务危机｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazv1170666.shtml
-- Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces｜CNBC Technology｜https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html
+- 中国科学家揭示幼年社交玩耍背后的多巴胺密码｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-13/doc-iniyrazr0907062.shtml
+- DeepSeek发布全家桶应用API｜网易科技｜https://www.163.com/dy/article/LBL9F9MT0534A4SC.html
+- 国产厂商扩建10座芯片厂 内存教父示警：内存未来要过剩、降价｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyrazx3559470.shtml
+- 新紫光集团与北汽集团成立联合创新中心，围绕 SoC 芯片、智能座舱等合作｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniyrazr0904214.shtml
+- 马斯克裁撤大批Grok AI图像生成员工 收紧AI研发方向｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazr0903439.shtml
+- Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal｜France24 Technology｜https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal
 
 今日热点方向：
-- AI 应用：AI动态（12 条，5 个来源）
+- AI 应用：AI动态（16 条，5 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. Why Singapore keeps turning up in the fight over Nvidia chips and China｜CNBC Technology｜https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html
-2. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html
-3. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506
-4. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
-5. I Saw the Future of Robotics in a Virtual Duck That Chases My Cat｜WIRED Business｜https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/
+1. Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal｜France24 Technology｜https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal
+2. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/
+3. Why Singapore keeps turning up in the fight over Nvidia chips and China｜CNBC Technology｜https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html
+4. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506
+5. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
