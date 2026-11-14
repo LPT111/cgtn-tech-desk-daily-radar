@@ -1,64 +1,44 @@
 {
-  "generatedAt": "2026-11-14T02:43:59.077Z",
+  "generatedAt": "2026-11-14T03:04:47.950Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-14",
   "changeSummary": {
-    "domesticNew": 30,
-    "globalNew": 15,
-    "domesticContinued": 0,
-    "globalContinued": 11,
+    "domesticNew": 5,
+    "globalNew": 1,
+    "domesticContinued": 30,
+    "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+        "title": "Afterpay联合创始人莫尔纳将于年底离开",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml"
+      },
+      {
+        "title": "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/027/004.htm"
+        "url": "https://www.ithome.com/1/027/062.htm"
       },
       {
-        "title": "SpaceX正与得克萨斯州公园与野生动物管理局商谈",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LBLIH66105198CJN.html"
+        "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/026/998.htm"
       },
       {
-        "title": "特朗普：美空管系统故障与网络攻击无关",
+        "title": "华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml"
       },
       {
-        "title": "从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml"
-      },
-      {
-        "title": "效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml"
+        "title": "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/027/063.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction",
+        "title": "SpaceX fails to recover Starship booster during test flight",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html"
-      },
-      {
-        "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
-      },
-      {
-        "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1"
-      },
-      {
-        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+        "url": "https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html"
       }
     ],
     "hasPrevious": true
@@ -67,7 +47,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 870,
+    "domesticRejected": 865,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +62,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -90,13 +70,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -112,13 +107,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -208,7 +218,7 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 39,
+      "parsed": 40,
       "failed": false,
       "optional": false
     },
@@ -294,14 +304,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -322,8 +334,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 12,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -331,7 +344,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -378,11 +391,11 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1573,
+  "itemsSeen": 1562,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 253,
-  "itemsAfterDedupe": 180,
-  "todayItemsSeen": 30,
+  "itemsAfterRelevantFilter": 254,
+  "itemsAfterDedupe": 185,
+  "todayItemsSeen": 35,
   "suspectedItemsSeen": 13,
   "skippedNonToday": 136,
   "domesticSourceStats": [
@@ -466,7 +479,7 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 39,
+      "parsed": 40,
       "failed": false,
       "optional": false
     },
@@ -552,14 +565,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -580,8 +595,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 12,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -589,7 +605,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -796,13 +812,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -837,7 +868,7 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 971,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 189,
+  "globalItemsAfterRelevantFilter": 188,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -858,7 +889,7 @@
     },
     {
       "topic": "芯片动态",
-      "count": 5,
+      "count": 6,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -869,8 +900,8 @@
         "从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线",
         "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
         "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-        "马斯克坚定站黄仁勋：英伟达员工请愿让他复出 我也支持！",
-        "黄仁勋一走，英伟达的中枢瘫了"
+        "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+        "马斯克坚定站黄仁勋：英伟达员工请愿让他复出 我也支持！"
       ]
     },
     {
@@ -890,6 +921,21 @@
       ]
     },
     {
+      "topic": "AI动态",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "Afterpay联合创始人莫尔纳将于年底离开",
+        "特朗普：美空管系统故障与网络攻击无关",
+        "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+        "淘宝新“销冠”FPA栽在AI模特图上"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 4,
       "sourceCount": 2,
@@ -905,17 +951,17 @@
       ]
     },
     {
-      "topic": "AI动态",
+      "topic": "半导体供应链",
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
-        "网易科技"
+        "IT之家",
+        "新浪科技"
       ],
       "items": [
-        "特朗普：美空管系统故障与网络攻击无关",
-        "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-        "淘宝新“销冠”FPA栽在AI模特图上"
+        "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产",
+        "11月14日热门中概股多数上涨，拼多多涨1.86%，蔚来跌约5%",
+        "华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局"
       ]
     },
     {
@@ -932,6 +978,18 @@
       ]
     },
     {
+      "topic": "数字经济动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
+        "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸"
+      ]
+    },
+    {
       "topic": "商业航天与卫星互联网",
       "count": 1,
       "sourceCount": 1,
@@ -941,31 +999,77 @@
       "items": [
         "星舰第15次试飞：B22超重型助推器回收失败 改道墨西哥湾溅落"
       ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "11月14日热门中概股多数上涨，拼多多涨1.86%，蔚来跌约5%"
-      ]
-    },
-    {
-      "topic": "数字经济动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸"
-      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Afterpay联合创始人莫尔纳将于年底离开",
+      "summary": "先买后付平台Afterpay联合创始人尼克·莫尔纳宣布将于今年年底离开公司及其美国母公司Block，他2014年与安东尼·艾森共同创立这家澳大利亚先买后付企业，称离职后首要安排是多陪伴家人，该消息于周六通过其领英账号发布。由杰克·多西执掌的Block2021年以290亿美元收购Afterpay，目前正推进业务重组、重心",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml"
+      ],
+      "publishedAt": "2026-11-14",
+      "date": "2026-11-14",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 200,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "先买后付平台Afterpay联合创始人尼克·莫尔纳宣布将于今年年底离开公司及其美国母公司Block，他2014年与安东尼·艾森共同创立这家澳大利亚先买后付企业，称离职后首要安排是多陪伴家人，该消息于周六通过其领英账号发布。由杰克·多西执掌的Block2021年以290亿美元收购Afterpay，目前正推进业务重组、重心转向人工智能，今年2月宣布大规模裁员，Afterpay也有人员被裁。莫尔纳表示为团队将澳大利亚技术推向海外的成果深感自豪，期待看到更多澳本土创业成功故事走向全球。(AI生成)",
+      "relatedTitles": [
+        "Afterpay联合创始人莫尔纳将于年底离开"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
@@ -1028,11 +1132,11 @@
       "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 11 月 14 日消息，《财富》昨日（11 月 13 日）发布博文，爆料称 OpenAI 已解散独立机器人团队，并将相关人员调至公司其他部门。OpenAI 向该媒体确认了此次组织调整， 只是强调本次调整并非退出机器人领域，机器人仍是其长期愿景的核心，重组旨在加快研发。 在架构调整方面，机器人研究人员并入核心研究团队，向首席研究官马克 · 陈（Mark Chen）汇报；应用机器人与硬件团队则转入规模更大的应用部门，该部门由公司总裁格雷格 · 布罗克曼（Greg Brockman）负责。IT之家附上相关截图如下;d <img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1efbf451-5bef-4859-9122-4333596b98cd.png\" w=\"1346\" h=\"2385\" data-s",
+      "rawText": "《财富》昨日（11 月 13 日）发布博文，爆料称 OpenAI 已解散独立机器人团队，并将相关人员调至公司其他部门。OpenAI 向该媒体确认了此次组织调整，只是强调本次调整并非退出机器人领域，机器人仍是其长期愿景的核心，重组旨在加快研发。",
       "relatedTitles": [
         "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1099,6 +1203,74 @@
       "rawText": "SpaceX正与得克萨斯州公园与野生动物管理局商谈收购约1200英亩土地,spacex,得克萨斯州公园,野生动物管理局",
       "relatedTitles": [
         "SpaceX正与得克萨斯州公园与野生动物管理局商谈"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产",
+      "summary": "两座晶圆厂的投资总额可达 210 亿美元，每座晶圆厂的月产能约为 7.5 万片 300mm（12 英寸）晶圆。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/027/062.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/027/062.htm"
+      ],
+      "publishedAt": "Sat, 14 Nov 2026 02:42:39 GMT",
+      "date": "2026-11-14",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 168,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "两座晶圆厂的投资总额可达 210 亿美元，每座晶圆厂的月产能约为 7.5 万片 300mm（12 英寸）晶圆。",
+      "relatedTitles": [
+        "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产"
       ],
       "isNewSinceLastRun": true
     },
@@ -1168,7 +1340,7 @@
       "relatedTitles": [
         "特朗普：美空管系统故障与网络攻击无关"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1236,7 +1408,7 @@
       "relatedTitles": [
         "从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1304,7 +1476,7 @@
       "relatedTitles": [
         "效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1372,7 +1544,7 @@
       "relatedTitles": [
         "SpaceX星舰超重型助推器捕获回收取消，海上溅落时起火燃烧"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1440,7 +1612,7 @@
       "relatedTitles": [
         "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1508,7 +1680,7 @@
       "relatedTitles": [
         "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1575,6 +1747,74 @@
       "rawText": "金融时报昨日（11 月 13 日）发布博文，报道称英伟达董事会已聘请外部机构物色新 CEO 候选人，除了苹果芯片负责人约翰尼 · 斯鲁吉（Johny Srouji）外，Arm 首席执行官雷内 · 哈斯（Rene Haas）也被列为潜在考虑对象。",
       "relatedTitles": [
         "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+      "summary": "IT之家 11 月 14 日消息，英国《金融时报》报道称，英伟达董事会曾接触芯片设计公司 Arm 首席执行官雷内・哈斯（Rene Haas），将其作为潜在继任人选。 当地时间 11 月 13 日，英伟达董事会针对外界对新任 CEO 人选的猜测回应 CNBC 称，公司尚未",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/026/998.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/026/998.htm"
+      ],
+      "publishedAt": "Fri, 13 Nov 2026 22:39:32 GMT",
+      "date": "2026-11-14",
+      "category": "芯片",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 11 月 14 日消息，英国《金融时报》报道称，英伟达董事会曾接触芯片设计公司 Arm 首席执行官雷内・哈斯（Rene Haas），将其作为潜在继任人选。 当地时间 11 月 13 日，英伟达董事会针对外界对新任 CEO 人选的猜测回应 CNBC 称，公司尚未选定负责首席执行官招聘工作的猎头机构，也尚未正式联系任何潜在候选人。 IT之家此前报",
+      "relatedTitles": [
+        "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人"
       ],
       "isNewSinceLastRun": true
     },
@@ -1644,7 +1884,7 @@
       "relatedTitles": [
         "汽车早报｜余承东亮相问界新M8发布会 梅赛德斯-奔驰暂停在德国投资"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1712,75 +1952,7 @@
       "relatedTitles": [
         "白宫呼吁放宽责任追究 鼓励AI企业上报安全事件"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
-      "summary": "11月14日IT之家消息，开发者在chat.deepseek.com前端代码中发现整套额度管理逻辑，最新前端commit已支持额度状态轮询，页面可见时每5分钟同步各模型额度、禁言状态与服务端文案，这套体系指向名为“Coding Plan”的专属套餐。有网友推测深度求索将随DeepSeek V4.1 Pro上线推出首个C",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniysepm3131718.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniysepm3131718.shtml"
-      ],
-      "publishedAt": "2026-11-14",
-      "date": "2026-11-14",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "11月14日IT之家消息，开发者在chat.deepseek.com前端代码中发现整套额度管理逻辑，最新前端commit已支持额度状态轮询，页面可见时每5分钟同步各模型额度、禁言状态与服务端文案，这套体系指向名为“Coding Plan”的专属套餐。有网友推测深度求索将随DeepSeek V4.1 Pro上线推出首个C端付费方案，但官方尚未公布订阅方案的价格、层级或上线日期。此前DeepSeek仅开放平台API向个人收费，2026年10月其整合多团队成立产品部，同期数据显示其月活约1.30亿，年化营收破10亿美元几乎全部来自API，C端未直接收费，月活为行业前三中唯一同比缩水的。(AI生成)",
-      "relatedTitles": [
-        "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1848,7 +2020,75 @@
       "relatedTitles": [
         "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
+      "summary": "Deepseek 字节找到了DeepSeek时强时弱的原因 答不答得对，得看Token站位 闻乐 43分钟前 Deepseek 字节Seed DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师 岗位JD甩了篇技术报告 闻乐 2026-10-03 Deepseek PCIe显卡被低估了！内核补齐+通信重构，D",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniysepm3131718.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniysepm3131718.shtml"
+      ],
+      "publishedAt": "2026-11-14",
+      "date": "2026-11-14",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "11月14日IT之家消息，开发者在chat.deepseek.com前端代码中发现整套额度管理逻辑，最新前端commit已支持额度状态轮询，页面可见时每5分钟同步各模型额度、禁言状态与服务端文案，这套体系指向名为“Coding Plan”的专属套餐。有网友推测深度求索将随DeepSeek V4.1 Pro上线推出首个C端付费方案，但官方尚未公布订阅方案的价格、层级或上线日期。此前DeepSeek仅开放平台API向个人收费，2026年10月其整合多团队成立产品部，同期数据显示其月活约1.30亿，年化营收破10亿美元几乎全部来自API，C端未直接收费，月活为行业前三中唯一同比缩水的。(AI生成)",
+      "relatedTitles": [
+        "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1916,7 +2156,7 @@
       "relatedTitles": [
         "马斯克坚定站黄仁勋：英伟达员工请愿让他复出 我也支持！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1984,7 +2224,7 @@
       "relatedTitles": [
         "DeepSeek发布全家桶应用API，开发者可轻松复刻完整DeepSeek App"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2052,7 +2292,7 @@
       "relatedTitles": [
         "星舰第15次试飞：B22超重型助推器回收失败 改道墨西哥湾溅落"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2120,7 +2360,7 @@
       "relatedTitles": [
         "以色列风投：英伟达风波给竞品带来机遇"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2188,7 +2428,7 @@
       "relatedTitles": [
         "11月14日热门中概股多数上涨，拼多多涨1.86%，蔚来跌约5%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2256,7 +2496,7 @@
       "relatedTitles": [
         "黄仁勋一走，英伟达的中枢瘫了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2324,7 +2564,7 @@
       "relatedTitles": [
         "AI应用商业化提速 游戏产业投资机遇凸显"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2391,6 +2631,74 @@
       "rawText": "Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台上体验 AI 智能体功能 Teammates。该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。",
       "relatedTitles": [
         "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局",
+      "summary": "华勤技术（603296）11月6日披露公告，全资子公司合肥勤合电子科技有限公司拟与合肥晶合集成电路股份有限公司、合肥市建设投资控股（集团）有限公司，以1.00元/注册资本的价格共同向合肥晶奕集成电路有限公司增资，三方合计出资91亿元...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml"
+      ],
+      "publishedAt": "2026-11-14",
+      "date": "2026-11-14",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "华勤技术（603296）11月6日披露公告，全资子公司合肥勤合电子科技有限公司拟与合肥晶合集成电路股份有限公司、合肥市建设投资控股（集团）有限公司，以1.00元/注册资本的价格共同向合肥晶奕集成电路有限公司增资，三方合计出资91亿元...",
+      "relatedTitles": [
+        "华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局"
       ],
       "isNewSinceLastRun": true
     },
@@ -2460,7 +2768,7 @@
       "relatedTitles": [
         "马斯克的卫星，遇到大麻烦了！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2528,7 +2836,7 @@
       "relatedTitles": [
         "特斯拉开放Cybercab个人预定：车价20万、每月还得花2000买FSD"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2596,7 +2904,7 @@
       "relatedTitles": [
         "电池证券化趋势渐起"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2664,7 +2972,7 @@
       "relatedTitles": [
         "南方电网：南方五省区新能源汽车产业链前 10 月贡献全网用电增量超三成"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2732,7 +3040,7 @@
       "relatedTitles": [
         "Anthropic摩根大通总部路演 对算力支出表态谨慎"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2799,6 +3107,74 @@
       "rawText": "淘宝新“销冠”FPA栽在AI模特图上,模特,潮牌,淘宝,男装,销冠,fpa",
       "relatedTitles": [
         "淘宝新“销冠”FPA栽在AI模特图上"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
+      "summary": "本次升级为定向邀测，需凭短信通知安装包跳转安装，测试将持续至 2026 年 12 月 13 日。##微信鸿蒙版##",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/027/063.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/027/063.htm"
+      ],
+      "publishedAt": "Sat, 14 Nov 2026 02:42:54 GMT",
+      "date": "2026-11-14",
+      "category": "数字经济",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 142,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows and the platform economy, showing how digital infrastructure supports the real economy and where governance questions remain. For this item, test the claim behind “微信鸿蒙版 App 获 8.0.23.38 邀测升级” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "本次升级为定向邀测，需凭短信通知安装包跳转安装，测试将持续至 2026 年 12 月 13 日。##微信鸿蒙版##",
+      "relatedTitles": [
+        "微信鸿蒙版 App 获 8.0.23.38 邀测升级"
       ],
       "isNewSinceLastRun": true
     },
@@ -2868,7 +3244,7 @@
       "relatedTitles": [
         "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2936,7 +3312,7 @@
       "relatedTitles": [
         "比亚迪方程豹钛 9 官宣 11 月 19 日上市，闪充技术 + 二代刀片电池加持"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3004,7 +3380,7 @@
       "relatedTitles": [
         "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3883,6 +4259,38 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX fails to recover Starship booster during test flight",
+      "summary": "SpaceX suffered a setback during another test flight of its giant Starship rocket on Friday when its lower stage splashed down in the sea and burst into flames instead of being cau",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html",
+      "publishedAt": "2026-11-14",
+      "date": "2026-11-14",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX fails to recover Starship booster during test flight” against primary-source evidence.",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 171,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction",
       "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch si",
       "source": "Yahoo News Technology",
@@ -3911,7 +4319,7 @@
         "reporterScore": 123
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3943,7 +4351,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3975,7 +4383,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4007,7 +4415,39 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
+      "summary": "Anthropic sets behavior standards to protect Claude from rough treatment",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+      "publishedAt": "Thu, 12 Nov 2026 21:33:58 +0000",
+      "date": "2026-11-12",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “A third of US AI chatters are hot at bots, hurling insults at LLMs” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4039,7 +4479,7 @@
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4060,70 +4500,6 @@
       "priority": 5,
       "score": 151,
       "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX launches first-of-its-kind Starship test flight",
-      "summary": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/spacex-launches-first-kind-starship-232045701.html",
-      "publishedAt": "2026-11-14",
-      "date": "2026-11-14",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX launches first-of-its-kind Starship test flight” against primary-source evidence.",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 115
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
-      "summary": "Anthropic sets behavior standards to protect Claude from rough treatment",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
-      "publishedAt": "Thu, 12 Nov 2026 21:33:58 +0000",
-      "date": "2026-11-12",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “A third of US AI chatters are hot at bots, hurling insults at LLMs” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4168,262 +4544,6 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "publishedAt": "Thu, 12 Nov 2026 22:14:41 +0000",
-      "date": "2026-11-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "publishedAt": "Thu, 12 Nov 2026 14:14:33 +0000",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Meet Colette Kress, Nvidia’s New Interim CEO” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Update your Apple TV 4K now to add Siri AI",
-      "summary": "tvOS 27.2.1 brings Siri AI to Apple TV 4K models dating back years, giving older streaming boxes a major upgrade.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-now-add-213233407.html",
-      "publishedAt": "2026-11-14",
-      "date": "2026-11-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Update your Apple TV 4K now to add Siri AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-      "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-      "publishedAt": "Fri, 13 Nov 2026 20:21:46 GMT",
-      "date": "2026-11-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia hasn’t selected search firm for permanent Huang replacement, boar” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "publishedAt": "Fri, 13 Nov 2026 23:42:18 GMT",
-      "date": "2026-11-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
-      "summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
-      "publishedAt": "Fri, 13 Nov 2026 12:46:12 GMT",
-      "date": "2026-11-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-      "summary": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-      "publishedAt": "Thu, 12 Nov 2026 23:14:56 GMT",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up th” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "publishedAt": "Fri, 13 Nov 2026 04:07:44 GMT",
-      "date": "2026-11-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track reco” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4523,6 +4643,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "publishedAt": "Thu, 12 Nov 2026 22:14:41 +0000",
+      "date": "2026-11-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "publishedAt": "Thu, 12 Nov 2026 14:14:33 +0000",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Meet Colette Kress, Nvidia’s New Interim CEO” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
       "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
       "source": "WIRED Business",
@@ -4587,6 +4771,102 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Update your Apple TV 4K now to add Siri AI",
+      "summary": "tvOS 27.2.1 brings Siri AI to Apple TV 4K models dating back years, giving older streaming boxes a major upgrade.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-now-add-213233407.html",
+      "publishedAt": "2026-11-14",
+      "date": "2026-11-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Update your Apple TV 4K now to add Siri AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "publishedAt": "Fri, 13 Nov 2026 20:21:46 GMT",
+      "date": "2026-11-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia hasn’t selected search firm for permanent Huang replacement, boar” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "publishedAt": "Fri, 13 Nov 2026 23:42:18 GMT",
+      "date": "2026-11-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
       "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
       "source": "CNBC Technology",
@@ -4601,6 +4881,38 @@
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
       "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Apple, Alphabet and Uber survived major founder transitions. Nvidia will” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+      "summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+      "publishedAt": "Fri, 13 Nov 2026 12:46:12 GMT",
+      "date": "2026-11-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is ” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -4683,6 +4995,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "summary": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+      "publishedAt": "Thu, 12 Nov 2026 23:14:56 GMT",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up th” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "publishedAt": "Fri, 13 Nov 2026 04:07:44 GMT",
+      "date": "2026-11-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track reco” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Europe’s Hera mission is ready to double down on asteroid science",
       "summary": "Europe’s Hera spacecraft is just beginning its exploration of the binary asteroid Didymos in a mission that’s tantalizing scientists on two fronts.",
       "source": "Science News",
@@ -4714,8 +5090,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-14｜V3\n生成时间：2026/11/14 10:43:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 30｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/004.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n2. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   网易科技｜2026-11-14｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n3. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n4. [2026-11-14] 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线” against primary-source evidence.\n\n5. [2026-11-14] 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型” against primary-source evidence.\n\n本次新增线索：\n- 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队｜IT之家｜https://www.ithome.com/1/027/004.htm\n- SpaceX正与得克萨斯州公园与野生动物管理局商谈｜网易科技｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n- 特朗普：美空管系统故障与网络攻击无关｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n- 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n- 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n- SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n2. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\n5. OpenAI board member worries an AI \"takeover\" of society could be months away｜Ars Technica｜https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-14｜V3\n生成时间：2026/11/14 10:43:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 30｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/004.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n2. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   网易科技｜2026-11-14｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n3. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n4. [2026-11-14] 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线” against primary-source evidence.\n\n5. [2026-11-14] 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型” against primary-source evidence.\n\n本次新增线索：\n- 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队｜IT之家｜https://www.ithome.com/1/027/004.htm\n- SpaceX正与得克萨斯州公园与野生动物管理局商谈｜网易科技｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n- 特朗普：美空管系统故障与网络攻击无关｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n- 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n- 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n- SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n2. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\n5. OpenAI board member worries an AI \"takeover\" of society could be months away｜Ars Technica｜https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-14｜生成时间：2026/11/14 10:43:59｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2544｜确认今日 30｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 30 条｜国际 15 条<br>延续跟踪线索：国内 0 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队</strong>\n      <span>IT之家｜2026-11-14｜<a href=\"https://www.ithome.com/1/027/004.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈</strong>\n      <span>网易科技｜2026-11-14｜<a href=\"https://www.163.com/dy/article/LBLIH66105198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关</strong>\n      <span>新浪科技｜2026-11-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-14] 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线</strong>\n      <span>新浪科技｜2026-11-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-14] 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型</strong>\n      <span>新浪科技｜2026-11-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction</strong>\n      <span>时间：2026-11-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX’s Starship soars into orbit after double catch thwarted by booste” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns</strong>\n      <span>时间：2026-11-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia CEO Jensen Huang resigns after extramarital affairs raise nationa” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Alice Huang tied to Nvidia’s biggest Chinese competitor</strong>\n      <span>时间：Thu, 12 Nov 2026 22:47:28 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Alice Huang tied to Nvidia’s biggest Chinese competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal</strong>\n      <span>时间：2026-11-13｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As EU grapples with fierce AI competition, summit overshadowed by elusiv” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI board member worries an AI \"takeover\" of society could be months away</strong>\n      <span>时间：Fri, 13 Nov 2026 17:25:45 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI board member worries an AI \"takeover\" of society could be months ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/14 10:43:59\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   来源：IT之家\n   链接：https://www.ithome.com/1/027/004.htm\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n2. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LBLIH66105198CJN.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n3. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n4. [2026-11-14] 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线” against primary-source evidence.\n\n5. [2026-11-14] 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型” against primary-source evidence.\n\n本次新增线索：\n- 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队｜IT之家｜https://www.ithome.com/1/027/004.htm\n- SpaceX正与得克萨斯州公园与野生动物管理局商谈｜网易科技｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n- 特朗普：美空管系统故障与网络攻击无关｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n- 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml\n- 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml\n- SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n2. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\n5. OpenAI board member worries an AI \"takeover\" of society could be months away｜Ars Technica｜https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-14｜V3\n生成时间：2026/11/14 11:04:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 35｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.\n\n2. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/004.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n3. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   网易科技｜2026-11-14｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n4. [02:42] 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/062.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产” against primary-source evidence.\n\n5. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n本次新增线索：\n- Afterpay联合创始人莫尔纳将于年底离开｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n- 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产｜IT之家｜https://www.ithome.com/1/027/062.htm\n- 英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人｜IT之家｜https://www.ithome.com/1/026/998.htm\n- 华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml\n- 微信鸿蒙版 App 获 8.0.23.38 邀测升级｜IT之家｜https://www.ithome.com/1/027/063.htm\n- SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n2. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n3. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n4. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n5. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-14｜V3\n生成时间：2026/11/14 11:04:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 35｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.\n\n2. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/004.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n3. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   网易科技｜2026-11-14｜https://www.163.com/dy/article/LBLIH66105198CJN.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n4. [02:42] 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产\n   IT之家｜2026-11-14｜https://www.ithome.com/1/027/062.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产” against primary-source evidence.\n\n5. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   新浪科技｜2026-11-14｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n本次新增线索：\n- Afterpay联合创始人莫尔纳将于年底离开｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n- 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产｜IT之家｜https://www.ithome.com/1/027/062.htm\n- 英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人｜IT之家｜https://www.ithome.com/1/026/998.htm\n- 华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml\n- 微信鸿蒙版 App 获 8.0.23.38 邀测升级｜IT之家｜https://www.ithome.com/1/027/063.htm\n- SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n2. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n3. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n4. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n5. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-14｜生成时间：2026/11/14 11:04:47｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2533｜确认今日 35｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 1 条<br>延续跟踪线索：国内 30 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开</strong>\n      <span>新浪科技｜2026-11-14｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队</strong>\n      <span>IT之家｜2026-11-14｜<a href=\"https://www.ithome.com/1/027/004.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈</strong>\n      <span>网易科技｜2026-11-14｜<a href=\"https://www.163.com/dy/article/LBLIH66105198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [02:42] 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产</strong>\n      <span>IT之家｜2026-11-14｜<a href=\"https://www.ithome.com/1/027/062.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关</strong>\n      <span>新浪科技｜2026-11-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX fails to recover Starship booster during test flight</strong>\n      <span>时间：2026-11-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX fails to recover Starship booster during test flight” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction</strong>\n      <span>时间：2026-11-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX’s Starship soars into orbit after double catch thwarted by booste” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns</strong>\n      <span>时间：2026-11-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia CEO Jensen Huang resigns after extramarital affairs raise nationa” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Alice Huang tied to Nvidia’s biggest Chinese competitor</strong>\n      <span>时间：Thu, 12 Nov 2026 22:47:28 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Alice Huang tied to Nvidia’s biggest Chinese competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal</strong>\n      <span>时间：2026-11-13｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As EU grapples with fierce AI competition, summit overshadowed by elusiv” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/14 11:04:47\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.\n\n2. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队\n   来源：IT之家\n   链接：https://www.ithome.com/1/027/004.htm\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.\n\n3. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LBLIH66105198CJN.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.\n\n4. [02:42] 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产\n   来源：IT之家\n   链接：https://www.ithome.com/1/027/062.htm\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产” against primary-source evidence.\n\n5. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.\n\n本次新增线索：\n- Afterpay联合创始人莫尔纳将于年底离开｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml\n- 格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产｜IT之家｜https://www.ithome.com/1/027/062.htm\n- 英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人｜IT之家｜https://www.ithome.com/1/026/998.htm\n- 华勤技术10亿元参股晶奕集成，向晶圆制造环节延伸产业链布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0371491.shtml\n- 微信鸿蒙版 App 获 8.0.23.38 邀测升级｜IT之家｜https://www.ithome.com/1/027/063.htm\n- SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（9 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. SpaceX fails to recover Starship booster during test flight｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-fails-recover-starship-booster-024828269.html\n2. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html\n3. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html\n4. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html\n5. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
