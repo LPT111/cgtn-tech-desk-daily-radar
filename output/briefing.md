@@ -3,52 +3,49 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/14 21:06:04
+生成时间：2026/11/14 21:37:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 43 条｜国际 23 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 49 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-14] OpenAI撤销独立机器人团队，通用模型“打穿”具身智能？
+1. [2026-11-14] 华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniytnhx3837344.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立” against primary-source evidence.
+
+2. [2026-11-14] OpenAI撤销独立机器人团队，通用模型“打穿”具身智能？
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniysvkz0537599.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI撤销独立机器人团队，通用模型“打穿”具身智能？” against primary-source evidence.
 
-2. [2026-11-14] OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」
+3. [2026-11-14] OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniytfyz3958420.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」” against primary-source evidence.
 
-3. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开
+4. [2026-11-14] Afterpay联合创始人莫尔纳将于年底离开
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Afterpay联合创始人莫尔纳将于年底离开” against primary-source evidence.
 
-4. [2026-11-14] 英伟达GPU市占率若跌至38% 未来5年增长恐腰斩至25%
+5. [2026-11-14] 英伟达GPU市占率若跌至38% 未来5年增长恐腰斩至25%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniytfyz3957959.shtml
    角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达GPU市占率若跌至38% 未来5年增长恐腰斩至25%” against primary-source evidence.
 
-5. [2026-11-14] 黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniysztc4049123.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结” against primary-source evidence.
-
 本次新增线索：
-- OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniytfyz3958420.shtml
-- 英伟达GPU市占率若跌至38% 未来5年增长恐腰斩至25%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniytfyz3957959.shtml
-- 国家队出手！华大九天牵头成立新禹思：国产EDA补齐关键拼图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniytfyv0372356.shtml
-- 中国科学院举行学习贯彻党的二十届五中全会精神宣讲报告会｜中国科学院｜https://www.cas.cn/yw/202611/t20261114_5124196.shtml
-- 英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniytfyx2733123.shtml
+- 华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-14/doc-iniytnhx3837344.shtml
+- 白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件｜IT之家｜https://www.ithome.com/1/027/229.htm
 
 今日热点方向：
 - AI 应用：AI动态（11 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
-- 机器人/具身智能：机器人动态（3 条，2 个来源）
+- 芯片/半导体：半导体供应链（4 条，1 个来源）
+- 机器人/具身智能：机器人动态（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
 - 太空与低空经济：太空与低空动态（3 条，1 个来源）
 - 科学前沿：科学前沿动态（3 条，3 个来源）
