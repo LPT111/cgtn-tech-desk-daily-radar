@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/13 22:39:51
+生成时间：2026/11/14 10:43:59
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 4 条
-延续跟踪线索：国内 54 条｜国际 16 条
+新增核心线索：国内 30 条｜国际 15 条
+延续跟踪线索：国内 0 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-13] 马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqwtt0932639.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并” against primary-source evidence.
+1. [23:17] 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队
+   来源：IT之家
+   链接：https://www.ithome.com/1/027/004.htm
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队” against primary-source evidence.
 
-2. [2026-11-13] 2026世界中文大会发布国际中文教育垂直大模型
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-11/13/content_612936.html
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026世界中文大会发布国际中文教育垂直大模型” against primary-source evidence.
+2. [2026-11-14] SpaceX正与得克萨斯州公园与野生动物管理局商谈
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LBLIH66105198CJN.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX正与得克萨斯州公园与野生动物管理局商谈” against primary-source evidence.
 
-3. [2026-11-13] 王虹的导师拉里·古斯：AI时代，数学对我意味着什么
+3. [2026-11-14] 特朗普：美空管系统故障与网络攻击无关
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekv3695082.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “王虹的导师拉里·古斯：AI时代，数学对我意味着什么” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普：美空管系统故障与网络攻击无关” against primary-source evidence.
 
-4. [2026-11-13] 李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？
+4. [2026-11-14] 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-13/doc-iniypekp1035165.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线” against primary-source evidence.
 
-5. [2026-11-13] 对话Web Summit CEO：中国商飞将使全球航空业受益
+5. [2026-11-14] 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型
    来源：新浪科技
-   链接：https://finance.sina.com.cn/hy/hyjz/2026-11-13/doc-iniypvhp3792821.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话Web Summit CEO：中国商飞将使全球航空业受益” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型” against primary-source evidence.
 
 本次新增线索：
-- 中国科学家揭示幼年社交玩耍背后的多巴胺密码｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-13/doc-iniyrazr0907062.shtml
-- DeepSeek发布全家桶应用API｜网易科技｜https://www.163.com/dy/article/LBL9F9MT0534A4SC.html
-- 国产厂商扩建10座芯片厂 内存教父示警：内存未来要过剩、降价｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-13/doc-iniyrazx3559470.shtml
-- 新紫光集团与北汽集团成立联合创新中心，围绕 SoC 芯片、智能座舱等合作｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniyrazr0904214.shtml
-- 马斯克裁撤大批Grok AI图像生成员工 收紧AI研发方向｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazr0903439.shtml
-- Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal｜France24 Technology｜https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal
+- 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队｜IT之家｜https://www.ithome.com/1/027/004.htm
+- SpaceX正与得克萨斯州公园与野生动物管理局商谈｜网易科技｜https://www.163.com/dy/article/LBLIH66105198CJN.html
+- 特朗普：美空管系统故障与网络攻击无关｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniysepc0459259.shtml
+- 从电信号测试优势到光电融合，利扬芯片用一笔收购延伸成长曲线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskuz0360412.shtml
+- 效率提升2.1倍！AMD展示HRX Loom黑科技：三天移植50个大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-14/doc-iniyskvh7435024.shtml
+- SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html
 
 今日热点方向：
-- AI 应用：AI动态（16 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
-- 太空与低空经济：
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal｜France24 Technology｜https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal
-2. Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?｜TechCrunch｜https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/
-3. Why Singapore keeps turning up in the fight over Nvidia chips and China｜CNBC Technology｜https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html
-4. A third of US AI chatters are hot at bots, hurling insults at LLMs｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506
-5. OpenAI launches security products, tells orgs they’re doomed if they don’t use them｜The Register｜https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
+1. SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-starship-soars-orbit-double-002430948.html
+2. Nvidia CEO Jensen Huang resigns after extramarital affairs raise national security concerns｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/nvidia-ceo-jensen-huang-resigns-after-extramarital-affairs-raise-national-security-concerns-140401302.html
+3. Alice Huang tied to Nvidia’s biggest Chinese competitor｜CNBC Technology｜https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html
+4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1
+5. OpenAI board member worries an AI "takeover" of society could be months away｜Ars Technica｜https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
