@@ -3,50 +3,54 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/15 10:48:27
+生成时间：2026/11/15 20:57:41
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
-延续跟踪线索：国内 17 条｜国际 22 条
+新增核心线索：国内 32 条｜国际 0 条
+延续跟踪线索：国内 5 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-15] 南京大学生物智能研究院揭牌
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinh9890179.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “南京大学生物智能研究院揭牌” against primary-source evidence.
+1. [2026-11-15] 矩阵方程求解速度快千倍 国产新型模拟计算芯片问世
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-11/15/content_613523.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “矩阵方程求解速度快千倍 国产新型模拟计算芯片问世” against primary-source evidence.
 
-2. [2026-11-15] 波及全球！微软多项服务大规模宕机 现已全面恢复
+2. [2026-11-15] 百度词元所发布首日：供应商暴增超100家，客户新增超1000家
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinp3462899.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “波及全球！微软多项服务大规模宕机 现已全面恢复” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-11-15/doc-iniyuuai3321993.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “百度词元所发布首日：供应商暴增超100家，客户新增超1000家” against primary-source evidence.
 
-3. [2026-11-15] 皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了
+3. [2026-11-15] 马斯克预言：接下来全世界将面临一场危机，或许只有中国是个例外
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniytsqt2528517.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/companyt/2026-11-15/doc-iniyuykf3222506.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “马斯克预言：接下来全世界将面临一场危机，或许只有中国是个例外” against primary-source evidence.
 
-4. [2026-11-15] 特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab
+4. [2026-11-15] 世界首款“口袋级”外骨骼机器人，只有1.8公斤！肯綮科技余运波在深圳做出全球生意
    来源：新浪科技
-   链接：https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytsqr0181590.shtml
-   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniyvrfs9432191.shtml
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “世界首款“口袋级”外骨骼机器人，只有1.8公斤！肯綮科技余运波在深圳做出全球生意” against primary-source evidence.
 
-5. [2026-11-15] SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住
+5. [2026-11-15] Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniyupuh6595882.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-15/doc-iniyvkxz3074999.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位” against primary-source evidence.
 
 本次新增线索：
-- Google turned to AMD Epyc, not its own Axion chips, to secure its first confidential TPU｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turned-amd-epyc-not-002500177.html
+- 矩阵方程求解速度快千倍 国产新型模拟计算芯片问世｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/15/content_613523.html
+- 百度词元所发布首日：供应商暴增超100家，客户新增超1000家｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-15/doc-iniyuuai3321993.shtml
+- 马斯克预言：接下来全世界将面临一场危机，或许只有中国是个例外｜新浪科技｜https://finance.sina.com.cn/stock/companyt/2026-11-15/doc-iniyuykf3222506.shtml
+- 世界首款“口袋级”外骨骼机器人，只有1.8公斤！肯綮科技余运波在深圳做出全球生意｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniyvrfs9432191.shtml
+- Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-15/doc-iniyvkxz3074999.shtml
 
 今日热点方向：
-- AI 应用：AI动态（3 条，2 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- AI 应用：AI动态（9 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
 - 科学前沿：
 
 国际科技背景：
