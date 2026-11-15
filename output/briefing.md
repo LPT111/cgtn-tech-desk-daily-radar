@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/15 10:32:53
+生成时间：2026/11/15 10:48:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 14 条｜国际 22 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 17 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,15 +18,15 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinh9890179.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “南京大学生物智能研究院揭牌” against primary-source evidence.
 
-2. [2026-11-15] 皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了
+2. [2026-11-15] 波及全球！微软多项服务大规模宕机 现已全面恢复
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinp3462899.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “波及全球！微软多项服务大规模宕机 现已全面恢复” against primary-source evidence.
+
+3. [2026-11-15] 皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniytsqt2528517.shtml
    角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了” against primary-source evidence.
-
-3. [2026-11-15] 波及全球！微软多项服务大规模宕机 现已全面恢复
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinp3462899.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “波及全球！微软多项服务大规模宕机 现已全面恢复” against primary-source evidence.
 
 4. [2026-11-15] 特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab
    来源：新浪科技
@@ -39,9 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住” against primary-source evidence.
 
 本次新增线索：
-- 皮夹克时 代结束！黄仁勋辞去CEO职务：英伟达的灵魂没了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniytsqt2528517.shtml
-- SK 集团会长崔泰源：我们所有子公司都要蜕变为 AI 企业｜IT之家｜https://www.ithome.com/1/027/277.htm
-- 一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名｜IT之家｜https://www.ithome.com/1/027/252.htm
+- Google turned to AMD Epyc, not its own Axion chips, to secure its first confidential TPU｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turned-amd-epyc-not-002500177.html
 
 今日热点方向：
 - AI 应用：AI动态（3 条，2 个来源）
