@@ -1,59 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/15 22:00:47
+生成时间：2026/11/16 10:24:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
-延续跟踪线索：国内 41 条｜国际 23 条
+新增核心线索：国内 34 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-15] 百度词元所发布首日：供应商暴增超100家，客户新增超1000家
+1. [2026-11-16] SK海力士拟建芯片测试中心
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-11-15/doc-iniyuuai3321993.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “百度词元所发布首日：供应商暴增超100家，客户新增超1000家” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5773868.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “SK海力士拟建芯片测试中心” against primary-source evidence.
 
-2. [2026-11-15] 马斯克预言：接下来全世界将面临一场危机，或许只有中国是个例外
+2. [2026-11-16] 荷兰断供逼出最强国产替代！安世中国绝地反击：交付超400亿颗芯片
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/companyt/2026-11-15/doc-iniyuykf3222506.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “马斯克预言：接下来全世界将面临一场危机，或许只有中国是个例外” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniywwzi2482033.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “荷兰断供逼出最强国产替代！安世中国绝地反击：交付超400亿颗芯片” against primary-source evidence.
 
-3. [2026-11-15] 波及全球！微软多项服务大规模宕机 现已全面恢复
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyuinp3462899.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “波及全球！微软多项服务大规模宕机 现已全面恢复” against primary-source evidence.
+3. [23:01] 投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产
+   来源：IT之家
+   链接：https://www.ithome.com/1/027/465.htm
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产” against primary-source evidence.
 
-4. [2026-11-15] 世界首款“口袋级”外骨骼机器人，只有1.8公斤！肯綮科技余运波在深圳做出全球生意
+4. [2026-11-16] 谷歌Gemini 4 Carbon入驻腾讯WorkBuddy：百万Token上下文 暂仅限Pro用户使用
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-15/doc-iniyvrfs9432191.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “世界首款“口袋级”外骨骼机器人，只有1.8公斤！肯綮科技余运波在深圳做出全球生意” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-16/doc-iniywwzi2464195.shtml
+   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌Gemini 4 Carbon入驻腾讯WorkBuddy：百万Token上下文 暂仅限Pro用户使用” against primary-source evidence.
 
-5. [2026-11-15] SSD硬盘价格涨不动了：1个月来跌了20%、内存降价还得等等
+5. [2026-11-16] 美“火神”火箭未能将亚马逊卫星送入预定轨道
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-15/doc-iniyvrfu6228690.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “SSD硬盘价格涨不动了：1个月来跌了20%、内存降价还得等等” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywnmm1383132.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “美“火神”火箭未能将亚马逊卫星送入预定轨道” against primary-source evidence.
 
 本次新增线索：
-- 韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试｜IT之家｜https://www.ithome.com/1/027/453.htm
-- 鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等｜IT之家｜https://www.ithome.com/1/027/454.htm
+- SK海力士拟建芯片测试中心｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5773868.shtml
+- 荷兰断供逼出最强国产替代！安世中国绝地反击：交付超400亿颗芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniywwzi2482033.shtml
+- 投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产｜IT之家｜https://www.ithome.com/1/027/465.htm
+- 谷歌Gemini 4 Carbon入驻腾讯WorkBuddy：百万Token上下文 暂仅限Pro用户使用｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-16/doc-iniywwzi2464195.shtml
+- 美“火神”火箭未能将亚马逊卫星送入预定轨道｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywnmm1383132.shtml
+- Vulcan rocket fails during launch, dealing major blow to SpaceX competitors｜Ars Technica｜https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
-- 太空与低空经济：太空与低空动态（4 条，2 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（6 条，4 个来源）
+- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（5 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
 1. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en
-2. Where was Nvidia’s security team?｜TechCrunch｜https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
-3. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say｜TechCrunch｜https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
-4. As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal｜France24 Technology｜https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1
-5. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+2. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors｜Ars Technica｜https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
+3. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO｜CNBC Technology｜https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html
+4. Apple launches new app to study how people use AI for health｜TechCrunch｜https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+5. Where was Nvidia’s security team?｜TechCrunch｜https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
