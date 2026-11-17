@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/17 13:01:24
+生成时间：2026/11/17 13:06:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 49 条｜国际 16 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 54 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -33,17 +33,13 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.cas.cn/djcx/gz/202611/t20261117_5124345.shtml
    角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “兰州分院分党组专题学习党的二十届五中全会精神” against primary-source evidence.
 
-5. [04:43] 宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练
-   来源：IT之家
-   链接：https://www.ithome.com/1/028/220.htm
-   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练” against primary-source evidence.
+5. [2026-11-17] 腾讯发文：已到生死存亡时刻
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/marketresearch/2026-11-17/doc-iniyyvsr7802869.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “腾讯发文：已到生死存亡时刻” against primary-source evidence.
 
 本次新增线索：
-- 宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练｜IT之家｜https://www.ithome.com/1/028/220.htm
-- 英伟达布局量子计算：将与IBM、费米实验室推出量子协同设计平台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyzhhm2310022.shtml
-- 摩托罗拉预告新机：预计为 Edge 70 Neo，搭载高通骁龙 7s Gen 3 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-17/doc-iniyzhhf1854562.shtml
-- 李彦宏：自动驾驶安全性或超人类10倍｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzhhm2304927.shtml
-- EV集团宣布支持扩展量子计算系统制造需求｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzhhf1862007.shtml
+- 高校教师评价如何从“唯论文”走向“重贡献”｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-17/doc-iniyzhhf1836637.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（13 条，3 个来源）
@@ -51,7 +47,7 @@ ChenChen 今日 Briefing｜V3
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely｜TechCrunch｜https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
