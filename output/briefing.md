@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/17 13:06:57
+生成时间：2026/11/17 22:54:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 54 条｜国际 16 条
+新增核心线索：国内 59 条｜国际 9 条
+延续跟踪线索：国内 13 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-17] 现场画面：李彦宏与曾毓群同台，王兴兴、王传福、雷军、董明珠、何超琼等参会！APEC工商领导人峰会开幕
+1. [2026-11-17] 大咖齐聚！APEC工商领导人峰会开幕，李彦宏、雷军、王传福、王兴兴、曾毓群、董明珠等参会
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzhhm2272792.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “现场画面：李彦宏与曾毓群同台，王兴兴、王传福、雷军、董明珠、何超琼等参会！APEC工商领导人峰会开幕” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/t/2026-11-17/doc-inizacmx5367335.shtml
+   角度：Use the balance between innovation, safety and accountability to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “大咖齐聚！APEC工商领导人峰会开幕，李彦宏、雷军、王传福、王兴兴、曾毓群、董明珠等参会” against primary-source evidence.
 
-2. [2026-11-17] 马斯克进一步与三星电子合作 三星得州工厂将制造星链芯片
+2. [2026-11-17] 李东生：人和AI的结合，将提升产研效率和创新能力
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizaitv5258737.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “李东生：人和AI的结合，将提升产研效率和创新能力” against primary-source evidence.
+
+3. [2026-11-17] 一杯机器人制作的奶茶，一套AI全能报道助手：AP
    来源：网易科技
-   链接：https://www.163.com/dy/article/LBUDN2FP05198CJN.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “马斯克进一步与三星电子合作 三星得州工厂将制造星链芯片” against primary-source evidence.
+   链接：https://www.163.com/dy/article/LBVD6DHH0512B07B.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “一杯机器人制作的奶茶，一套AI全能报道助手：AP” against primary-source evidence.
 
-3. [2026-11-17] 开瓶盖、装面包……八项精细动作1分钟完成！大晓加速通用模型具身能力产业落地
+4. [2026-11-17] 《半导体设备与零部件质量管理体系》行业标准发布
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-11/17/content_614682.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “《半导体设备与零部件质量管理体系》行业标准发布” against primary-source evidence.
+
+5. [2026-11-17] 出海不是“抢饭碗”！比亚迪王传福称外界对中国制造有误会，新能源车是填补当地的空白
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-11-17/doc-iniyyzym5480549.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “开瓶盖、装面包……八项精细动作1分钟完成！大晓加速通用模型具身能力产业落地” against primary-source evidence.
-
-4. [2026-11-17] 兰州分院分党组专题学习党的二十届五中全会精神
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202611/t20261117_5124345.shtml
-   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “兰州分院分党组专题学习党的二十届五中全会精神” against primary-source evidence.
-
-5. [2026-11-17] 腾讯发文：已到生死存亡时刻
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/marketresearch/2026-11-17/doc-iniyyvsr7802869.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “腾讯发文：已到生死存亡时刻” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-17/doc-iniyzxcx1687545.shtml
+   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “出海不是“抢饭碗”！比亚迪王传福称外界对中国制造有误会，新能源车是填补当地的空白” against primary-source evidence.
 
 本次新增线索：
-- 高校教师评价如何从“唯论文”走向“重贡献”｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-17/doc-iniyzhhf1836637.shtml
+- 大咖齐聚！APEC工商领导人峰会开幕，李彦宏、雷军、王传福、王兴兴、曾毓群、董明珠等参会｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-11-17/doc-inizacmx5367335.shtml
+- 李东生：人和AI的结合，将提升产研效率和创新能力｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizaitv5258737.shtml
+- 一杯机器人制作的奶茶，一套AI全能报道助手：AP｜网易科技｜https://www.163.com/dy/article/LBVD6DHH0512B07B.html
+- 《半导体设备与零部件质量管理体系》行业标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/17/content_614682.html
+- 出海不是“抢饭碗”！比亚迪王传福称外界对中国制造有误会，新能源车是填补当地的空白｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-17/doc-iniyzxcx1687545.shtml
+- Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials｜TechCrunch｜https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（13 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- AI 应用：AI动态（16 条，5 个来源）
+- 芯片/半导体：半导体供应链（5 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely｜TechCrunch｜https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
-2. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors｜Ars Technica｜https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
-3. Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security｜TechCrunch｜https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/
-4. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO｜CNBC Technology｜https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html
-5. OpenAI will embed safety researchers to investigate AI subversion｜TechCrunch｜https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
+1. Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials｜TechCrunch｜https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+2. Siri AI usage limits will depend on your iCloud+ plan｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/siri-ai-usage-limits-depend-141648570.html
+3. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors｜Ars Technica｜https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
+4. Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’｜TechCrunch｜https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/
+5. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO｜CNBC Technology｜https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
