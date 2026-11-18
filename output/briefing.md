@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/18 22:34:10
+生成时间：2026/11/18 23:15:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 60 条｜国际 9 条
-延续跟踪线索：国内 12 条｜国际 19 条
+新增核心线索：国内 8 条｜国际 1 条
+延续跟踪线索：国内 64 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,41 +18,41 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizenst0916784.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “工业智能体、数字能源、5G工厂……这场大会在武汉“热”起来了丨2026中国5G+工业互联网大会” against primary-source evidence.
 
-2. [2026-11-18] 大疆：部分产品，今起涨价
+2. [2026-11-18] 工信部发布5项人形机器人标准 涉及灵巧手、训练数据等
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-11-18/doc-inizeaaz4777901.shtml
-   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “大疆：部分产品，今起涨价” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizensv4736169.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “工信部发布5项人形机器人标准 涉及灵巧手、训练数据等” against primary-source evidence.
 
-3. [2026-11-18] 从发布会到APEC，雷军要讲的不只是小米
+3. [2026-11-18] 小米回应雷军APEC发言紧张：这么大的国际场合 紧张太正常啦
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizcexm4951945.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “小米回应雷军APEC发言紧张：这么大的国际场合 紧张太正常啦” against primary-source evidence.
+
+4. [2026-11-18] 从发布会到APEC，雷军要讲的不只是小米
    来源：网易科技
    链接：https://www.163.com/dy/article/LC1TVKNA05198CJN.html
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从发布会到APEC，雷军要讲的不只是小米” against primary-source evidence.
 
-4. [2026-11-18] 众擎T800领队“百机舞团”，共创“一小时内最多人形机器人跳舞”世界纪录
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/roll/2026-11-18/doc-inizcrpf4903107.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “众擎T800领队“百机舞团”，共创“一小时内最多人形机器人跳舞”世界纪录” against primary-source evidence.
-
-5. [2026-11-18] 消息称三星电子计划在 CES 2027 发布 2 款人形机器人
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-18/doc-inizensv4717261.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “消息称三星电子计划在 CES 2027 发布 2 款人形机器人” against primary-source evidence.
+5. [2026-11-18] 德适科技升级版iMedLoop平台全球上线 iMed-6.0模型能力进一步落地
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LC25S6DS05198CJN.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “德适科技升级版iMedLoop平台全球上线 iMed-6.0模型能力进一步落地” against primary-source evidence.
 
 本次新增线索：
-- 工业智能体、数字能源、5G工厂……这场大会在武汉“热”起来了丨2026中国5G+工业互联网大会｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizenst0916784.shtml
-- 大疆：部分产品，今起涨价｜新浪科技｜https://finance.sina.com.cn/wm/2026-11-18/doc-inizeaaz4777901.shtml
-- 从发布会到APEC，雷军要讲的不只是小米｜网易科技｜https://www.163.com/dy/article/LC1TVKNA05198CJN.html
-- 众擎T800领队“百机舞团”，共创“一小时内最多人形机器人跳舞”世界纪录｜新浪科技｜https://finance.sina.com.cn/stock/roll/2026-11-18/doc-inizcrpf4903107.shtml
-- 消息称三星电子计划在 CES 2027 发布 2 款人形机器人｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-18/doc-inizensv4717261.shtml
-- A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651
+- 工信部发布5项人形机器人标准 涉及灵巧手、训练数据等｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizensv4736169.shtml
+- 德适科技升级版iMedLoop平台全球上线 iMed-6.0模型能力进一步落地｜网易科技｜https://www.163.com/dy/article/LC25S6DS05198CJN.html
+- OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量｜网易科技｜https://www.163.com/dy/article/LC27QD2N0512B07B.html
+- 拥抱AI大浪：腾讯Q3资本开支狂飙527%！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizensx1524651.shtml
+- 英伟达RTX Spark迷你AI工作站上市 最高支持本地运行1200亿参数大模型｜网易科技｜https://www.163.com/dy/article/LC25S8ET05198CJN.html
+- Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO｜TechCrunch｜https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/
 
 今日热点方向：
-- AI 应用：AI动态（11 条，4 个来源）
+- AI 应用：AI动态（13 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿动态（7 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（4 条，2 个来源）
 
 国际科技背景：
 1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651
