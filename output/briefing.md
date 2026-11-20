@@ -3,48 +3,47 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/20 11:45:08
+生成时间：2026/11/20 11:56:17
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 34 条｜国际 12 条
-延续跟踪线索：国内 0 条｜国际 10 条
+新增核心线索：国内 6 条｜国际 0 条
+延续跟踪线索：国内 33 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
+1. [2026-11-20] AMD遭机构做空后跌超7%
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LC60M05O0519DDQ2.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.
+
+2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
    角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.
 
-2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件
+3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件
    来源：IT之家
    链接：https://www.ithome.com/1/029/774.htm
    角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.
 
-3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码
+4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.
 
-4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能
+5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.
 
-5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.
-
 本次新增线索：
-- 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
-- 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件｜IT之家｜https://www.ithome.com/1/029/774.htm
-- 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml
-- 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml
-- 三星电子通过专利收购扩充硅光技术专利组合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml
-- AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+- AMD遭机构做空后跌超7%｜网易科技｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html
+- 买 AI Token怕踩坑？ 北京移动这款有点不一样｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml
+- 英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响｜IT之家｜https://www.ithome.com/1/029/801.htm
+- 比亚迪发布可10秒折叠的方向盘，王传福提前试驾｜网易科技｜https://www.163.com/dy/article/LC659Q8H0534A4SC.html
+- 苹果正自研AI智能体：可操控设备、浏览网页、编写代码｜网易科技｜https://www.163.com/dy/article/LC5L0G680511B8LM.html
 
 今日热点方向：
 - AI 应用：AI动态（7 条，3 个来源）
@@ -52,13 +51,13 @@ ChenChen 今日 Briefing｜V3
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651
-2. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
-3. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
-4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
+2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
+3. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+4. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
 5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance
 
 发稿前核验提示：

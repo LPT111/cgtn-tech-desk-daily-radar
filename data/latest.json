@@ -1,74 +1,48 @@
 {
-  "generatedAt": "2026-11-20T03:45:08.639Z",
+  "generatedAt": "2026-11-20T03:56:17.393Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-20",
   "changeSummary": {
-    "domesticNew": 34,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 10,
+    "domesticNew": 6,
+    "globalNew": 0,
+    "domesticContinued": 33,
+    "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml"
+        "title": "AMD遭机构做空后跌超7%",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LC60M05O0519DDQ2.html"
       },
       {
-        "title": "蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件",
+        "title": "买 AI Token怕踩坑？ 北京移动这款有点不一样",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml"
+      },
+      {
+        "title": "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/029/774.htm"
+        "url": "https://www.ithome.com/1/029/801.htm"
       },
       {
-        "title": "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml"
+        "title": "比亚迪发布可10秒折叠的方向盘，王传福提前试驾",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LC659Q8H0534A4SC.html"
       },
       {
-        "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml"
-      },
-      {
-        "title": "三星电子通过专利收购扩充硅光技术专利组合",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml"
+        "title": "苹果正自研AI智能体：可操控设备、浏览网页、编写代码",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LC5L0G680511B8LM.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "AMD dives on short seller report of alleged China exposure",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
-      },
-      {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-      },
-      {
-        "title": "Data Governance Expertise on data governance to promote its safe and faire use in AI",
-        "source": "OECD AI Policy",
-        "url": "https://oecd.ai/en/working-group-data-governance"
-      },
-      {
-        "title": "Nvidia adds possible hack to list of very bad things under investigation",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
-      },
-      {
-        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 866,
-    "globalRejected": 878,
+    "domesticRejected": 861,
+    "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,8 +56,13 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -106,6 +85,11 @@
     }
   ],
   "failures": [
+    {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -153,7 +137,8 @@
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -380,11 +365,11 @@
   ],
   "itemsSeen": 1569,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 234,
-  "itemsAfterDedupe": 169,
-  "todayItemsSeen": 34,
+  "itemsAfterRelevantFilter": 237,
+  "itemsAfterDedupe": 174,
+  "todayItemsSeen": 39,
   "suspectedItemsSeen": 15,
-  "skippedNonToday": 119,
+  "skippedNonToday": 120,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -411,7 +396,8 @@
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -791,6 +777,11 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -837,23 +828,23 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 975,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 197,
+  "globalItemsAfterRelevantFilter": 196,
   "topics": [
     {
       "topic": "芯片动态",
-      "count": 8,
+      "count": 9,
       "sourceCount": 3,
       "sources": [
+        "网易科技",
         "新浪科技",
-        "IT之家",
-        "网易科技"
+        "IT之家"
       ],
       "items": [
+        "AMD遭机构做空后跌超7%",
         "三星电子通过专利收购扩充硅光技术专利组合",
-        "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470",
         "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
-        "三星电子任命存储与移动业务新负责人，联席 CEO 全永铉、卢泰文留任",
-        "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世"
+        "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470",
+        "三星电子任命存储与移动业务新负责人，联席 CEO 全永铉、卢泰文留任"
       ]
     },
     {
@@ -891,18 +882,18 @@
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 6,
+      "count": 8,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "网易科技"
       ],
       "items": [
+        "买 AI Token怕踩坑？ 北京移动这款有点不一样",
         "Anthropic向英国及欧洲散户投资者售股11亿美元，OpenAI进军手机领域",
         "只改一处代码，谷歌 AI 智能体优化 Harness 后任务成功率提升 8 倍",
         "谷歌推出Gemini 4 Neon模型；英特尔18A工艺签下",
-        "ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制",
-        "苹果正研发自有AI代理，拟与OpenAI和Anthropic"
+        "苹果正自研AI智能体：可操控设备、浏览网页、编写代码"
       ]
     },
     {
@@ -916,6 +907,18 @@
       "items": [
         "机器狗上岛“赶考”！未来“最后一公里”配送就靠一群“狗”了？",
         "行业首次：小鹏 2026 科技日将首发「图灵 AI 共驾」，把智能辅助驾驶能力赋能人驾"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "比亚迪发布可10秒折叠的方向盘，王传福提前试驾",
+        "马斯克来华24小时：夸深圳建设、访上海工厂，未"
       ]
     },
     {
@@ -953,14 +956,14 @@
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "科学前沿动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "items": [
-        "马斯克来华24小时：夸深圳建设、访上海工厂，未"
+        "北京市科学技术奖揭晓，基础研究类成果占比超三成"
       ]
     },
     {
@@ -987,6 +990,74 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "AMD遭机构做空后跌超7%",
+      "summary": "AMD遭机构做空后跌超7%，被质疑循环交易问题,芯片,amd,英伟达,meta,循环交易,全球市值,media",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LC60M05O0519DDQ2.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LC60M05O0519DDQ2.html"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "AMD遭机构做空后跌超7%，被质疑循环交易问题,芯片,amd,英伟达,meta,循环交易,全球市值,media",
+      "relatedTitles": [
+        "AMD遭机构做空后跌超7%"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在",
@@ -1053,7 +1124,7 @@
       "relatedTitles": [
         "比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1121,7 +1192,7 @@
       "relatedTitles": [
         "蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1189,7 +1260,7 @@
       "relatedTitles": [
         "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1257,7 +1328,7 @@
       "relatedTitles": [
         "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1324,6 +1395,142 @@
       "rawText": "根据美国专利商标局（USPTO）更新的最新专利权属记录，三星电子于 2026 年 9 月完成从英国光子芯片厂商罗克利光子（Rockley Photonics）手中收购四项美国专利，拿到多项硅光子核心技术的知识产权。四项专利覆盖四大技术领域：...",
       "relatedTitles": [
         "三星电子通过专利收购扩充硅光技术专利组合"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "买 AI Token怕踩坑？ 北京移动这款有点不一样",
+      "summary": "想用AI写方案、做配图、整理资料，是不是常常遇到这些麻烦？换一个大模型就要单独开会员、单独充值；想调用高级能力，还要研究复杂的API Key，各种配置步骤看得头大；AI生成的时候一直转圈等待，半天出不来结果；万一使用遇到问题，都不知道该找...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “买 AI Token怕踩坑？ 北京移动这款有点不一样” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "想用AI写方案、做配图、整理资料，是不是常常遇到这些麻烦？换一个大模型就要单独开会员、单独充值；想调用高级能力，还要研究复杂的API Key，各种配置步骤看得头大；AI生成的时候一直转圈等待，半天出不来结果；万一使用遇到问题，都不知道该找...",
+      "relatedTitles": [
+        "买 AI Token怕踩坑？ 北京移动这款有点不一样"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
+      "summary": "科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/029/801.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/029/801.htm"
+      ],
+      "publishedAt": "Fri, 20 Nov 2026 02:18:57 GMT",
+      "date": "2026-11-20",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。",
+      "relatedTitles": [
+        "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响"
       ],
       "isNewSinceLastRun": true
     },
@@ -1393,6 +1600,74 @@
       "relatedTitles": [
         "机器狗上岛“赶考”！未来“最后一公里”配送就靠一群“狗”了？"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "比亚迪发布可10秒折叠的方向盘，王传福提前试驾",
+      "summary": "比亚迪发布可10秒折叠的方向盘，王传福提前试驾,折叠,试驾,气囊,比亚迪,王传福,方向盘,自动驾驶,纯电动汽车",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LC659Q8H0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LC659Q8H0534A4SC.html"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “比亚迪发布可10秒折叠的方向盘，王传福提前试驾” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "比亚迪发布可10秒折叠的方向盘，王传福提前试驾,折叠,试驾,气囊,比亚迪,王传福,方向盘,自动驾驶,纯电动汽车",
+      "relatedTitles": [
+        "比亚迪发布可10秒折叠的方向盘，王传福提前试驾"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1461,7 +1736,7 @@
       "relatedTitles": [
         "行业首次：小鹏 2026 科技日将首发「图灵 AI 共驾」，把智能辅助驾驶能力赋能人驾"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1529,7 +1804,7 @@
       "relatedTitles": [
         "Anthropic向英国及欧洲散户投资者售股11亿美元，OpenAI进军手机领域"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1597,7 +1872,7 @@
       "relatedTitles": [
         "只改一处代码，谷歌 AI 智能体优化 Harness 后任务成功率提升 8 倍"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1665,7 +1940,7 @@
       "relatedTitles": [
         "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1733,75 +2008,7 @@
       "relatedTitles": [
         "AI消防水炮对着带火焰图案招牌猛喷 网友调侃纯视觉的缺陷"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
-      "summary": "11 月 20 日消息，科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。勒索软件组织 Gentlemen 在...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmi5701545.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmi5701545.shtml"
-      ],
-      "publishedAt": "2026-11-20",
-      "date": "2026-11-20",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "11 月 20 日消息，科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。勒索软件组织 Gentlemen 在...",
-      "relatedTitles": [
-        "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1874,7 +2081,7 @@
         "OpenAI 开放 GPT-Live-1.1 API：支持实时双向对话，智能体可边聊天边处理复杂任务",
         "谷歌推出Gemini 4 Neon模型；英特尔18A工艺签下"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1942,75 +2149,7 @@
       "relatedTitles": [
         "国内推出首个智能座舱 AI 分级评价体系，共分为 C1 到 C5 五级"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制",
-      "summary": "ChatGPT GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 14分钟前 ChatGPT Claude 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizitcq4052692.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizitcq4052692.shtml"
-      ],
-      "publishedAt": "2026-11-20",
-      "date": "2026-11-20",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "11月20日快科技消息，OpenAI宣布为ChatGPT新增“实时听写”功能，用户对着麦克风说话时语音可同步转文字，无需等录音结束，大幅提升语音输入效率。该功能将陆续向全球ChatGPT用户开放，覆盖网页版、桌面客户端及iOS、Android应用。新功能点击输入框音频波形按钮即可启动，录音结束后用户可直接编辑转写内容再发送，还取消了原有听写功能的10分钟时长限制，转写可靠性也进一步提升。此前处于测试阶段、仅面向Plus、Enterprise等付费工作区开放的“录制模式”仅支持事后转写，此次实时听写开放范围更广，降低了语音使用门槛。(AI生成)",
-      "relatedTitles": [
-        "ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2078,7 +2217,7 @@
       "relatedTitles": [
         "半导体自主可控有望加速兑现，科创主题宽基选哪"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2146,7 +2285,7 @@
       "relatedTitles": [
         "国机精工：公司应用在半导体领域的产品保持较快增长势头"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2214,7 +2353,7 @@
       "relatedTitles": [
         "GPU-Z 2.72.0 发布：可识别英伟达 RTX Spark、RTX 4090 Ti ES，新增 AMD 多显卡热点温度监控"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2281,6 +2420,74 @@
       "rawText": "三星电子发布人事调整公告，黄尚俊晋升总裁执掌存储业务，崔元俊出任移动业务负责人，联席 CEO 全永铉、卢泰文留任并专注部门整体运营。#三星电子#",
       "relatedTitles": [
         "三星电子任命存储与移动业务新负责人，联席 CEO 全永铉、卢泰文留任"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "苹果正自研AI智能体：可操控设备、浏览网页、编写代码",
+      "summary": "苹果正自研AI智能体：可操控设备、浏览网页、编写代码,代码,编程,应用程序,苹果公司,知名企业,ai智能体,命令提示符",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LC5L0G680511B8LM.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LC5L0G680511B8LM.html"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果正自研AI智能体：可操控设备、浏览网页、编写代码” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "苹果正自研AI智能体：可操控设备、浏览网页、编写代码,代码,编程,应用程序,苹果公司,知名企业,ai智能体,命令提示符",
+      "relatedTitles": [
+        "苹果正自研AI智能体：可操控设备、浏览网页、编写代码"
       ],
       "isNewSinceLastRun": true
     },
@@ -2350,7 +2557,7 @@
       "relatedTitles": [
         "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2418,7 +2625,7 @@
       "relatedTitles": [
         "美光：2027 年存储芯片已有 75% 库存售罄，供需形势会比今年更加紧张"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2486,7 +2693,146 @@
       "relatedTitles": [
         "马斯克来华24小时：夸深圳建设、访上海工厂，未"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "北京市科学技术奖揭晓，基础研究类成果占比超三成",
+      "summary": "11月20日，2025年度北京市科学技术奖正式公布。王中林、王拥军荣获突出贡献中关村奖。59项成果荣获自然科学奖，包括一等奖15项，二等奖44项；26项成果荣获技术发明奖，包括一等奖6项，二等奖20项；109项成果荣获科学技术进步奖，包括一...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctf5601089.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctf5601089.shtml"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "科学前沿",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “北京市科学技术奖揭晓，基础研究类成果占比超三成” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "11月20日，2025年度北京市科学技术奖正式公布。王中林、王拥军荣获突出贡献中关村奖。59项成果荣获自然科学奖，包括一等奖15项，二等奖44项；26项成果荣获技术发明奖，包括一等奖6项，二等奖20项；109项成果荣获科学技术进步奖，包括一...",
+      "relatedTitles": [
+        "北京市科学技术奖揭晓，基础研究类成果占比超三成"
+      ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制",
+      "summary": "ChatGPT OpenAI新融资到账110亿美元，不及原计划一半 融资缩水，硅谷投资人也谨慎了 田晏林 2026-11-07 AI，算力 ChatGPT OpenAI 融资 GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 202",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizitcq4052692.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizitcq4052692.shtml",
+        "https://www.163.com/dy/article/LC5UAVCU0512B07B.html"
+      ],
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "11月20日快科技消息，OpenAI宣布为ChatGPT新增“实时听写”功能，用户对着麦克风说话时语音可同步转文字，无需等录音结束，大幅提升语音输入效率。该功能将陆续向全球ChatGPT用户开放，覆盖网页版、桌面客户端及iOS、Android应用。新功能点击输入框音频波形按钮即可启动，录音结束后用户可直接编辑转写内容再发送，还取消了原有听写功能的10分钟时长限制，转写可靠性也进一步提升。此前处于测试阶段、仅面向Plus、Enterprise等付费工作区开放的“录制模式”仅支持事后转写，此次实时听写开放范围更广，降低了语音使用门槛。(AI生成)",
+      "relatedTitles": [
+        "ChatGPT上线实时听写功能！说话即可同步转文字 取消10分钟限制",
+        "DeepSeek千亿级融资工商变更落定，腾讯、宁德时"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2554,7 +2900,7 @@
       "relatedTitles": [
         "Win10一跑就蓝屏！内存检测一片红：病根可能在CPU"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2622,7 +2968,7 @@
       "relatedTitles": [
         "阿里把增长押给全栈AI，平头哥是底牌，也是赌注"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2690,7 +3036,7 @@
       "relatedTitles": [
         "把会议交给懂你业务的AI，会发生什么？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2758,7 +3104,7 @@
       "relatedTitles": [
         "苹果正研发自有AI代理，拟与OpenAI和Anthropic"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2826,7 +3172,7 @@
       "relatedTitles": [
         "英伟达与微软将加速计算从Azure扩展至Windows PC"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2894,7 +3240,7 @@
       "relatedTitles": [
         "Anthropic CEO称公司目前“很享受”与SpaceX的"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2962,7 +3308,7 @@
       "relatedTitles": [
         "曝 Meta 全新 AI 硬件 Muse Charm 售 300 美元，附赠一年 5G 流量"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3030,7 +3376,7 @@
       "relatedTitles": [
         "混合固液电池已具备市场化商业交付能力 全固态电池完成车规级样件验证"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3098,7 +3444,7 @@
       "relatedTitles": [
         "比亚迪申请注册“海鲸”及图形商标；11月新能源"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3166,7 +3512,7 @@
       "relatedTitles": [
         "五菱缤果 Pro 新增宁德时代电芯版，将于 11 月 24 日正式上市"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3234,7 +3580,7 @@
       "relatedTitles": [
         "工信部启动2026年“5G+工业互联网”融合应用城市试点工作 充分释放乘数效应 支撑先进制造业持续做大做强"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3302,7 +3648,7 @@
       "relatedTitles": [
         "华为鸿蒙星河互联支持流转iPhone来电：率先适配Mate 90系列/XT 2"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3438,73 +3784,6 @@
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 我国成功发射实践二十四号卫星 2026-11-19 09:20:51 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "我国成功发射实践二十四号卫星"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍",
-      "summary": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞 15秒视频，50秒出片 闻乐 2026-09-11 AIGC RunningHub 海马云 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡 背靠国内最大ComfyUI生态 西风 2026-05-07",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/runninghub",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/runninghub"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞 15秒视频，50秒出片 闻乐 2026-09-11 AIGC RunningHub 海马云 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡 背靠国内最大ComfyUI生态 西风 2026-05-07 RHTV RunningHub 热门文章 DeepSeek服务器全球宕机！神秘Harness账号同时现身 突发！DeepSeek新模型发布，超级性价比斩杀一切 库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本 清华开源！智能体操作系统任务成本降83%，AI记忆可查可改 智谱新模型，懂法方面全球第一了",
-      "relatedTitles": [
-        "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍"
       ]
     },
     {
@@ -4178,6 +4457,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍",
+      "summary": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞 15秒视频，50秒出片 闻乐 2026-09-11 AIGC RunningHub 海马云 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡 背靠国内最大ComfyUI生态 西风 2026-05-07",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/runninghub",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/runninghub"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 121,
+      "reporterScore": 121,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞 15秒视频，50秒出片 闻乐 2026-09-11 AIGC RunningHub 海马云 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡 背靠国内最大ComfyUI生态 西风 2026-05-07 RHTV RunningHub 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！ 千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常 纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "relatedTitles": [
+        "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美国数据中心之争，大家或许把它想复杂了",
       "summary": "弗吉尼亚州一位知名的反数据中心活动人士告诉我，当这个行业将这场斗争描绘成一场文化战争时，她总是“气得直撞墙”。",
@@ -4347,6 +4693,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "publishedAt": "Wed, 18 Nov 2026 21:15:00 +0000",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 90,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 169,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AMD dives on short seller report of alleged China exposure",
       "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
       "source": "CNBC Technology",
@@ -4375,7 +4753,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4405,38 +4783,6 @@
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 120
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-      "publishedAt": "Wed, 18 Nov 2026 21:15:00 +0000",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 90,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.",
-      "priority": 5,
-      "score": 161,
-      "reporterScore": 169,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -4471,295 +4817,7 @@
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia adds possible hack to list of very bad things under investigation",
-      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
-      "publishedAt": "Thu, 19 Nov 2026 18:52:53 +0000",
-      "date": "2026-11-19",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia adds possible hack to list of very bad things under investigation” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the worl",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "publishedAt": "Thu, 19 Nov 2026 16:19:41 +0000",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company som",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "publishedAt": "Fri, 20 Nov 2026 00:26:03 +0000",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic rival says companies can (mostly) skip the pricey models” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "publishedAt": "Thu, 19 Nov 2026 18:09:11 +0000",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.84,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google gives Gemini the ability to use your Mac for you” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "publishedAt": "Thu, 19 Nov 2026 19:43:08 GMT",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump bought Nvidia, Palantir, SpaceX in September as federal deals, Whi” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Elon Musk Predicts AI Will ‘Hack’ the Human Limbic System — Here’s What It Could Mean",
-      "summary": "Space Exploration Technologies Corp. CEO Elon Musk has predicted that the human brain could be taken over by artificial intelligence (AI) in the near future. Elon Musk Touts Super ",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/elon-musk-predicts-ai-hack-233004272.html",
-      "publishedAt": "2026-11-20",
-      "date": "2026-11-20",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Elon Musk Predicts AI Will ‘Hack’ the Human Limbic System — Here’s What ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "publishedAt": "Fri, 20 Nov 2026 03:30:34 GMT",
-      "date": "2026-11-20",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SoftBank plunges over 16% as AI sell-off hits Asian tech stocks followin” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "publishedAt": "Thu, 19 Nov 2026 23:37:56 +0000",
-      "date": "2026-11-19",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Elon Musk says SpaceX has a plan to eliminate cell phone dead zones” against primary-source evidence.",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan",
-      "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/nasa-reports-computer-anomaly-voyager-214956348.html",
-      "publishedAt": "2026-11-20",
-      "date": "2026-11-20",
-      "region": "US",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “Voyager 1 stops sending science data ahead of its light-day milestone — ” against primary-source evidence.",
-      "priority": 4,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4891,6 +4949,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia adds possible hack to list of very bad things under investigation",
+      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "publishedAt": "Thu, 19 Nov 2026 18:52:53 +0000",
+      "date": "2026-11-19",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia adds possible hack to list of very bad things under investigation” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Business as usual, but Huang ain't coming back, says Nvidia",
       "summary": "GPU giant puts on a brave face for investors, while analysts say doubts remain over the company",
       "source": "The Register",
@@ -4908,6 +4998,134 @@
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the worl",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "publishedAt": "Thu, 19 Nov 2026 16:19:41 +0000",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company som",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "publishedAt": "Fri, 20 Nov 2026 00:26:03 +0000",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic rival says companies can (mostly) skip the pricey models” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "publishedAt": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google gives Gemini the ability to use your Mac for you” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "publishedAt": "Thu, 19 Nov 2026 19:43:08 GMT",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump bought Nvidia, Palantir, SpaceX in September as federal deals, Whi” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4955,20 +5173,20 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "publishedAt": "Wed, 18 Nov 2026 18:11:41 GMT",
-      "date": "2026-11-18",
+      "title": "Elon Musk Predicts AI Will ‘Hack’ the Human Limbic System — Here’s What It Could Mean",
+      "summary": "Space Exploration Technologies Corp. CEO Elon Musk has predicted that the human brain could be taken over by artificial intelligence (AI) in the near future. Elon Musk Touts Super ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/elon-musk-predicts-ai-hack-233004272.html",
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
       "region": "US",
-      "category": "芯片",
+      "category": "AI",
       "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Nvidia’s Kress faces a divided workforce as some employees push for Huan” against primary-source evidence.",
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Elon Musk Predicts AI Will ‘Hack’ the Human Limbic System — Here’s What ” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -4980,7 +5198,71 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "publishedAt": "Fri, 20 Nov 2026 03:30:34 GMT",
+      "date": "2026-11-20",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SoftBank plunges over 16% as AI sell-off hits Asian tech stocks followin” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "publishedAt": "Thu, 19 Nov 2026 23:37:56 +0000",
+      "date": "2026-11-19",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Elon Musk says SpaceX has a plan to eliminate cell phone dead zones” against primary-source evidence.",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -5016,10 +5298,42 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan",
+      "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/nasa-reports-computer-anomaly-voyager-214956348.html",
+      "publishedAt": "2026-11-20",
+      "date": "2026-11-20",
+      "region": "US",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “Voyager 1 stops sending science data ahead of its light-day milestone — ” against primary-source evidence.",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-20｜V3\n生成时间：2026/11/20 11:45:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 34｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 34 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   IT之家｜2026-11-20｜https://www.ithome.com/1/029/774.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n- 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件｜IT之家｜https://www.ithome.com/1/029/774.htm\n- 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n- 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n- 三星电子通过专利收购扩充硅光技术专利组合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n- AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n3. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-20｜V3\n生成时间：2026/11/20 11:45:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 34｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 34 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   IT之家｜2026-11-20｜https://www.ithome.com/1/029/774.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n- 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件｜IT之家｜https://www.ithome.com/1/029/774.htm\n- 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n- 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n- 三星电子通过专利收购扩充硅光技术专利组合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n- AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n3. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-20｜生成时间：2026/11/20 11:45:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2544｜确认今日 34｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 34 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件</strong>\n      <span>IT之家｜2026-11-20｜<a href=\"https://www.ithome.com/1/029/774.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：188｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype</strong>\n      <span>时间：Wed, 18 Nov 2026 06:32:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “A Chinese bottle-cap manufacturer brilliantly deflated AI hype” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AMD dives on short seller report of alleged China exposure</strong>\n      <span>时间：Fri, 20 Nov 2026 00:08:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD dives on short seller report of alleged China exposure” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple may be developing its own AI agent that runs your Mac</strong>\n      <span>时间：Fri, 20 Nov 2026 00:56:01 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple may be developing its own AI agent that runs your Mac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways</strong>\n      <span>时间：Wed, 18 Nov 2026 21:15:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Data Governance Expertise on data governance to promote its safe and faire use in AI</strong>\n      <span>时间：2026-11-20｜来源：OECD AI Policy｜<a href=\"https://oecd.ai/en/working-group-data-governance\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Data Governance Expertise on data governance to promote its safe and fai” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/20 11:45:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 34 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   来源：IT之家\n   链接：https://www.ithome.com/1/029/774.htm\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n- 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件｜IT之家｜https://www.ithome.com/1/029/774.htm\n- 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n- 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n- 三星电子通过专利收购扩充硅光技术专利组合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml\n- AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n3. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-20｜V3\n生成时间：2026/11/20 11:56:17\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 39｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] AMD遭机构做空后跌超7%\n   网易科技｜2026-11-20｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.\n\n2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   IT之家｜2026-11-20｜https://www.ithome.com/1/029/774.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n本次新增线索：\n- AMD遭机构做空后跌超7%｜网易科技｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n- 买 AI Token怕踩坑？ 北京移动这款有点不一样｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml\n- 英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响｜IT之家｜https://www.ithome.com/1/029/801.htm\n- 比亚迪发布可10秒折叠的方向盘，王传福提前试驾｜网易科技｜https://www.163.com/dy/article/LC659Q8H0534A4SC.html\n- 苹果正自研AI智能体：可操控设备、浏览网页、编写代码｜网易科技｜https://www.163.com/dy/article/LC5L0G680511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n4. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-20｜V3\n生成时间：2026/11/20 11:56:17\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 39｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] AMD遭机构做空后跌超7%\n   网易科技｜2026-11-20｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.\n\n2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   IT之家｜2026-11-20｜https://www.ithome.com/1/029/774.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   新浪科技｜2026-11-20｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n本次新增线索：\n- AMD遭机构做空后跌超7%｜网易科技｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n- 买 AI Token怕踩坑？ 北京移动这款有点不一样｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml\n- 英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响｜IT之家｜https://www.ithome.com/1/029/801.htm\n- 比亚迪发布可10秒折叠的方向盘，王传福提前试驾｜网易科技｜https://www.163.com/dy/article/LC659Q8H0534A4SC.html\n- 苹果正自研AI智能体：可操控设备、浏览网页、编写代码｜网易科技｜https://www.163.com/dy/article/LC5L0G680511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n4. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-20｜生成时间：2026/11/20 11:56:17｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2544｜确认今日 39｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 33 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-20] AMD遭机构做空后跌超7%</strong>\n      <span>网易科技｜2026-11-20｜<a href=\"https://www.163.com/dy/article/LC60M05O0519DDQ2.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件</strong>\n      <span>IT之家｜2026-11-20｜<a href=\"https://www.ithome.com/1/029/774.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：188｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能</strong>\n      <span>新浪科技｜2026-11-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype</strong>\n      <span>时间：Wed, 18 Nov 2026 06:32:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “A Chinese bottle-cap manufacturer brilliantly deflated AI hype” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways</strong>\n      <span>时间：Wed, 18 Nov 2026 21:15:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AMD dives on short seller report of alleged China exposure</strong>\n      <span>时间：Fri, 20 Nov 2026 00:08:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD dives on short seller report of alleged China exposure” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple may be developing its own AI agent that runs your Mac</strong>\n      <span>时间：Fri, 20 Nov 2026 00:56:01 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple may be developing its own AI agent that runs your Mac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Data Governance Expertise on data governance to promote its safe and faire use in AI</strong>\n      <span>时间：2026-11-20｜来源：OECD AI Policy｜<a href=\"https://oecd.ai/en/working-group-data-governance\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Data Governance Expertise on data governance to promote its safe and fai” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/20 11:56:17\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-20] AMD遭机构做空后跌超7%\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.\n\n2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.\n\n3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件\n   来源：IT之家\n   链接：https://www.ithome.com/1/029/774.htm\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.\n\n4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.\n\n5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.\n\n本次新增线索：\n- AMD遭机构做空后跌超7%｜网易科技｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html\n- 买 AI Token怕踩坑？ 北京移动这款有点不一样｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml\n- 英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响｜IT之家｜https://www.ithome.com/1/029/801.htm\n- 比亚迪发布可10秒折叠的方向盘，王传福提前试驾｜网易科技｜https://www.163.com/dy/article/LC659Q8H0534A4SC.html\n- 苹果正自研AI智能体：可操控设备、浏览网页、编写代码｜网易科技｜https://www.163.com/dy/article/LC5L0G680511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html\n4. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
