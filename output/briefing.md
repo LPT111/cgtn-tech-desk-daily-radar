@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/19 23:50:04
+生成时间：2026/11/20 11:45:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 63 条｜国际 28 条
+新增核心线索：国内 34 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-19] 物理所研究员潘庶亨获2027年度美国物理学会约瑟夫·F·吉时利测量科学进展奖
-   来源：中国科学院
-   链接：https://www.cas.cn/rcjy/gz/202611/t20261119_5124653.shtml
-   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “物理所研究员潘庶亨获2027年度美国物理学会约瑟夫·F·吉时利测量科学进展奖” against primary-source evidence.
-
-2. [2026-11-19] 腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转
+1. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizfiwi0562623.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.
 
-3. [2026-11-19] 马斯克，从深圳飞到了上海
+2. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件
+   来源：IT之家
+   链接：https://www.ithome.com/1/029/774.htm
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.
+
+3. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhvyc0822610.shtml
-   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克，从深圳飞到了上海” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.
 
-4. [2026-11-19] 北京人形全新发布压力表智能检定解决方案，破解计量高危检定难题
+4. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-11-19/doc-inizfyuk4595724.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “北京人形全新发布压力表智能检定解决方案，破解计量高危检定难题” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.
 
-5. [2026-11-19] 我国境内最晚直立人化石被发现
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202611/t20261119_5124600.shtml
-   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国境内最晚直立人化石被发现” against primary-source evidence.
+5. [2026-11-20] 三星电子通过专利收购扩充硅光技术专利组合
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子通过专利收购扩充硅光技术专利组合” against primary-source evidence.
 
 本次新增线索：
-- ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-19/doc-inizhvxw7651022.shtml
-- 集成电路设计分会：2026年国内芯片销售额将突破1.5万亿元，同比增长89%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-19/doc-inizhvxv6082306.shtml
-- 追赶台积电有了重大进展？英特尔拿下微软先进封装大单｜网易科技｜https://www.163.com/dy/article/LC4QLU890512B07B.html
-- AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元｜IT之家｜https://www.ithome.com/1/029/688.htm
-- AI招聘平台哪个好？全链路AI工具赋能，优先选择前程无忧｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-19/doc-inizhvxw7647091.shtml
+- 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
+- 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件｜IT之家｜https://www.ithome.com/1/029/774.htm
+- 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml
+- 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml
+- 三星电子通过专利收购扩充硅光技术专利组合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizixmn4091122.shtml
+- AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
 
 今日热点方向：
-- AI 应用：AI动态（16 条，5 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- AI 应用：AI动态（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
+- 科学前沿：
 
 国际科技背景：
 1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651
-2. Google picks Bezos' Blue Origin to launch AI computing satellites in 2029｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-picks-bezos-blue-origin-140436422.html
-3. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
-4. Europe tries to find its AI niche｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/europe-tries-ai-niche-142238270.html
-5. Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated｜TechCrunch｜https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+2. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+3. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+4. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
+5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
