@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/20 12:02:36
+生成时间：2026/11/20 22:22:30
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 0 条
-延续跟踪线索：国内 38 条｜国际 21 条
+新增核心线索：国内 45 条｜国际 6 条
+延续跟踪线索：国内 7 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-20] 智能潮起 亚太同行
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-11/20/content_39111598.htm
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智能潮起 亚太同行” against primary-source evidence.
+1. [2026-11-20] OSTA O1 Pro搭载麒麟9030S芯片
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LC6MBJA30534A4SC.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OSTA O1 Pro搭载麒麟9030S芯片” against primary-source evidence.
 
-2. [2026-11-20] 三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气
+2. [2026-11-20] 马斯克24小时中国行，专程从深圳赶往上海
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0387109.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气” against primary-source evidence.
+   链接：https://finance.sina.com.cn/world/2026-11-20/doc-inizkctk4025371.shtml
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克24小时中国行，专程从深圳赶往上海” against primary-source evidence.
 
-3. [2026-11-20] 三星电子宣布新管理层，加强半导体业务
+3. [2026-11-20] 京东AI Agent与华为打通AI生态
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctp0387246.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子宣布新管理层，加强半导体业务” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/it/2026-11-20/doc-inizkqie3968331.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “京东AI Agent与华为打通AI生态” against primary-source evidence.
 
-4. [2026-11-20] 科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20261120/fc5c6a34e0104a79947b6d8436781220/c.html
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”” against primary-source evidence.
+4. [2026-11-20] 余承东纠正发布会言论：享界V8目前仍为L2级辅助驾驶
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LC6TS8410512B07B.html
+   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “余承东纠正发布会言论：享界V8目前仍为L2级辅助驾驶” against primary-source evidence.
 
-5. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
-   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.
+5. [10:06] 欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐
+   来源：IT之家
+   链接：https://www.ithome.com/1/030/191.htm
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐” against primary-source evidence.
 
 本次新增线索：
-- 智能潮起 亚太同行｜光明网-科技｜https://tech.gmw.cn/2026-11/20/content_39111598.htm
-- 三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0387109.shtml
-- 三星电子宣布新管理层，加强半导体业务｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctp0387246.shtml
-- 科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”｜新华网-科技｜http://www.news.cn/tech/20261120/fc5c6a34e0104a79947b6d8436781220/c.html
-- Anthropic在美上市 融资规模创纪录（组图）-新华社照片｜新华网-科技｜http://www.news.cn/tech/20261120/16f8a1ce1b334618b4a84b7ae768b9a3/c.html
+- OSTA O1 Pro搭载麒麟9030S芯片｜网易科技｜https://www.163.com/dy/article/LC6MBJA30534A4SC.html
+- 马斯克24小时中国行，专程从深圳赶往上海｜新浪科技｜https://finance.sina.com.cn/world/2026-11-20/doc-inizkctk4025371.shtml
+- 京东AI Agent与华为打通AI生态｜新浪科技｜https://finance.sina.com.cn/tech/it/2026-11-20/doc-inizkqie3968331.shtml
+- 余承东纠正发布会言论：享界V8目前仍为L2级辅助驾驶｜网易科技｜https://www.163.com/dy/article/LC6TS8410512B07B.html
+- 欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐｜IT之家｜https://www.ithome.com/1/030/191.htm
+- Google taps Blue Origin to launch AI satellites into orbit｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-taps-blue-origin-launch-123414278.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（11 条，4 个来源）
+- AI 应用：AI 应用与智能体（10 条，3 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
-1. A Chinese bottle-cap manufacturer brilliantly deflated AI hype｜The Register｜https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651
-2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
-3. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
-4. Apple may be developing its own AI agent that runs your Mac｜TechCrunch｜https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
-5. Data Governance Expertise on data governance to promote its safe and faire use in AI｜OECD AI Policy｜https://oecd.ai/en/working-group-data-governance
+1. Google taps Blue Origin to launch AI satellites into orbit｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-taps-blue-origin-launch-123414278.html
+2. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
+3. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
+4. Tech wreck drags Anthropic into the red on its second day of trading｜CNBC Technology｜https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html
+5. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
