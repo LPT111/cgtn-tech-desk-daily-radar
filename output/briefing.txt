@@ -1,54 +1,54 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/20 11:56:17
+生成时间：2026/11/20 12:02:36
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 33 条｜国际 21 条
+新增核心线索：国内 11 条｜国际 0 条
+延续跟踪线索：国内 38 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-20] AMD遭机构做空后跌超7%
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LC60M05O0519DDQ2.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD遭机构做空后跌超7%” against primary-source evidence.
+1. [2026-11-20] 智能潮起 亚太同行
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-11/20/content_39111598.htm
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智能潮起 亚太同行” against primary-source evidence.
 
-2. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
+2. [2026-11-20] 三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0387109.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气” against primary-source evidence.
+
+3. [2026-11-20] 三星电子宣布新管理层，加强半导体业务
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctp0387246.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星电子宣布新管理层，加强半导体业务” against primary-source evidence.
+
+4. [2026-11-20] 科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20261120/fc5c6a34e0104a79947b6d8436781220/c.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”” against primary-source evidence.
+
+5. [2026-11-20] 比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmr0489159.shtml
    角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪张卓宣布海洋网重磅旗舰 MPV 即将亮相，市场“独一无二”的存在” against primary-source evidence.
 
-3. [00:46] 蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件
-   来源：IT之家
-   链接：https://www.ithome.com/1/029/774.htm
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件” against primary-source evidence.
-
-4. [2026-11-20] 三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0377986.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码” against primary-source evidence.
-
-5. [2026-11-20] 三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizixmn4101977.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能” against primary-source evidence.
-
 本次新增线索：
-- AMD遭机构做空后跌超7%｜网易科技｜https://www.163.com/dy/article/LC60M05O0519DDQ2.html
-- 买 AI Token怕踩坑？ 北京移动这款有点不一样｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctk3988390.shtml
-- 英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响｜IT之家｜https://www.ithome.com/1/029/801.htm
-- 比亚迪发布可10秒折叠的方向盘，王传福提前试驾｜网易科技｜https://www.163.com/dy/article/LC659Q8H0534A4SC.html
-- 苹果正自研AI智能体：可操控设备、浏览网页、编写代码｜网易科技｜https://www.163.com/dy/article/LC5L0G680511B8LM.html
+- 智能潮起 亚太同行｜光明网-科技｜https://tech.gmw.cn/2026-11/20/content_39111598.htm
+- 三星 One UI 9.5 版天气 App 酝酿 AI 升级：出发前提醒查看目的地天气｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-20/doc-inizkctp0387109.shtml
+- 三星电子宣布新管理层，加强半导体业务｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctp0387246.shtml
+- 科学公开课：卫星互联网如何实现全球通信？- 本期“科学公开课”｜新华网-科技｜http://www.news.cn/tech/20261120/fc5c6a34e0104a79947b6d8436781220/c.html
+- Anthropic在美上市 融资规模创纪录（组图）-新华社照片｜新华网-科技｜http://www.news.cn/tech/20261120/16f8a1ce1b334618b4a84b7ae768b9a3/c.html
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（11 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
+- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
