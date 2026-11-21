@@ -1,45 +1,43 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/21 11:54:04
+生成时间：2026/11/21 12:01:30
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 40 条｜国际 26 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 42 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.
-
-2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍
+1. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.
 
-3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次
+2. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.
 
-4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通
+3. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml
    角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.
 
-5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图
+4. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图
    来源：IT之家
    链接：https://www.ithome.com/1/030/334.htm
    角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.
 
+5. [2026-11-21] 腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsk3523790.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上” against primary-source evidence.
+
 本次新增线索：
-- OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml
-- 谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题｜IT之家｜https://www.ithome.com/1/030/287.htm
-- 黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml
+- 姚顺雨与腾讯混元团队首次公开问答：下一代模型将显著扩容｜网易科技｜https://www.163.com/dy/article/LC8ODKI90534A4SC.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（11 条，4 个来源）
