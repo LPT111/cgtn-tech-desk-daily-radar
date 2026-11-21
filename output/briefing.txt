@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/20 23:32:41
+生成时间：2026/11/21 11:32:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 3 条
-延续跟踪线索：国内 53 条｜国际 17 条
+新增核心线索：国内 42 条｜国际 10 条
+延续跟踪线索：国内 0 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-20] 马斯克24小时中国行，专程从深圳赶往上海
+1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-11-20/doc-inizkctk4025371.shtml
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克24小时中国行，专程从深圳赶往上海” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.
 
-2. [2026-11-20] 国产版星链加速组网！长八甲发射成功 30组互联网低轨卫星入轨
+2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkywy3916854.shtml
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “国产版星链加速组网！长八甲发射成功 30组互联网低轨卫星入轨” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.
 
-3. [2026-11-20] 京东AI Agent与华为打通AI生态
+3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.
+
+4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/it/2026-11-20/doc-inizkqie3968331.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “京东AI Agent与华为打通AI生态” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml
+   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.
 
-4. [2026-11-20] 余承东纠正发布会言论：享界V8目前仍为L2级辅助驾驶
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LC6TS8410512B07B.html
-   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “余承东纠正发布会言论：享界V8目前仍为L2级辅助驾驶” against primary-source evidence.
-
-5. [2026-11-20] 中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办” against primary-source evidence.
+5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图
+   来源：IT之家
+   链接：https://www.ithome.com/1/030/334.htm
+   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.
 
 本次新增线索：
-- 中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办｜中国科学院｜https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml
-- APEC新闻中心里的智能体“搭档”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/20/content_616758.html
-- US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200
-- Nvidia adds possible hack to list of very bad things under investigation｜The Register｜https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153
-- Business as usual, but Huang ain't coming back, says Nvidia｜The Register｜https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772
+- Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml
+- 纯AI造CPU！从零自创指令集：能效比暴增4.59倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml
+- 国产大模型引领全球开源生态 累计下载量突破100亿次｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html
+- 重大突破！浙大让量子计算机有了内存 全球首次真机跑通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml
+- 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图｜IT之家｜https://www.ithome.com/1/030/334.htm
+- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（11 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，2 个来源）
-- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
-- 科学前沿：科学前沿动态（4 条，3 个来源）
+- AI 应用：AI 应用与智能体（10 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200
+1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382
 2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
 3. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
-4. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
-5. AMD dives on short seller report of alleged China exposure｜CNBC Technology｜https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200
+5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
