@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/21 21:42:58
+生成时间：2026/11/21 22:20:54
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 36 条｜国际 1 条
-延续跟踪线索：国内 14 条｜国际 24 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 46 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,38 +18,35 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-inizpcwa9524302.shtml
    角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “打造高性价比Token工厂，海光×清程极智打造异构混推新方案” against primary-source evidence.
 
-2. [2026-11-21] 千台岚图梦想家9右舵版发运出海，获得10亿级海外订单
+2. [2026-11-21] 内存涨价逼迫手机厂商挤牙膏！明年3nm芯片继续服役：开始省钱过日子了
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-inizpkcw3225104.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “内存涨价逼迫手机厂商挤牙膏！明年3nm芯片继续服役：开始省钱过日子了” against primary-source evidence.
+
+3. [2026-11-21] 千台岚图梦想家9右舵版发运出海，获得10亿级海外订单
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-11-21/doc-inizntha6628941.shtml
    角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “千台岚图梦想家9右舵版发运出海，获得10亿级海外订单” against primary-source evidence.
 
-3. [2026-11-21] 英特尔前CEO怒斥行业自满：摩尔定律没死 AI能效必须猛增10000倍！
+4. [2026-11-21] 腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznxpy6623273.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “英特尔前CEO怒斥行业自满：摩尔定律没死 AI能效必须猛增10000倍！” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsk3523790.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上” against primary-source evidence.
 
-4. [12:36] 欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失
-   来源：IT之家
-   链接：https://www.ithome.com/1/030/472.htm
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失” against primary-source evidence.
-
-5. [09:57] 华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等
-   来源：IT之家
-   链接：https://www.ithome.com/1/030/423.htm
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等” against primary-source evidence.
+5. [2026-11-21] 英伟达遭调查；多家品牌宣布：下调金饰克价；神
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LC9Q51A30512B07B.html
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达遭调查；多家品牌宣布：下调金饰克价；神” against primary-source evidence.
 
 本次新增线索：
-- 打造高性价比Token工厂，海光×清程极智打造异构混推新方案｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-inizpcwa9524302.shtml
-- 千台岚图梦想家9右舵版发运出海，获得10亿级海外订单｜新浪科技｜https://finance.sina.com.cn/roll/2026-11-21/doc-inizntha6628941.shtml
-- 英特尔前CEO怒斥行业自满：摩尔定律没死 AI能效必须猛增10000倍！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznxpy6623273.shtml
-- 欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失｜IT之家｜https://www.ithome.com/1/030/472.htm
-- 华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等｜IT之家｜https://www.ithome.com/1/030/423.htm
-- “Race realism” isn’t realistic—and it isn’t good science｜Ars Technica｜https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/
+- 内存涨价逼迫手机厂商挤牙膏！明年3nm芯片继续服役：开始省钱过日子了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-inizpkcw3225104.shtml
+- 英伟达遭调查；多家品牌宣布：下调金饰克价；神｜网易科技｜https://www.163.com/dy/article/LC9Q51A30512B07B.html
+- 美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用｜IT之家｜https://www.ithome.com/1/030/458.htm
 
 今日热点方向：
-- AI 应用：AI动态（13 条，4 个来源）
+- AI 应用：AI动态（12 条，4 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿与科研设施（1 条，1 个来源）
