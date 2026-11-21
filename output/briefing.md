@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/21 11:32:53
+生成时间：2026/11/21 11:54:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 42 条｜国际 10 条
-延续跟踪线索：国内 0 条｜国际 16 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 40 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,15 +39,12 @@ ChenChen 今日 Briefing｜V3
    角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.
 
 本次新增线索：
-- Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml
-- 纯AI造CPU！从零自创指令集：能效比暴增4.59倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml
-- 国产大模型引领全球开源生态 累计下载量突破100亿次｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html
-- 重大突破！浙大让量子计算机有了内存 全球首次真机跑通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml
-- 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图｜IT之家｜https://www.ithome.com/1/030/334.htm
-- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382
+- OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml
+- 谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题｜IT之家｜https://www.ithome.com/1/030/287.htm
+- 黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，4 个来源）
+- AI 应用：AI 应用与智能体（11 条，4 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
@@ -55,9 +52,9 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382
-2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
-3. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
+1. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/
+2. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
+3. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382
 4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200
 5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
 

@@ -1,73 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-11-21T03:32:53.638Z",
+  "generatedAt": "2026-11-21T03:54:04.784Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-21",
   "changeSummary": {
-    "domesticNew": 42,
-    "globalNew": 10,
-    "domesticContinued": 0,
-    "globalContinued": 16,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 40,
+    "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！",
+        "title": "OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml"
       },
       {
-        "title": "纯AI造CPU！从零自创指令集：能效比暴增4.59倍",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml"
-      },
-      {
-        "title": "国产大模型引领全球开源生态 累计下载量突破100亿次",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html"
-      },
-      {
-        "title": "重大突破！浙大让量子计算机有了内存 全球首次真机跑通",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml"
-      },
-      {
-        "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
+        "title": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/030/334.htm"
+        "url": "https://www.ithome.com/1/030/287.htm"
+      },
+      {
+        "title": "黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
-      },
-      {
-        "title": "Signal slams door on prying AI agents to protect privacy",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
-      },
-      {
-        "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438"
-      },
-      {
-        "title": "Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June listing",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai"
-      },
-      {
-        "title": "Google rolls out new search homepage with AI chat history and no search button",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 858,
+    "domesticRejected": 857,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +46,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 31,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -90,28 +54,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -127,28 +76,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -324,16 +258,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -354,9 +286,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -364,7 +295,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -411,13 +342,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1552,
+  "itemsSeen": 1564,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 252,
-  "itemsAfterDedupe": 189,
-  "todayItemsSeen": 42,
-  "suspectedItemsSeen": 17,
-  "skippedNonToday": 129,
+  "itemsAfterRelevantFilter": 259,
+  "itemsAfterDedupe": 193,
+  "todayItemsSeen": 43,
+  "suspectedItemsSeen": 18,
+  "skippedNonToday": 131,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -585,16 +516,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -615,9 +544,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -625,7 +553,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -832,28 +760,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -892,7 +805,7 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 10,
+      "count": 11,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -904,8 +817,8 @@ window.CHENCHEN_DAILY_DATA = {
         "Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！",
         "国产大模型引领全球开源生态 累计下载量突破100亿次",
         "腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上",
-        "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
-        "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑"
+        "OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑",
+        "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家"
       ]
     },
     {
@@ -926,23 +839,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 6,
-      "sourceCount": 3,
-      "sources": [
-        "科技日报",
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "数万家智能工厂背后，AI到底改变了什么？",
-        "光之宇发布 LuminTect：端到端 AI 光学设计 Agent，加速镜头研发",
-        "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-        "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
-        "6周AI协作撞上12年深耕，数学界迎来“黎曼猜想”证明双方案"
-      ]
-    },
-    {
       "topic": "监管与安全动态",
       "count": 3,
       "sourceCount": 3,
@@ -955,6 +851,22 @@ window.CHENCHEN_DAILY_DATA = {
         "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露",
         "实施网络安全标识的产品目录（第二批）公开征求意见",
         "Crowdstrike据悉洽购Zscaler 或缔造网络安全行业史上最大交易之一"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 6,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "科技日报"
+      ],
+      "items": [
+        "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
+        "数万家智能工厂背后，AI到底改变了什么？",
+        "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+        "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
+        "6周AI协作撞上12年深耕，数学界迎来“黎曼猜想”证明双方案"
       ]
     },
     {
@@ -1121,7 +1033,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1189,7 +1101,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "纯AI造CPU！从零自创指令集：能效比暴增4.59倍"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1257,7 +1169,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "国产大模型引领全球开源生态 累计下载量突破100亿次"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1325,7 +1237,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "重大突破！浙大让量子计算机有了内存 全球首次真机跑通"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1393,7 +1305,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1460,6 +1372,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "11月21日凌晨，腾讯首席AI科学家、混元大模型负责人姚顺雨携团队首次在开发者社区Reddit开展AMA公开答问，两小时内收到300余条涵盖多领域的留言。团队透露Hy4-mini等小尺寸模型已在路线图，将推出更小图像模型、布局视频模型；当前模型参数量维持700B，认为扎实的中小模型性价比更高，下一代混元模型将大幅扩容，同时强调通过有害数据过滤等推进安全开源，仍需优化过度拒绝问题。(AI生成)",
       "relatedTitles": [
         "腾讯姚顺雨团队回应一切：下一代模型将大幅扩容，小尺寸模型已在路线图上"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑",
+      "summary": "ChatGPT OpenAI新融资到账110亿美元，不及原计划一半 融资缩水，硅谷投资人也谨慎了 田晏林 2026-11-07 AI，算力 ChatGPT OpenAI 融资 GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 202",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml"
+      ],
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "11 月 21 日消息，OpenAI 今日宣布向 ChatGPT Plus 订阅用户开放 Spaces 协作空间功能。该功能此前仅面向 Pro、Business 和 Enterprise 等付费方案用户提供，现在每月支付 20 美元（IT之...",
+      "relatedTitles": [
+        "OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑"
       ],
       "isNewSinceLastRun": true
     },
@@ -1529,7 +1509,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1597,27 +1577,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
-      "summary": "ChatGPT 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。 henry 2026-09-15 AI ChatGPT 陶哲轩 GPT-5.6今起大降价，最大幅度80%！ Luna打骨折 听雨 20",
+      "title": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
+      "summary": "华为星芒 OSTA O1 Pro 已于昨日发布，品牌总经理刘赫在自己微博评论区解答了不少消费者的疑惑。针对星芒首发的新功能 Mate 系列能否 OTA 支持相关问题，刘赫透露 Mate 旗舰也“无缘”OSTA 小星芒、AI 屏等功能。#OSTA星芒手机#",
       "source": "IT之家",
       "sources": [
-        "IT之家",
-        "量子位"
+        "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/030/288.htm",
+      "url": "https://www.ithome.com/1/030/287.htm",
       "sourceUrls": [
-        "https://www.ithome.com/1/030/288.htm",
-        "https://www.qbitai.com/tag/kling-image-4-0"
+        "https://www.ithome.com/1/030/287.htm"
       ],
-      "publishedAt": "Fri, 20 Nov 2026 22:57:39 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 22:53:45 GMT",
       "date": "2026-11-21",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1627,14 +1605,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 171,
-      "reporterScore": 179,
+      "score": 159,
+      "reporterScore": 167,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1660,13 +1638,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "该功能此前仅面向高阶付费用户开放，Plus 用户每月支付 20 美元即可创建协作空间，可邀请他人共享资料、编辑文档，目前正分批向全球成年用户开放。#OpenAI最新动态#",
+      "matchedTopic": "AI动态",
+      "rawText": "谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整，面向全球桌面端逐步推出可折叠侧边栏，让用户直接从首页查找和继续此前的 AI 搜索对话。",
       "relatedTitles": [
-        "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
-        "Kling Image 4.0 好清晰！最新国产AI画的8K图"
+        "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题"
       ],
       "isNewSinceLastRun": true
     },
@@ -1736,7 +1713,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "小米从小鹏挖来了欧洲汽车业务负责人"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1804,7 +1781,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "优必选入选恒生科技指数，在资讯科技业中位列第14位"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1872,7 +1849,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "数万家智能工厂背后，AI到底改变了什么？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1940,7 +1917,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "威瑞森CEO深知马斯克要来抢占自家业务，他称SpaceX要参与竞争将耗资超3000亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2008,7 +1985,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2076,7 +2053,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2144,75 +2121,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "光之宇发布 LuminTect：端到端 AI 光学设计 Agent，加速镜头研发",
-      "summary": "华为星芒 OSTA O1 Pro 已于昨日发布，品牌总经理刘赫在自己微博评论区解答了不少消费者的疑惑。针对星芒首发的新功能 Mate 系列能否 OTA 支持相关问题，刘赫透露 Mate 旗舰也“无缘”OSTA 小星芒、AI 屏等功能。#OSTA星芒手机#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsk3509134.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsk3509134.shtml"
-      ],
-      "publishedAt": "2026-11-21",
-      "date": "2026-11-21",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “光之宇发布 LuminTect：端到端 AI 光学设计 Agent，加速镜头研发” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "2026年11月20日，上海光之宇智能科技有限公司（LightInfra，以下简称“光之宇”）正式发布端到端 AI 光学设计 Agent 产品 LuminTect。作为光之宇在“AI+光学”领域的又一重要突破，光之宇自主研发的 LuminT...",
-      "relatedTitles": [
-        "光之宇发布 LuminTect：端到端 AI 光学设计 Agent，加速镜头研发"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2280,7 +2189,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2348,7 +2257,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic数学家宣称：在Claude协助下证明了黎曼猜想"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2416,7 +2325,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "软银孙正义被曝曾考虑1万亿美元收购SK海力士"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2484,7 +2393,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "数学史上最难啃的一块骨头！AI疑证明黎曼猜想：有人却高兴不起来"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2552,7 +2461,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "NeurIPS 2026 | 视觉语言大模型不关注场景中的人类，反而靠物体大小判断谁更关键"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2620,7 +2529,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI推出MedChemBench基准，评估AI辅助药物研"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2688,7 +2597,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "阿波罗与高盛宣布SpaceX 440亿美元GPU融资定价"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2756,7 +2665,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI产业催化密集 硬件与应用双线配置价值凸显"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2824,7 +2733,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "郭明錤：谷歌已削减了2027年博通设计的TPU 8i系列出货量约100万台"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2892,7 +2801,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2959,6 +2868,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "Contra Labs 发布设计能力评测榜，匿名 AI 模型 Gestalt 以 90% 胜率、1931 分 Elo 评分登顶，盲测中偏好度超人类参考作品，目前其开发团队与架构尚未公开。",
       "relatedTitles": [
         "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间",
+      "summary": "11 月 21 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣称他与 Claude 合作，发现了黎曼猜想及其推广形式广义黎曼猜想（GRH）的证明。阿尔珀格拥有哈佛大学本...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml"
+      ],
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "11 月 21 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣称他与 Claude 合作，发现了黎曼猜想及其推广形式广义黎曼猜想（GRH）的证明。阿尔珀格拥有哈佛大学本...",
+      "relatedTitles": [
+        "黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间"
       ],
       "isNewSinceLastRun": true
     },
@@ -3028,7 +3005,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "实施网络安全标识的产品目录（第二批）公开征求意见"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3096,7 +3073,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "宁德时代在土耳其首个宁家服务体验中心开业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -3164,7 +3141,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "6周AI协作撞上12年深耕，数学界迎来“黎曼猜想”证明双方案"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -3232,7 +3209,75 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI进车间，0.5秒算出一辆车的“配方”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "神州半导体过会，硬科技再添一员",
+      "summary": "《投资者网》11月16日，神州半导体顺利通过科创板上市委审议。等离子电源，是半导体刻蚀、腔室清洗环节的核心零部件，也是国产替代进程里长期攻坚的细分赛道。这家国内等离子电源赛道的头部企业成功过会，为半导体零部件自主可控，释放出一个重要信号。过...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6733741.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6733741.shtml"
+      ],
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “神州半导体过会，硬科技再添一员” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "《投资者网》11月16日，神州半导体顺利通过科创板上市委审议。等离子电源，是半导体刻蚀、腔室清洗环节的核心零部件，也是国产替代进程里长期攻坚的细分赛道。这家国内等离子电源赛道的头部企业成功过会，为半导体零部件自主可控，释放出一个重要信号。过...",
+      "relatedTitles": [
+        "神州半导体过会，硬科技再添一员"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3300,7 +3345,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Crowdstrike据悉洽购Zscaler 或缔造网络安全行业史上最大交易之一"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3368,7 +3413,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3436,7 +3481,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "比亚迪闪充枪突破 3.1 万个：覆盖全国 345 城，用户超 357 万人"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3504,7 +3549,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "仅一个多月 英伟达市值距纪录高点已跌掉一个亚马逊"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3572,7 +3617,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3640,75 +3685,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "跌掉一个亚马逊：英伟达市值较 10 月高点蒸发 2.73 万亿美元，纳斯达克创 2020 年 3 月疫情后最差单周表现"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "神州半导体过会，硬科技再添一员",
-      "summary": "《投资者网》11月16日，神州半导体顺利通过科创板上市委审议。等离子电源，是半导体刻蚀、腔室清洗环节的核心零部件，也是国产替代进程里长期攻坚的细分赛道。这家国内等离子电源赛道的头部企业成功过会，为半导体零部件自主可控，释放出一个重要信号。过...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6733741.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6733741.shtml"
-      ],
-      "publishedAt": "2026-11-21",
-      "date": "2026-11-21",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 0,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “神州半导体过会，硬科技再添一员” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "《投资者网》11月16日，神州半导体顺利通过科创板上市委审议。等离子电源，是半导体刻蚀、腔室清洗环节的核心零部件，也是国产替代进程里长期攻坚的细分赛道。这家国内等离子电源赛道的头部企业成功过会，为半导体零部件自主可控，释放出一个重要信号。过...",
-      "relatedTitles": [
-        "神州半导体过会，硬科技再添一员"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3776,7 +3753,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "蔚来ES9地平线鎏金特别版正式上市"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3844,7 +3821,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "QQ 鸿蒙版 App 获 9.2.90 邀测升级：新增支持互动标识、表情搜索等功能"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3912,7 +3889,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -4119,7 +4096,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 93975",
+      "title": "阅读 94486",
       "summary": "【文/观察者网 曲乔乔】当地时间11月19日，美国人工智能（AI）公司Anthropic的股票在纽约纳斯达克",
       "source": "观察者网-产业科技",
       "sources": [
@@ -4176,12 +4153,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “阅读 93975” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阅读 94486” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "【文/观察者网 曲乔乔】当地时间11月19日，美国人工智能（AI）公司Anthropic的股票在纽约纳斯达克",
       "relatedTitles": [
-        "阅读 93975"
+        "阅读 94486"
       ]
     },
     {
@@ -4320,8 +4297,75 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "Kling Image 4.0 好清晰！最新国产AI画的8K图",
+      "summary": "Kling Image 4.0 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！ Kling Image 4.0 十三 28分钟前 AI生图 Kling Image 4.0 可灵 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/kling-image-4-0",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/kling-image-4-0"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 137,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Kling Image 4.0 好清晰！最新国产AI画的8K图” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Kling Image 4.0 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！ Kling Image 4.0 十三 28分钟前 AI生图 Kling Image 4.0 可灵 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！ 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "relatedTitles": [
+        "Kling Image 4.0 好清晰！最新国产AI画的8K图"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "Gemini 4 Gemini新模型Neon箭在弦上",
-      "summary": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 14分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演",
+      "summary": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 4分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -4380,7 +4424,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Gemini 4 Gemini新模型Neon箭在弦上” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 14分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！ 纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "rawText": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 4分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！ 纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
       "relatedTitles": [
         "Gemini 4 Gemini新模型Neon箭在弦上"
       ]
@@ -5059,38 +5103,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-      "summary": "security China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server 'Agents kept adapting for nearly a full day without human",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "publishedAt": "Fri, 20 Nov 2026 17:30:00 +0000",
-      "date": "2026-11-20",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China attackers deployed AI agents that autonomously found and exploited” against primary-source evidence.",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
       "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
       "source": "WIRED Business",
@@ -5137,6 +5149,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
       "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “California AG subpoenas Nvidia over worries about Huang’s ties with Chin” against primary-source evidence.",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "summary": "security China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server 'Agents kept adapting for nearly a full day without human",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "publishedAt": "Fri, 20 Nov 2026 17:30:00 +0000",
+      "date": "2026-11-20",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China attackers deployed AI agents that autonomously found and exploited” against primary-source evidence.",
       "priority": 5,
       "score": 159,
       "reporterScore": 167,
@@ -5283,294 +5327,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Signal slams door on prying AI agents to protect privacy",
-      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
-      "publishedAt": "Fri, 20 Nov 2026 20:42:04 +0000",
-      "date": "2026-11-20",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Signal slams door on prying AI agents to protect privacy” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
-      "summary": "A deeper look at Vera",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
-      "publishedAt": "Fri, 20 Nov 2026 18:45:50 +0000",
-      "date": "2026-11-20",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia’s journey to forge the one CPU SKU to rule them all” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June listing",
-      "summary": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the worl",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
-      "publishedAt": "2026-11-19",
-      "date": "2026-11-19",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.95,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "publishedAt": "Fri, 20 Nov 2026 21:58:29 +0000",
-      "date": "2026-11-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google rolls out new search homepage with AI chat history and no search ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
-      "summary": "There are only a few weeks left in the year and there have been more than 200,000 job losses across the tech industry. Here are the details.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-182529412.html",
-      "publishedAt": "2026-11-21",
-      "date": "2026-11-21",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amaz” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
-      "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-iphone-camera-chief-opponent-025317008.html",
-      "publishedAt": "2026-11-21",
-      "date": "2026-11-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple’s iPhone camera chief, an opponent of AI-altered photos, has retir” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "publishedAt": "Fri, 20 Nov 2026 22:59:33 GMT",
-      "date": "2026-11-20",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Nvidia stock plunges 14%, wraps up longest weekly losing streak since 20” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/claude/articles/ai-solving-maths-problems-anthropic-230902059.html",
-      "publishedAt": "2026-11-21",
-      "date": "2026-11-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “In a year of AI solving maths problems, Anthropic may have just solved t” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "summary": "Explain the changes that were made to the Starshield service in October 2026.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "publishedAt": "Fri, 20 Nov 2026 22:16:51 +0000",
-      "date": "2026-11-21",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX's Starshield troubles in Ukraine could threaten its broader milit” against primary-source evidence.",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 105
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
       "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
       "source": "WIRED Business",
@@ -5635,6 +5391,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "publishedAt": "Fri, 20 Nov 2026 20:42:04 +0000",
+      "date": "2026-11-20",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Signal slams door on prying AI agents to protect privacy” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "summary": "A deeper look at Vera",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "publishedAt": "Fri, 20 Nov 2026 18:45:50 +0000",
+      "date": "2026-11-20",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia’s journey to forge the one CPU SKU to rule them all” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia adds possible hack to list of very bad things under investigation",
       "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
       "source": "The Register",
@@ -5649,6 +5469,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
       "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia adds possible hack to list of very bad things under investigation” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June listing",
+      "summary": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the worl",
+      "source": "France24 Technology",
+      "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
+      "publishedAt": "2026-11-19",
+      "date": "2026-11-19",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.95,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June ” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -5699,6 +5551,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "publishedAt": "Fri, 20 Nov 2026 21:58:29 +0000",
+      "date": "2026-11-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google rolls out new search homepage with AI chat history and no search ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The Apple Watch's new AI can recall conversations for you. Should you let it?",
       "summary": "The technology behind Apple's Audio Intelligence features is staggering. I'm just trying to find a use for it.",
       "source": "Yahoo News Technology",
@@ -5713,6 +5597,102 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Apple Watch's new AI can recall conversations for you. Should you le” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+      "summary": "There are only a few weeks left in the year and there have been more than 200,000 job losses across the tech industry. Here are the details.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-182529412.html",
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amaz” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
+      "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-iphone-camera-chief-opponent-025317008.html",
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple’s iPhone camera chief, an opponent of AI-altered photos, has retir” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "publishedAt": "Fri, 20 Nov 2026 22:59:33 GMT",
+      "date": "2026-11-20",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Nvidia stock plunges 14%, wraps up longest weekly losing streak since 20” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -5759,6 +5739,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/claude/articles/ai-solving-maths-problems-anthropic-230902059.html",
+      "publishedAt": "2026-11-21",
+      "date": "2026-11-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “In a year of AI solving maths problems, Anthropic may have just solved t” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -5859,6 +5871,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "summary": "Explain the changes that were made to the Starshield service in October 2026.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "publishedAt": "Fri, 20 Nov 2026 22:16:51 +0000",
+      "date": "2026-11-21",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX's Starshield troubles in Ukraine could threaten its broader milit” against primary-source evidence.",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 105
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
       "summary": "Technology called “machine perfusion” is creating the chance for more transplants—and daring new science.",
       "source": "MIT Technology Review",
@@ -5890,8 +5934,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-21｜V3\n生成时间：2026/11/21 11:32:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 42｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   科技日报｜2026-11-21｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   IT之家｜2026-11-21｜https://www.ithome.com/1/030/334.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n- 纯AI造CPU！从零自创指令集：能效比暴增4.59倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n- 国产大模型引领全球开源生态 累计下载量突破100亿次｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n- 重大突破！浙大让量子计算机有了内存 全球首次真机跑通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n- 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图｜IT之家｜https://www.ithome.com/1/030/334.htm\n- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-21｜V3\n生成时间：2026/11/21 11:32:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 42｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   科技日报｜2026-11-21｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   IT之家｜2026-11-21｜https://www.ithome.com/1/030/334.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n- 纯AI造CPU！从零自创指令集：能效比暴增4.59倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n- 国产大模型引领全球开源生态 累计下载量突破100亿次｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n- 重大突破！浙大让量子计算机有了内存 全球首次真机跑通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n- 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图｜IT之家｜https://www.ithome.com/1/030/334.htm\n- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-21｜生成时间：2026/11/21 11:32:53｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2527｜确认今日 42｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 42 条｜国际 10 条<br>延续跟踪线索：国内 0 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次</strong>\n      <span>科技日报｜2026-11-21｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图</strong>\n      <span>IT之家｜2026-11-21｜<a href=\"https://www.ithome.com/1/030/334.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server</strong>\n      <span>时间：Fri, 20 Nov 2026 17:30:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China attackers deployed AI agents that autonomously found and exploited” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways</strong>\n      <span>时间：Wed, 18 Nov 2026 21:15:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. California AG subpoenas Nvidia over worries about Huang’s ties with China</strong>\n      <span>时间：Fri, 20 Nov 2026 13:21:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “California AG subpoenas Nvidia over worries about Huang’s ties with Chin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</strong>\n      <span>时间：Fri, 20 Nov 2026 04:04:56 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “US let Nvidia and AMD sell bucketloads of chips to military-linked Chine” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models</strong>\n      <span>时间：Fri, 20 Nov 2026 14:07:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/21 11:32:53\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   来源：IT之家\n   链接：https://www.ithome.com/1/030/334.htm\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n- 纯AI造CPU！从零自创指令集：能效比暴增4.59倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n- 国产大模型引领全球开源生态 累计下载量突破100亿次｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n- 重大突破！浙大让量子计算机有了内存 全球首次真机跑通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n- 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图｜IT之家｜https://www.ithome.com/1/030/334.htm\n- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n2. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n3. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-21｜V3\n生成时间：2026/11/21 11:54:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 43｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 40 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   科技日报｜2026-11-21｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   IT之家｜2026-11-21｜https://www.ithome.com/1/030/334.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml\n- 谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题｜IT之家｜https://www.ithome.com/1/030/287.htm\n- 黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n2. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n3. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-21｜V3\n生成时间：2026/11/21 11:54:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 43｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 40 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   科技日报｜2026-11-21｜https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   新浪科技｜2026-11-21｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   IT之家｜2026-11-21｜https://www.ithome.com/1/030/334.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml\n- 谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题｜IT之家｜https://www.ithome.com/1/030/287.htm\n- 黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n2. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n3. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-21｜生成时间：2026/11/21 11:54:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2539｜确认今日 43｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 40 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次</strong>\n      <span>科技日报｜2026-11-21｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通</strong>\n      <span>新浪科技｜2026-11-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图</strong>\n      <span>IT之家｜2026-11-21｜<a href=\"https://www.ithome.com/1/030/334.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways</strong>\n      <span>时间：Wed, 18 Nov 2026 21:15:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “America’s AI Chip War Is Heating Up in the Dumbest Possible Ways” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. California AG subpoenas Nvidia over worries about Huang’s ties with China</strong>\n      <span>时间：Fri, 20 Nov 2026 13:21:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “California AG subpoenas Nvidia over worries about Huang’s ties with Chin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server</strong>\n      <span>时间：Fri, 20 Nov 2026 17:30:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China attackers deployed AI agents that autonomously found and exploited” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</strong>\n      <span>时间：Fri, 20 Nov 2026 04:04:56 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “US let Nvidia and AMD sell bucketloads of chips to military-linked Chine” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models</strong>\n      <span>时间：Fri, 20 Nov 2026 14:07:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/21 11:54:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 40 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-21] Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3617771.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic敲钟为何不见华人面孔？美国科技企业一大通病！” against primary-source evidence.\n\n2. [2026-11-21] 纯AI造CPU！从零自创指令集：能效比暴增4.59倍\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-21/doc-iniznakn3630240.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “纯AI造CPU！从零自创指令集：能效比暴增4.59倍” against primary-source evidence.\n\n3. [2026-11-21] 国产大模型引领全球开源生态 累计下载量突破100亿次\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/21/content_616904.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国产大模型引领全球开源生态 累计下载量突破100亿次” against primary-source evidence.\n\n4. [2026-11-21] 重大突破！浙大让量子计算机有了内存 全球首次真机跑通\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6759316.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “重大突破！浙大让量子计算机有了内存 全球首次真机跑通” against primary-source evidence.\n\n5. [03:01] 全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图\n   来源：IT之家\n   链接：https://www.ithome.com/1/030/334.htm\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图” against primary-source evidence.\n\n本次新增线索：\n- OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6787709.shtml\n- 谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题｜IT之家｜https://www.ithome.com/1/030/287.htm\n- 黎曼猜想真被Claude证明了？陶哲轩称验证仍需时间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznhsh6788144.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. America’s AI Chip War Is Heating Up in the Dumbest Possible Ways｜WIRED Business｜https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/\n2. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n3. China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server｜The Register｜https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\n4. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n5. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
