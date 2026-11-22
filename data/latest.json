@@ -1,64 +1,22 @@
 {
-  "generatedAt": "2026-11-22T02:41:20.843Z",
+  "generatedAt": "2026-11-22T03:00:00.337Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-22",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 3,
-    "domesticContinued": 0,
+    "domesticNew": 0,
+    "globalNew": 0,
+    "domesticContinued": 17,
     "globalContinued": 13,
-    "topNewDomestic": [
-      {
-        "title": "全球首场人形机器人拳击金腰带争霸赛在雄安上演",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html"
-      },
-      {
-        "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml"
-      },
-      {
-        "title": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml"
-      },
-      {
-        "title": "人力资源服务方向国家人工智能应用中试基地在渝揭牌",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html"
-      },
-      {
-        "title": "AI服务商焦虑算力时，手里的GPU用好了吗？",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml"
-      }
-    ],
-    "topNewGlobal": [
-      {
-        "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
-      },
-      {
-        "title": "A tale of two Nvidias",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
-      },
-      {
-        "title": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/nvidia-expands-vera-rubin-platform-002500489.html"
-      }
-    ],
+    "topNewDomestic": [],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 884,
+    "domesticRejected": 883,
+    "globalRejected": 887,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -72,7 +30,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "中国科学院",
@@ -85,8 +43,18 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -112,8 +80,18 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -131,7 +109,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -295,7 +273,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -308,8 +287,9 @@
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -317,7 +297,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -379,18 +359,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1498,
+  "itemsSeen": 1479,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 207,
-  "itemsAfterDedupe": 163,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 16,
-  "skippedNonToday": 128,
+  "itemsAfterRelevantFilter": 203,
+  "itemsAfterDedupe": 160,
+  "todayItemsSeen": 17,
+  "suspectedItemsSeen": 17,
+  "skippedNonToday": 124,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -554,7 +534,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -567,8 +548,9 @@
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -576,7 +558,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -707,7 +689,7 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -803,8 +785,18 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -842,24 +834,10 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 17,
-  "globalItemsSeen": 975,
+  "globalItemsSeen": 925,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 193,
+  "globalItemsAfterRelevantFilter": 187,
   "topics": [
-    {
-      "topic": "AI动态",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "科技日报",
-        "新浪科技"
-      ],
-      "items": [
-        "人力资源服务方向国家人工智能应用中试基地在渝揭牌",
-        "生菜种20天就能端上桌？在农博会看“AI种地”新生活",
-        "不用交换机！微软Windows11上线USB4 RDMA：多机合体做AI推理"
-      ]
-    },
     {
       "topic": "AI 应用与智能体",
       "count": 3,
@@ -897,6 +875,18 @@
         "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
         "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
         "华为 WATCH GT 6 发布 HarmonyOS 7.0.0.108 SP8 版本，表端支持微信来电接听和挂断"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "人力资源服务方向国家人工智能应用中试基地在渝揭牌",
+        "生菜种20天就能端上桌？在农博会看“AI种地”新生活"
       ]
     },
     {
@@ -993,13 +983,13 @@
       "hardTechPriority": 90,
       "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 185,
-      "reporterScore": 199,
+      "score": 175,
+      "reporterScore": 189,
       "scoreBreakdown": {
         "hardTech": 90,
         "today": 18,
         "sourceAuthority": 18,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 12,
         "visual": 8,
         "international": 9,
@@ -1033,7 +1023,7 @@
       "relatedTitles": [
         "全球首场人形机器人拳击金腰带争霸赛在雄安上演"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1101,12 +1091,12 @@
       "relatedTitles": [
         "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家",
-      "summary": "IT之家 11 月 22 日消息，据“北京昌平”公众号，11 月 21 日，以“脑智芯联机遇昌平”为主题的 2026 脑机接口大会在昌平石油科技交流中心开幕。开幕式上，《2026 年脑机接口创新发展研究报告》正式发布。报告认为，2026 年...",
+      "summary": "11月21日，以“脑智芯联机遇昌平”为主题的2026脑机接口大会于昌平石油科技交流中心开幕，会上发布《2026年脑机接口创新发展研究报告》。报告显示2026年全球脑机接口企业达1175家，中国京津冀、长三角、粤港澳三大城市群集聚190余家相关企业，占全国77.4%。报告从四维度重新界定脑机接口，梳理其系统架构，划分四代",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1119,7 +1109,7 @@
       "publishedAt": "2026-11-22",
       "date": "2026-11-22",
       "category": "科学前沿",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.98,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1165,11 +1155,11 @@
       "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿与科研设施",
-      "rawText": "IT之家 11 月 22 日消息，据“北京昌平”公众号，11 月 21 日，以“脑智芯联机遇昌平”为主题的 2026 脑机接口大会在昌平石油科技交流中心开幕。开幕式上，《2026 年脑机接口创新发展研究报告》正式发布。报告认为，2026 年...",
+      "rawText": "11月21日，以“脑智芯联机遇昌平”为主题的2026脑机接口大会于昌平石油科技交流中心开幕，会上发布《2026年脑机接口创新发展研究报告》。报告显示2026年全球脑机接口企业达1175家，中国京津冀、长三角、粤港澳三大城市群集聚190余家相关企业，占全国77.4%。报告从四维度重新界定脑机接口，梳理其系统架构，划分四代技术代际，同时指出当前产业仍存在支付、人才体系不完善等问题，需多方持续支持。(AI生成)",
       "relatedTitles": [
         "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1237,7 +1227,7 @@
       "relatedTitles": [
         "人力资源服务方向国家人工智能应用中试基地在渝揭牌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1305,7 +1295,7 @@
       "relatedTitles": [
         "AI服务商焦虑算力时，手里的GPU用好了吗？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1373,7 +1363,7 @@
       "relatedTitles": [
         "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1441,7 +1431,7 @@
       "relatedTitles": [
         "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1509,7 +1499,7 @@
       "relatedTitles": [
         "蔚来在欧洲推出 Haven 特别版萤火虫，预计 2027 年春季交付"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1577,7 +1567,7 @@
       "relatedTitles": [
         "生菜种20天就能端上桌？在农博会看“AI种地”新生活"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1645,7 +1635,7 @@
       "relatedTitles": [
         "机器人的APEC嘉年华时刻来了！在深圳的机器人街区"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1713,75 +1703,7 @@
       "relatedTitles": [
         "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "不用交换机！微软Windows11上线USB4 RDMA：多机合体做AI推理",
-      "summary": "快科技11月22日消息，据TECHPOWERUP报道，微软在Windows11上启用了基于USB4协议的远程直接内存访问（RDMA）技术，无需专用网卡或配置网络交换机，即可将多台PC串联起来，共同处理大型工作负载。这意味着AI推理不再受单机...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrn9107602.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrn9107602.shtml"
-      ],
-      "publishedAt": "2026-11-22",
-      "date": "2026-11-22",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “不用交换机！微软Windows11上线USB4 RDMA：多机合体做AI推理” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "快科技11月22日消息，据TECHPOWERUP报道，微软在Windows11上启用了基于USB4协议的远程直接内存访问（RDMA）技术，无需专用网卡或配置网络交换机，即可将多台PC串联起来，共同处理大型工作负载。这意味着AI推理不再受单机...",
-      "relatedTitles": [
-        "不用交换机！微软Windows11上线USB4 RDMA：多机合体做AI推理"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1849,7 +1771,7 @@
       "relatedTitles": [
         "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1917,7 +1839,7 @@
       "relatedTitles": [
         "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1985,7 +1907,7 @@
       "relatedTitles": [
         "小鹏辟谣：警惕冒用小鹏汽车名义的“召回领赔偿”诈骗"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2053,7 +1975,7 @@
       "relatedTitles": [
         "骑电动车撞了汽车不用赔！法院：法律没这条 除非你是故意的"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2121,7 +2043,7 @@
       "relatedTitles": [
         "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2189,7 +2111,7 @@
       "relatedTitles": [
         "华为 WATCH GT 6 发布 HarmonyOS 7.0.0.108 SP8 版本，表端支持微信来电接听和挂断"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2329,73 +2251,6 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "90后数学家用AI攻克百年难题？数学界：验证仍需时间",
-      "summary": "当地时间11月20日，美国人工智能（AI）公司Anthropic的数学家莱文特·阿尔波格发表声明称，他在AI",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909420.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909420.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “90后数学家用AI攻克百年难题？数学界：验证仍需时间” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "当地时间11月20日，美国人工智能（AI）公司Anthropic的数学家莱文特·阿尔波格发表声明称，他在AI",
-      "relatedTitles": [
-        "90后数学家用AI攻克百年难题？数学界：验证仍需时间"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "AI恐慌爆发，华尔街震荡，美国科技股跌入熊市",
       "summary": "美国科技股跌入熊市，遭遇新冠疫情冲击全球经济以来最惨的一周。当地时间11月20日，对人工智能（AI）投资热潮",
       "source": "观察者网-产业科技",
@@ -2459,73 +2314,6 @@
       "rawText": "美国科技股跌入熊市，遭遇新冠疫情冲击全球经济以来最惨的一周。当地时间11月20日，对人工智能（AI）投资热潮",
       "relatedTitles": [
         "AI恐慌爆发，华尔街震荡，美国科技股跌入熊市"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全",
-      "summary": "美国联邦调查局（FBI）的网络安全防线接连出问题，这次连全美警方赖以开展执法工作的核心犯罪数据库，都疑似遭到",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909394.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909394.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "监管与安全",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 146,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "live",
-      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "美国联邦调查局（FBI）的网络安全防线接连出问题，这次连全美警方赖以开展执法工作的核心犯罪数据库，都疑似遭到",
-      "relatedTitles": [
-        "FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全"
       ]
     },
     {
@@ -2663,22 +2451,22 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "DeepSeek又开源了！公布Super agent架构",
-      "summary": "Deepseek 突发！DeepSeek新模型发布，超级性价比斩杀一切 新版本V4.1-Flash-1017，还开放了自研搜索API 鹭羽 2026-10-17 Deepseek Harness 梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑 Winverse AI 量子位 2026-",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "阅读 45589",
+      "summary": "jpg\" class=\"lazy height254\" data-original=\"https://i.guancha.cn/news/2026/11/21/0cd5d3ca494140c18fef166538c4afc8.jpg\" alt=\"90后数学家用AI攻克百年难题？数学界：验证仍需时间\"> 程煦 阅读 45",
+      "source": "观察者网-产业科技",
       "sources": [
-        "新浪科技"
+        "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909420.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml"
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909420.shtml"
       ],
-      "publishedAt": "2026-11-01",
-      "date": "2026-11-01",
+      "publishedAt": "",
+      "date": "",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.84,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2688,20 +2476,20 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 4,
-      "score": 135,
-      "reporterScore": 143,
+      "score": 139,
+      "reporterScore": 139,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2710,42 +2498,42 @@
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 105
+        "reporterScore": 95
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek又开源了！公布Super agent架构” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阅读 45589” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "DeepSeek又开源了！公布Super agent架构",
+      "matchedTopic": "AI动态",
+      "rawText": "jpg\" class=\"lazy height254\" data-original=\"https://i.guancha.cn/news/2026/11/21/0cd5d3ca494140c18fef166538c4afc8.jpg\" alt=\"90后数学家用AI攻克百年难题？数学界：验证仍需时间\"> 程煦 阅读 45589 评论 46 人工智能 <a href=\"/special/GuanChaZheTouTiao/?s=syztbq\" class=\"interact-k",
       "relatedTitles": [
-        "DeepSeek又开源了！公布Super agent架构"
+        "阅读 45589"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "Kling Image 4.0 好清晰！最新国产AI画的8K图",
-      "summary": "Kling Image 4.0 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！ Kling Image 4.0 十三 28分钟前 AI生图 Kling Image 4.0 可灵 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布",
+      "title": "Gemini 4 Gemini新模型Neon箭在弦上",
+      "summary": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 4分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“",
       "source": "量子位",
       "sources": [
         "量子位"
       ],
       "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/kling-image-4-0",
+      "url": "https://www.qbitai.com/tag/gemini-4",
       "sourceUrls": [
-        "https://www.qbitai.com/tag/kling-image-4-0"
+        "https://www.qbitai.com/tag/gemini-4"
       ],
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.89,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2788,12 +2576,280 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Kling Image 4.0 好清晰！最新国产AI画的8K图” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Gemini 4 Gemini新模型Neon箭在弦上” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Gemini 4 Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ 氖人寻味！ 程浅 4分钟前 Gemini 4 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！ 纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "relatedTitles": [
+        "Gemini 4 Gemini新模型Neon箭在弦上"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "Kling Image 4.0",
+      "summary": "ChatGPT GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 14分钟前 ChatGPT Claude 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/kling-image-4-0",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/kling-image-4-0"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kling Image 4.0” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "Kling Image 4.0 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！ Kling Image 4.0 十三 28分钟前 AI生图 Kling Image 4.0 可灵 热门文章 突发！DeepSeek开放全家桶API 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！ 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
       "relatedTitles": [
-        "Kling Image 4.0 好清晰！最新国产AI画的8K图"
+        "Kling Image 4.0"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全",
+      "summary": "/2026_11_21_909348.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 154 观察者头条 FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全 <img original=\"https://i.guancha.cn/news/2026/11/21/4a79",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909394.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909394.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "监管与安全",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 129,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "live",
+      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "/2026_11_21_909348.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 154 观察者头条 FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全 <img original=\"https://i.guancha.cn/news/2026/11/21/4a79bb25e0c5426e9ab70be2eecc6ea7.png\" class=\"lazy height254\" data-original=\"https://i.guan",
+      "relatedTitles": [
+        "FBI犯罪数据库疑遭入侵，局长仍吹嘘网络安全"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DeepSeek又开源了！公布Super agent架构",
+      "summary": ".qbitai.com/2026/11/511570.html\" target=\"_blank\"> 刚刚，DeepSeek V1作者创业项目曝光：开源Agent 专为本地部署而生 Jay 16小时",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml"
+      ],
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek又开源了！公布Super agent架构” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSeek又开源了！公布Super agent架构",
+      "relatedTitles": [
+        "DeepSeek又开源了！公布Super agent架构"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "为什么OpenAI今年可能会亏损50亿美元？",
+      "summary": "2026-11-18 ChatGPT OpenAI 加载更多 <input type=\"hidden\" name=\"paged\" valu",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/J7U9OTHO00097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/J7U9OTHO00097U7T.html"
+      ],
+      "publishedAt": "2024-07-25",
+      "date": "2024-07-25",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “为什么OpenAI今年可能会亏损50亿美元？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "为什么OpenAI今年可能会亏损50亿美元？,openai,微软,人工智能,谷歌,运营",
+      "relatedTitles": [
+        "为什么OpenAI今年可能会亏损50亿美元？"
       ]
     },
     {
@@ -2998,17 +3054,17 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "ChatGPT",
-      "summary": "ChatGPT OpenAI新融资到账110亿美元，不及原计划一半 融资缩水，硅谷投资人也谨慎了 田晏林 2026-11-07 AI，算力 ChatGPT OpenAI 融资 GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 202",
-      "source": "量子位",
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "贝森特：Anthropico创始人将向特朗普账户捐款",
+      "summary": "GuoJi·ZhanLue/2026_11_21_909411.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 9 特朗普 贝森特：Anthropico创始人将向特朗普账户捐款 <img original=\"https://i.guancha.cn/news/20",
+      "source": "观察者网-产业科技",
       "sources": [
-        "量子位"
+        "观察者网-产业科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/chatgpt",
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909406.shtml",
       "sourceUrls": [
-        "https://www.qbitai.com/tag/chatgpt"
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909406.shtml"
       ],
       "publishedAt": "",
       "date": "",
@@ -3023,18 +3079,18 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 4,
-      "score": 121,
-      "reporterScore": 121,
+      "score": 127,
+      "reporterScore": 127,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
-        "sourceWeight": 6,
+        "sourceWeight": 8,
         "primarySource": 0,
         "interviewValue": 0,
         "marketingPenalty": 0,
@@ -3056,12 +3112,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “贝森特：Anthropico创始人将向特朗普账户捐款” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "ChatGPT OpenAI新融资到账110亿美元，不及原计划一半 融资缩水，硅谷投资人也谨慎了 田晏林 2026-11-07 AI，算力 ChatGPT OpenAI 融资 GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光 HuggingFace疑似泄露权重已被下5000次 梦晨 2026-11-02 ChatGPT Claude 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了 未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。 henry 2026-09-15 AI ChatGPT 陶哲轩 GPT-5.6今起大降价，最大幅度80%！ Luna打骨折 听雨 2026-07-31 AI ChatGPT OpenAI 难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！ 豆包硬刚ChatGPT 十三 2026-06-08 ChatGPT 豆包 高考数学 LeCun点赞：国产开源模型占领硅谷，性价比超10倍 开源模型，已经来到了中国时间 听雨 2026-04-10 AI ChatGPT",
+      "rawText": "GuoJi·ZhanLue/2026_11_21_909411.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 9 特朗普 贝森特：Anthropico创始人将向特朗普账户捐款 <img original=\"https://i.guancha.cn/news/2026/11/21/d4300d11d5a94a77b2719e1d7105df2e.jpg\" class=\"lazy height254\" data-original=\"https://i.guan",
       "relatedTitles": [
-        "ChatGPT"
+        "贝森特：Anthropico创始人将向特朗普账户捐款"
       ]
     },
     {
@@ -3197,75 +3253,6 @@
       "relatedTitles": [
         "“若美国科技企业在海外建设数据中心，将面临巨额税款惩罚”"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MiniMax",
-      "summary": "MiniMax 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 「CAD拆解」 Jay 2026-11-12 MiniMax 英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成 英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/minimax",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/minimax",
-        "https://www.qbitai.com/tag/runninghub"
-      ],
-      "publishedAt": "2026-11-51",
-      "date": "2026-11-51",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 3,
-      "score": 91,
-      "reporterScore": 99,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -60,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “MiniMax” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "MiniMax 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛 「CAD拆解」 Jay 2026-11-12 MiniMax 英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成 英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重 量子位 2026-10-30 MiniMax 从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行” 人工智能正在从人机“言传身教”走向自学“触类旁通”。 量子位 2026-10-26 MiniMax 国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价 兔皮底下，竟然是MiniMax！ Jay 2026-10-20 MiniMax 3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径 克雷西 2026-09-01 MiniMax MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧 好能增长，好能商业化啊！ 克雷西 2026-08-27 MiniMa",
-      "relatedTitles": [
-        "MiniMax",
-        "RunningHub 吹爆开源！RunningHub让MiniMax H3满血提速12倍"
-      ]
     }
   ],
   "globalLeads": [
@@ -3303,23 +3290,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
-      "summary": "Not many of the deals went through, but Chinese clouds no longer care about importing GPUs",
-      "source": "The Register",
-      "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
-      "publishedAt": "Fri, 20 Nov 2026 04:04:56 +0000",
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "publishedAt": "Fri, 20 Nov 2026 14:07:24 GMT",
       "date": "2026-11-20",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.8,
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
       "hardTechPriority": 95,
       "globalWhitelistScore": 85,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “US let Nvidia and AMD sell bucketloads of chips to military-linked Chine” against primary-source evidence.",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.",
       "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
+      "score": 158,
+      "reporterScore": 166,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3363,38 +3350,6 @@
         "reporterScore": 100
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "publishedAt": "Fri, 20 Nov 2026 14:07:24 GMT",
-      "date": "2026-11-20",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
       "isNewSinceLastRun": false
     },
     {
@@ -3413,102 +3368,6 @@
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
       "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “A tale of two Nvidias” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference",
-      "summary": "Nvidia reveals a monster 50,000-core GPU to power AI science agents — joining its Vera Rubin supercomputing platform with seventh-gen NVLink in 2028",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/nvidia-expands-vera-rubin-platform-002500489.html",
-      "publishedAt": "2026-11-22",
-      "date": "2026-11-22",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.94,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia expands its Vera Rubin platform at SC26 supercomputing conference” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Signal slams door on prying AI agents to protect privacy",
-      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
-      "publishedAt": "Fri, 20 Nov 2026 20:42:04 +0000",
-      "date": "2026-11-20",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Signal slams door on prying AI agents to protect privacy” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
-      "summary": "A deeper look at Vera",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
-      "publishedAt": "Fri, 20 Nov 2026 18:45:50 +0000",
-      "date": "2026-11-20",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia’s journey to forge the one CPU SKU to rule them all” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3619,6 +3478,38 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference",
+      "summary": "Nvidia reveals a monster 50,000-core GPU to power AI science agents — joining its Vera Rubin supercomputing platform with seventh-gen NVLink in 2028",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/nvidia-expands-vera-rubin-platform-002500489.html",
+      "publishedAt": "2026-11-22",
+      "date": "2026-11-22",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.94,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia expands its Vera Rubin platform at SC26 supercomputing conference” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3782,8 +3673,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-22｜V3\n生成时间：2026/11/22 10:41:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 18｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 全球首场人形机器人拳击金腰带争霸赛在雄安上演｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n- 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n- 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n- 人力资源服务方向国家人工智能应用中试基地在渝揭牌｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n- AI服务商焦虑算力时，手里的GPU用好了吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n- SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n5. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-22｜V3\n生成时间：2026/11/22 10:41:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 18｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 全球首场人形机器人拳击金腰带争霸赛在雄安上演｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n- 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n- 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n- 人力资源服务方向国家人工智能应用中试基地在渝揭牌｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n- AI服务商焦虑算力时，手里的GPU用好了吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n- SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n5. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-22｜生成时间：2026/11/22 10:41:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2473｜确认今日 18｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 3 条<br>延续跟踪线索：国内 0 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演</strong>\n      <span>科技日报｜2026-11-22｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：199｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌</strong>\n      <span>科技日报｜2026-11-22｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：173｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. California AG subpoenas Nvidia over worries about Huang’s ties with China</strong>\n      <span>时间：Fri, 20 Nov 2026 13:21:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “California AG subpoenas Nvidia over worries about Huang’s ties with Chin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</strong>\n      <span>时间：Fri, 20 Nov 2026 04:04:56 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “US let Nvidia and AMD sell bucketloads of chips to military-linked Chine” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX lenders don’t want Elon Musk launching their collateral into space</strong>\n      <span>时间：Fri, 20 Nov 2026 14:15:21 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX lenders don’t want Elon Musk launching their collateral into spac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models</strong>\n      <span>时间：Fri, 20 Nov 2026 14:07:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. A tale of two Nvidias</strong>\n      <span>时间：Sat, 21 Nov 2026 21:07:42 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “A tale of two Nvidias” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/22 10:41:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 全球首场人形机器人拳击金腰带争霸赛在雄安上演｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n- 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n- 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n- 人力资源服务方向国家人工智能应用中试基地在渝揭牌｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n- AI服务商焦虑算力时，手里的GPU用好了吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n- SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n5. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-22｜V3\n生成时间：2026/11/22 11:00:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2404｜确认今日 17｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\n5. Google rolls out new search homepage with AI chat history and no search button｜Ars Technica｜https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-22｜V3\n生成时间：2026/11/22 11:00:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2404｜确认今日 17｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   科技日报｜2026-11-22｜https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   新浪科技｜2026-11-22｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\n5. Google rolls out new search homepage with AI chat history and no search button｜Ars Technica｜https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-22｜生成时间：2026/11/22 11:00:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2404｜确认今日 17｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 17 条｜国际 13 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演</strong>\n      <span>科技日报｜2026-11-22｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌</strong>\n      <span>科技日报｜2026-11-22｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：173｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？</strong>\n      <span>新浪科技｜2026-11-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. California AG subpoenas Nvidia over worries about Huang’s ties with China</strong>\n      <span>时间：Fri, 20 Nov 2026 13:21:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “California AG subpoenas Nvidia over worries about Huang’s ties with Chin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models</strong>\n      <span>时间：Fri, 20 Nov 2026 14:07:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX lenders don’t want Elon Musk launching their collateral into space</strong>\n      <span>时间：Fri, 20 Nov 2026 14:15:21 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX lenders don’t want Elon Musk launching their collateral into spac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. A tale of two Nvidias</strong>\n      <span>时间：Sat, 21 Nov 2026 21:07:42 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “A tale of two Nvidias” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google rolls out new search homepage with AI chat history and no search button</strong>\n      <span>时间：Fri, 20 Nov 2026 21:58:29 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google rolls out new search homepage with AI chat history and no search ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/22 11:00:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.\n\n2. [2026-11-22] 试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrh6130838.shtml\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评” against primary-source evidence.\n\n3. [2026-11-22] 2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizqmrn9099250.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家” against primary-source evidence.\n\n4. [2026-11-22] 人力资源服务方向国家人工智能应用中试基地在渝揭牌\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/22/content_617145.html\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人力资源服务方向国家人工智能应用中试基地在渝揭牌” against primary-source evidence.\n\n5. [2026-11-22] AI服务商焦虑算力时，手里的GPU用好了吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizqmrh6121272.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “AI服务商焦虑算力时，手里的GPU用好了吗？” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/\n2. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\n3. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/\n4. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/\n5. Google rolls out new search homepage with AI chat history and no search button｜Ars Technica｜https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
