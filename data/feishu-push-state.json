@@ -2243,6 +2243,12 @@
       "displayTime": "2026-11-23 11:19",
       "scheduleSlot": "07:00",
       "runId": "45104872850"
+    },
+    "v3-2026-11-24-afternoon": {
+      "sentAt": "2026-11-23T16:34:18.189Z",
+      "displayTime": "2026-11-24 00:34",
+      "scheduleSlot": "14:00",
+      "runId": "45217118139"
     }
   }
 }
