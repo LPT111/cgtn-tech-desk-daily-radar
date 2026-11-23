@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/22 22:40:04
+生成时间：2026/11/23 11:15:26
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 46 条｜国际 17 条
+新增核心线索：国内 46 条｜国际 2 条
+延续跟踪线索：国内 0 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-22] 越用越懂你？院士谈AI如何与人“共身相伴”
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/1122/c1004-40838363.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “越用越懂你？院士谈AI如何与人“共身相伴”” against primary-source evidence.
-
-2. [2026-11-22] 憋了近百天 3万亿参数国产AI巨兽还没到：下周先发GLM-5.4
+1. [2026-11-23] 刚刚，OpenAI首次公开预训练核心指标
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizrhva8881849.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “憋了近百天 3万亿参数国产AI巨兽还没到：下周先发GLM-5.4” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-23/doc-inizskhk5580620.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI首次公开预训练核心指标” against primary-source evidence.
 
-3. [2026-11-22] 全球首场人形机器人拳击金腰带争霸赛在雄安上演
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-11/22/content_617153.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球首场人形机器人拳击金腰带争霸赛在雄安上演” against primary-source evidence.
+2. [2026-11-23] 四部门：鼓励发展适合养老场景的人工智能体、服
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LCDMGTDU0534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “四部门：鼓励发展适合养老场景的人工智能体、服” against primary-source evidence.
 
-4. [2026-11-22] 我国“5G+工业互联网”项目超2.7万个
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/1122/c1004-40838240.html
-   角度：Connect the item to digital infrastructure, data flows and the platform economy, showing how digital infrastructure supports the real economy and where governance questions remain. For this item, test the claim behind “我国“5G+工业互联网”项目超2.7万个” against primary-source evidence.
-
-5. [2026-11-22] SMT多线程回归、14A工艺硬刚A14：Intel称将追赶并超越AMD
+3. [2026-11-23] 马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizrpaw2639433.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “SMT多线程回归、14A工艺硬刚A14：Intel称将追赶并超越AMD” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-23/doc-inizsuwe5508182.shtml
+   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍” against primary-source evidence.
+
+4. [2026-11-23] “数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-23/doc-inizskhn2381163.shtml
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想” against primary-source evidence.
+
+5. [2026-11-23] 黄仁勋能否回归 美财长最新回应：要求英伟达3天内给出解释
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-11-23/doc-inizsuwk8369248.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “黄仁勋能否回归 美财长最新回应：要求英伟达3天内给出解释” against primary-source evidence.
 
 本次新增线索：
-- 越用越懂你？院士谈AI如何与人“共身相伴”｜人民网-科技｜http://finance.people.com.cn/n1/2026/1122/c1004-40838363.html
-- 我国“5G+工业互联网”项目超2.7万个｜人民网-科技｜http://finance.people.com.cn/n1/2026/1122/c1004-40838240.html
-- 具身智能助城轨运营迈入人机协同新阶段｜光明网-科技｜https://tech.gmw.cn/2026-11/22/content_39113934.htm
-- 好消息：AMD Zen6桌面CPU提前登场！坏消息：6GHz悬了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-22/doc-inizrpau5904747.shtml
-- 算力账本变了：凌雄科技为什么押注AI推理算力租赁？从资本开支到运营支出｜网易科技｜https://www.163.com/dy/article/LCCESM070512B07B.html
+- 刚刚，OpenAI首次公开预训练核心指标｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-23/doc-inizskhk5580620.shtml
+- 四部门：鼓励发展适合养老场景的人工智能体、服｜网易科技｜https://www.163.com/dy/article/LCDMGTDU0534A4SC.html
+- 马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-23/doc-inizsuwe5508182.shtml
+- “数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-23/doc-inizskhn2381163.shtml
+- 黄仁勋能否回归 美财长最新回应：要求英伟达3天内给出解释｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-23/doc-inizsuwk8369248.shtml
+- OpenAI’s chief scientist has thoughts on how to limit AI development｜TechCrunch｜https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
 
 今日热点方向：
-- AI 应用：AI动态（13 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（4 条，3 个来源）
+- AI 应用：AI动态（9 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. California AG subpoenas Nvidia over worries about Huang’s ties with China｜TechCrunch｜https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
-2. US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies｜The Register｜https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200
-3. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models｜CNBC Technology｜https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
-4. Microsoft’s new AI coder is gunning for Claude and ChatGPT. It’s coming with a price advantage｜Yahoo News Technology｜https://tech.yahoo.com/ai/copilot/articles/microsoft-ai-coder-gunning-claude-094507756.html
-5. SpaceX lenders don’t want Elon Musk launching their collateral into space｜Ars Technica｜https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/
+1. OpenAI’s chief scientist has thoughts on how to limit AI development｜TechCrunch｜https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+2. Two groups verify mathematician’s claim that Claude helped prove mathematics problem｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-mathematician-claims-used-claude-163949402.html
+3. A tale of two Nvidias｜TechCrunch｜https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+4. Google rolls out new search homepage with AI chat history and no search button｜Ars Technica｜https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/
+5. Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-182529412.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
