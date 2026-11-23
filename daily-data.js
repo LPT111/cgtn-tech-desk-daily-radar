@@ -1,49 +1,39 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-11-23T17:34:41.045Z",
+  "generatedAt": "2026-11-23T18:19:57.684Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-24",
   "changeSummary": {
     "domesticNew": 3,
-    "globalNew": 4,
-    "domesticContinued": 3,
-    "globalContinued": 3,
+    "globalNew": 2,
+    "domesticContinued": 6,
+    "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧",
+        "title": "腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml"
       },
       {
-        "title": "AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml"
+        "title": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LCFCGRRG05198CJN.html"
       },
       {
-        "title": "《饥荒》正版手游！腾讯《饥困荒野》今日上线：安卓、iOS、鸿蒙三端互通",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8084619.shtml"
+        "title": "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LCFCGBND05198CJN.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html"
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
       },
       {
-        "title": "Google Turns Its Search Homepage Into an AI Workspace",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html"
-      },
-      {
-        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
-      },
-      {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
       }
     ],
     "hasPrevious": true
@@ -52,8 +42,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 894,
-    "globalRejected": 893,
+    "domesticRejected": 891,
+    "globalRejected": 830,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -67,7 +57,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 31,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -75,19 +65,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "科技部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
-      "error": "fetch failed",
+      "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -107,19 +87,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "科技部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
-      "error": "fetch failed",
+      "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -312,9 +282,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 20,
+      "failed": false,
       "optional": false
     },
     {
@@ -322,15 +291,14 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 ",
       "optional": true
     },
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -385,13 +353,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1528,
+  "itemsSeen": 1560,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 254,
-  "itemsAfterDedupe": 193,
-  "todayItemsSeen": 6,
+  "itemsAfterRelevantFilter": 255,
+  "itemsAfterDedupe": 194,
+  "todayItemsSeen": 9,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 172,
+  "skippedNonToday": 170,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -572,9 +540,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 20,
+      "failed": false,
       "optional": false
     },
     {
@@ -582,15 +549,14 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 ",
       "optional": true
     },
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -764,8 +730,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "NIST AI",
       "tier": "international",
-      "parsed": 137,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -805,19 +772,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "科技部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
-      "error": "fetch failed",
+      "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -847,39 +804,59 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "NIST AI",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "US Commerce BIS",
       "error": "404 Not Found",
       "optional": true
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 17,
-  "globalItemsSeen": 975,
+  "globalSuccessSources": 16,
+  "globalItemsSeen": 838,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 186,
+  "globalItemsAfterRelevantFilter": 134,
   "topics": [
     {
       "topic": "芯片动态",
-      "count": 3,
-      "sourceCount": 1,
+      "count": 4,
+      "sourceCount": 2,
       "sources": [
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧",
         "王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正",
+        "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧",
+        "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达",
         "突发！黄仁勋重任英伟达CEO，恢复全部职位"
       ]
     },
     {
       "topic": "AI动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？",
+        "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？"
+        "腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量"
       ]
     },
     {
@@ -908,21 +885,21 @@ window.CHENCHEN_DAILY_DATA = {
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧",
-      "summary": "11月24日快科技消息，黄仁勋辞职仅11天便火速重返英伟达，此前为支持他辞职的英伟达上海机器人研究团队前高级研究工程师戴士钦受到关注。11月12日英伟达宣布黄仁勋辞任CEO，戴士钦11月15日宣布辞职，11月20日正式办完离职手续。11月23日英伟达董事会一致投票通过黄仁勋复职，恢复其总裁、CEO及董事会成员职务。戴士",
+      "title": "腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量",
+      "summary": "腾景科技（688195）11 月 21 日发布《关于公司近期生产经营情况的公告》（公告编号 2026-042），自愿披露近期经营情况：2026 年前三季度实现营业收入 74,368.57 万元，同比增长 74.93%；归属于上市公司...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml"
       ],
       "publishedAt": "2026-11-24",
       "date": "2026-11-24",
       "category": "芯片",
-      "classificationConfidence": 0.68,
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
@@ -932,15 +909,15 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 171,
-      "reporterScore": 185,
+      "score": 175,
+      "reporterScore": 183,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
+        "cgtFocus": 12,
+        "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
@@ -952,25 +929,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 128
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "11月24日快科技消息，黄仁勋辞职仅11天便火速重返英伟达，此前为支持他辞职的英伟达上海机器人研究团队前高级研究工程师戴士钦受到关注。11月12日英伟达宣布黄仁勋辞任CEO，戴士钦11月15日宣布辞职，11月20日正式办完离职手续。11月23日英伟达董事会一致投票通过黄仁勋复职，恢复其总裁、CEO及董事会成员职务。戴士钦发文欢迎黄仁勋回归，坦言此前离职过于仓促，暂不仓促做新决定，愿探索重返英伟达的可能，不少网友留言支持他回归。(AI生成)",
+      "matchedTopic": "半导体供应链",
+      "rawText": "腾景科技（688195）11 月 21 日发布《关于公司近期生产经营情况的公告》（公告编号 2026-042），自愿披露近期经营情况：2026 年前三季度实现营业收入 74,368.57 万元，同比增长 74.93%；归属于上市公司...",
       "relatedTitles": [
-        "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧"
+        "腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量"
       ],
       "isNewSinceLastRun": true
     },
@@ -1044,6 +1021,142 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧",
+      "summary": "11月24日快科技消息，黄仁勋辞职仅11天便火速重返英伟达，此前为支持他辞职的英伟达上海机器人研究团队前高级研究工程师戴士钦受到关注。11月12日英伟达宣布黄仁勋辞任CEO，戴士钦11月15日宣布辞职，11月20日正式办完离职手续。11月23日英伟达董事会一致投票通过黄仁勋复职，恢复其总裁、CEO及董事会成员职务。戴士",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml"
+      ],
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 185,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "11月24日快科技消息，黄仁勋辞职仅11天便火速重返英伟达，此前为支持他辞职的英伟达上海机器人研究团队前高级研究工程师戴士钦受到关注。11月12日英伟达宣布黄仁勋辞任CEO，戴士钦11月15日宣布辞职，11月20日正式办完离职手续。11月23日英伟达董事会一致投票通过黄仁勋复职，恢复其总裁、CEO及董事会成员职务。戴士钦发文欢迎黄仁勋回归，坦言此前离职过于仓促，暂不仓促做新决定，愿探索重返英伟达的可能，不少网友留言支持他回归。(AI生成)",
+      "relatedTitles": [
+        "曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达",
+      "summary": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达,芯片,谷歌,英伟达,初创公司,科技巨头,知名企业,亚马逊公司",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCFCGRRG05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCFCGRRG05198CJN.html"
+      ],
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达,芯片,谷歌,英伟达,初创公司,科技巨头,知名企业,亚马逊公司",
+      "relatedTitles": [
+        "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？",
       "summary": "2026年11月20日，34岁土耳其裔美国数学家Levent Alpöge联合AI系统Claude，用1700万行Lean 4代码公布黎曼猜想形式化证明，该自1859年提出、历经167年的难题获重大突破。22日Lean和Mathlib社区及MIT数学家验证其正确。黎曼猜想为质数分布误差提供可控约束，作为千禧年七大数学难",
       "source": "新浪科技",
@@ -1108,7 +1221,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1177,6 +1290,74 @@ window.CHENCHEN_DAILY_DATA = {
         "北大开源PipeLink，让GPU算子优化成为可复用组件"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观",
+      "summary": "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观,制药,新药研发,治愈癌症,治癌预期,研发周期,知名企业,诺华ceo,生物技术公司,小分子抑制剂",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCFCGBND05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCFCGBND05198CJN.html"
+      ],
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观,制药,新药研发,治愈癌症,治癌预期,研发周期,知名企业,诺华ceo,生物技术公司,小分子抑制剂",
+      "relatedTitles": [
+        "诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1312,77 +1493,10 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "《饥荒》正版手游！腾讯《饥困荒野》今日上线：安卓、iOS、鸿蒙三端互通"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "刚刚，OpenAI首次公开预训练核心指标",
-      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-23/doc-inizskhk5580620.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-23/doc-inizskhk5580620.shtml"
-      ],
-      "publishedAt": "2026-11-23",
-      "date": "2026-11-23",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 186,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI首次公开预训练核心指标” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AI 越来越强，OpenAI 却开始呼吁给整个行业设一道「上限」。当地时间 11 月 22 日，OpenAI 首席科学家 Jakub Pachocki 突然发布长文《Perplexity and Intelligence》，首次公开了一组内...",
-      "relatedTitles": [
-        "刚刚，OpenAI首次公开预训练核心指标"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "刚刚，黄仁勋复职！",
@@ -1787,73 +1901,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "英伟达开盘大涨30%",
-      "summary": "ZhanLue/2026_11_23_909676.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 11 美国一梦 英伟达开盘大涨30% <img original=\"https://i.guancha.cn/news/2026/11/23/a474b417e60",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/CaiJing/2026_11_23_909674.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/CaiJing/2026_11_23_909674.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 136,
-      "reporterScore": 144,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达开盘大涨30%” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "ZhanLue/2026_11_23_909676.shtml#comment\" target=\"_blank\" data-sensor=\"评论数\">评论 11 美国一梦 英伟达开盘大涨30% <img original=\"https://i.guancha.cn/news/2026/11/23/a474b417e6014a98843c0db94f07f04e.png\" class=\"lazy height254\" data-original=\"https://i.guancha.cn",
-      "relatedTitles": [
-        "英伟达开盘大涨30%"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "贝森特圆上了：英伟达得找局外人，黄仁勋现在不就是吗",
       "summary": "当地时间11月22日，美国总统特朗普在社交媒体上发文称，他希望英伟达董事会重新聘用黄仁勋，称这是“对英伟达和",
       "source": "观察者网-产业科技",
@@ -1917,6 +1964,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "当地时间11月22日，美国总统特朗普在社交媒体上发文称，他希望英伟达董事会重新聘用黄仁勋，称这是“对英伟达和",
       "relatedTitles": [
         "贝森特圆上了：英伟达得找局外人，黄仁勋现在不就是吗"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DeepSeek又开源了！公布Super agent架构",
+      "summary": "Deepseek 突发！DeepSeek新模型发布，超级性价比斩杀一切 新版本V4.1-Flash-1017，还开放了自研搜索API 鹭羽 2026-10-17 Deepseek Harness 梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑 Winverse AI 量子位 2026-",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/csj/2026-11-01/doc-inixepty4335109.shtml"
+      ],
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 135,
+      "reporterScore": 143,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek又开源了！公布Super agent架构” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSeek又开源了！公布Super agent架构",
+      "relatedTitles": [
+        "DeepSeek又开源了！公布Super agent架构"
       ]
     },
     {
@@ -2189,6 +2303,73 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "英伟达开盘大涨30%",
+      "summary": "11月23日，英伟达官网公告称，公司董事会已一致投票决定，即日起恢复黄仁勋的总裁、首席执行官及董事职务。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/CaiJing/2026_11_23_909674.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/CaiJing/2026_11_23_909674.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达开盘大涨30%” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "11月23日，英伟达官网公告称，公司董事会已一致投票决定，即日起恢复黄仁勋的总裁、首席执行官及董事职务。",
+      "relatedTitles": [
+        "英伟达开盘大涨30%"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美国数据中心之争，大家或许把它想复杂了",
       "summary": "弗吉尼亚州一位知名的反数据中心活动人士告诉我，当这个行业将这场斗争描绘成一场文化战争时，她总是“气得直撞墙”。",
       "source": "观察者网-产业科技",
@@ -2323,7 +2504,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 40097",
+      "title": "阅读 40268",
       "summary": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -2380,48 +2561,16 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "graphic",
-      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “阅读 40097” against primary-source evidence.",
+      "angle": "Connect the item to digital infrastructure, data flows and the platform economy, showing how digital infrastructure supports the real economy and where governance questions remain. For this item, test the claim behind “阅读 40268” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "数字基础设施与数据要素",
       "rawText": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "relatedTitles": [
-        "阅读 40097"
+        "阅读 40268"
       ]
     }
   ],
   "globalLeads": [
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
-      "summary": "By Greg Bensinger SAN FRANCISCO, Nov 23 (Reuters) - The path to safer AI is not a “kill switch,” it’s building a better mousetrap.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html",
-      "publishedAt": "2026-11-24",
-      "date": "2026-11-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Amazon’s AWS CEO says engineering, not kill switches, is path to AI safe” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google Turns Its Search Homepage Into an AI Workspace",
@@ -2452,27 +2601,27 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's president, CEO and board member after scandals over his romantic affairs wiped hundreds of bil",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "publishedAt": "Mon, 23 Nov 2026 16:39:10 +0000",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "Anthropic warned investors that AI might be conscious—but acting accordingly could hurt its business. So what’s the plan?",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "publishedAt": "Mon, 23 Nov 2026 17:36:08 +0000",
       "date": "2026-11-23",
       "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.66,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump reportedly called into Nvidia board meeting to advocate for Huang’” against primary-source evidence.",
+      "globalWhitelistScore": 70,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “A legendary philosopher isn’t buying Anthropic’s consciousness argument” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 147,
+      "reporterScore": 147,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2488,23 +2637,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "publishedAt": "Mon, 23 Nov 2026 17:14:23 +0000",
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "publishedAt": "Mon, 23 Nov 2026 18:07:32 GMT",
       "date": "2026-11-23",
       "region": "US",
-      "category": "AI",
+      "category": "芯片",
       "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares t” against primary-source evidence.",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Fai” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2552,6 +2701,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's president, CEO and board member after scandals over his romantic affairs wiped hundreds of bil",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "publishedAt": "Mon, 23 Nov 2026 16:39:10 +0000",
+      "date": "2026-11-23",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.66,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump reportedly called into Nvidia board meeting to advocate for Huang’” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "source": "TechCrunch",
@@ -2566,6 +2747,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s chief scientist has thoughts on how to limit AI development” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "publishedAt": "Mon, 23 Nov 2026 17:14:23 +0000",
+      "date": "2026-11-23",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares t” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2615,8 +2828,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-24｜V3\n生成时间：2026/11/24 01:34:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2503｜确认今日 6｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 4 条\n延续跟踪线索：国内 3 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n4. [2026-11-24] 北大开源PipeLink，让GPU算子优化成为可复用组件\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8068245.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “北大开源PipeLink，让GPU算子优化成为可复用组件” against primary-source evidence.\n\n5. [2026-11-24] 突发！黄仁勋重任英伟达CEO，恢复全部职位\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5326477.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “突发！黄仁勋重任英伟达CEO，恢复全部职位” against primary-source evidence.\n\n本次新增线索：\n- 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n- AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n- 《饥荒》正版手游！腾讯《饥困荒野》今日上线：安卓、iOS、鸿蒙三端互通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8084619.shtml\n- Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n- Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n- Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n2. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n3. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n4. Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips｜TechCrunch｜https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/\n5. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-24｜V3\n生成时间：2026/11/24 01:34:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2503｜确认今日 6｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 4 条\n延续跟踪线索：国内 3 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n4. [2026-11-24] 北大开源PipeLink，让GPU算子优化成为可复用组件\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8068245.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “北大开源PipeLink，让GPU算子优化成为可复用组件” against primary-source evidence.\n\n5. [2026-11-24] 突发！黄仁勋重任英伟达CEO，恢复全部职位\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5326477.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “突发！黄仁勋重任英伟达CEO，恢复全部职位” against primary-source evidence.\n\n本次新增线索：\n- 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n- AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n- 《饥荒》正版手游！腾讯《饥困荒野》今日上线：安卓、iOS、鸿蒙三端互通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8084619.shtml\n- Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n- Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n- Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n2. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n3. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n4. Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips｜TechCrunch｜https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/\n5. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-24｜生成时间：2026/11/24 01:34:41｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2503｜确认今日 6｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 4 条<br>延续跟踪线索：国内 3 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：185｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-24] 北大开源PipeLink，让GPU算子优化成为可复用组件</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8068245.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “北大开源PipeLink，让GPU算子优化成为可复用组件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-24] 突发！黄仁勋重任英伟达CEO，恢复全部职位</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5326477.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “突发！黄仁勋重任英伟达CEO，恢复全部职位” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety</strong>\n      <span>时间：2026-11-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Amazon’s AWS CEO says engineering, not kill switches, is path to AI safe” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google Turns Its Search Homepage Into an AI Workspace</strong>\n      <span>时间：2026-11-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google Turns Its Search Homepage Into an AI Workspace” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</strong>\n      <span>时间：Mon, 23 Nov 2026 16:39:10 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump reportedly called into Nvidia board meeting to advocate for Huang’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</strong>\n      <span>时间：Mon, 23 Nov 2026 17:14:23 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares t” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia Is Powering Brain-Computer Interfaces Now</strong>\n      <span>时间：Mon, 23 Nov 2026 13:11:48 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia Is Powering Brain-Computer Interfaces Now” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/24 01:34:41\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 4 条\n延续跟踪线索：国内 3 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n4. [2026-11-24] 北大开源PipeLink，让GPU算子优化成为可复用组件\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8068245.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “北大开源PipeLink，让GPU算子优化成为可复用组件” against primary-source evidence.\n\n5. [2026-11-24] 突发！黄仁勋重任英伟达CEO，恢复全部职位\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5326477.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “突发！黄仁勋重任英伟达CEO，恢复全部职位” against primary-source evidence.\n\n本次新增线索：\n- 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n- AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n- 《饥荒》正版手游！腾讯《饥困荒野》今日上线：安卓、iOS、鸿蒙三端互通｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8084619.shtml\n- Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n- Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n- Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/amazon-aws-ceo-says-engineering-170258862.html\n2. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n3. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n4. Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips｜TechCrunch｜https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/\n5. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-24｜V3\n生成时间：2026/11/24 02:19:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2398｜确认今日 9｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n4. [2026-11-24] 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达\n   网易科技｜2026-11-24｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.\n\n5. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n本次新增线索：\n- 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n- 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达｜网易科技｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n- 诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观｜网易科技｜https://www.163.com/dy/article/LCFCGBND05198CJN.html\n- A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n- Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n2. A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n4. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\n5. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-24｜V3\n生成时间：2026/11/24 02:19:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2398｜确认今日 9｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n4. [2026-11-24] 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达\n   网易科技｜2026-11-24｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.\n\n5. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   新浪科技｜2026-11-24｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n本次新增线索：\n- 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n- 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达｜网易科技｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n- 诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观｜网易科技｜https://www.163.com/dy/article/LCFCGBND05198CJN.html\n- A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n- Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n2. A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n4. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\n5. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-24｜生成时间：2026/11/24 02:19:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2398｜确认今日 9｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 2 条<br>延续跟踪线索：国内 6 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-24] 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：185｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-24] 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达</strong>\n      <span>网易科技｜2026-11-24｜<a href=\"https://www.163.com/dy/article/LCFCGRRG05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？</strong>\n      <span>新浪科技｜2026-11-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Google Turns Its Search Homepage Into an AI Workspace</strong>\n      <span>时间：2026-11-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google Turns Its Search Homepage Into an AI Workspace” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A legendary philosopher isn’t buying Anthropic’s consciousness argument</strong>\n      <span>时间：Mon, 23 Nov 2026 17:36:08 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “A legendary philosopher isn’t buying Anthropic’s consciousness argument” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'</strong>\n      <span>时间：Mon, 23 Nov 2026 18:07:32 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Fai” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia Is Powering Brain-Computer Interfaces Now</strong>\n      <span>时间：Mon, 23 Nov 2026 13:11:48 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia Is Powering Brain-Computer Interfaces Now” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</strong>\n      <span>时间：Mon, 23 Nov 2026 16:39:10 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Trump reportedly called into Nvidia board meeting to advocate for Huang’” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/24 02:19:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-24] 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.\n\n2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.\n\n3. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.\n\n4. [2026-11-24] 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.\n\n5. [2026-11-24] AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的\"柯洁时刻\"吗？” against primary-source evidence.\n\n本次新增线索：\n- 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml\n- 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达｜网易科技｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html\n- 诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观｜网易科技｜https://www.163.com/dy/article/LCFCGBND05198CJN.html\n- A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n- Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html\n2. A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/\n3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n4. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/\n5. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
