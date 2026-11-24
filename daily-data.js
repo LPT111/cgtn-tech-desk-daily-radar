@@ -1,44 +1,54 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-11-24T16:27:16.785Z",
+  "generatedAt": "2026-11-24T17:05:25.982Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-25",
   "changeSummary": {
-    "domesticNew": 1,
-    "globalNew": 11,
-    "domesticContinued": 0,
-    "globalContinued": 13,
+    "domesticNew": 3,
+    "globalNew": 6,
+    "domesticContinued": 1,
+    "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车",
+        "title": "Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml"
+      },
+      {
+        "title": "比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml"
+      },
+      {
+        "title": "小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-        "source": "WIRED Science",
-        "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+        "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+        "source": "WIRED Business",
+        "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/"
       },
       {
-        "title": "Raising the stakes for enterprise networks with AI modernization",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+        "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+        "source": "WIRED Business",
+        "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
       },
       {
-        "title": "Jensen Huang reinstated as Nvidia CEO",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo"
+        "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "source": "WIRED Business",
+        "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
       },
       {
-        "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
+        "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
+        "source": "The Register",
+        "url": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895"
       },
       {
-        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+        "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
       }
     ],
     "hasPrevious": true
@@ -47,8 +57,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 899,
-    "globalRejected": 876,
+    "domesticRejected": 896,
+    "globalRejected": 796,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -65,14 +75,9 @@ window.CHENCHEN_DAILY_DATA = {
   "successSources": 24,
   "failedSources": [
     {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "中国科学院",
@@ -101,7 +106,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -113,6 +118,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -122,14 +132,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "中国科学院",
@@ -158,7 +163,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -170,6 +175,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -196,16 +206,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -233,7 +241,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -372,7 +381,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -401,8 +410,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -435,13 +445,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1462,
+  "itemsSeen": 1401,
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 211,
-  "itemsAfterDedupe": 167,
-  "todayItemsSeen": 1,
+  "itemsAfterDedupe": 168,
+  "todayItemsSeen": 4,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 146,
+  "skippedNonToday": 144,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -461,16 +471,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -498,7 +506,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -637,7 +646,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -666,8 +675,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -712,8 +722,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "France24 Technology",
       "tier": "international",
-      "parsed": 155,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -855,14 +866,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "中国科学院",
@@ -891,7 +897,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -905,6 +911,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -913,6 +924,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalFailedSources": [
     {
       "name": "AP Technology",
+      "error": "403 Forbidden",
+      "optional": false
+    },
+    {
+      "name": "France24 Technology",
       "error": "403 Forbidden",
       "optional": false
     },
@@ -933,11 +949,23 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 17,
-  "globalItemsSeen": 975,
+  "globalSuccessSources": 16,
+  "globalItemsSeen": 820,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 202,
+  "globalItemsAfterRelevantFilter": 167,
   "topics": [
+    {
+      "topic": "AI动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力",
+        "小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有"
+      ]
+    },
     {
       "topic": "新能源车与智能驾驶",
       "count": 1,
@@ -948,9 +976,88 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车"
       ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂"
+      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力",
+      "summary": "Pimco（品浩）的Daniel Ivascyn表示，人工智能（AI）热潮正令美国经济更容易受到冲击和市场波动影响，这强化了配置美国国债及其他优质债券的理由。 美国国债正处于自2022年以来首次出现年度亏损的边缘。通胀处于美联储目...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml"
+      ],
+      "publishedAt": "2026-11-25",
+      "date": "2026-11-25",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Pimco（品浩）的Daniel Ivascyn表示，人工智能（AI）热潮正令美国经济更容易受到冲击和市场波动影响，这强化了配置美国国债及其他优质债券的理由。 美国国债正处于自2022年以来首次出现年度亏损的边缘。通胀处于美联储目...",
+      "relatedTitles": [
+        "Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车",
@@ -1016,6 +1123,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "11月24日据快科技消息，美国NHTSA披露Waymo将召回4488辆搭载第五、六代自动驾驶系统、软件版本早于2026年9月17日更新的车辆，涉事车响应交警停车手势后可能无法保持静止，易引发碰撞。这是Waymo近期多起召回相关事件之一：11月19日其刚备案封闭高速车道相关召回，此前5月还因车辆可能驶入积水路段召回3791辆车。近期Waymo麻烦不断，11月11日起加州禁止其在该州高速运营，NHTSA还就其车辆超停靠校车问题质询，覆盖近3000辆自有自动驾驶车，其宣称优于人类司机的技术能力遭行业与用户质疑。(AI生成)",
       "relatedTitles": [
         "全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂",
+      "summary": "快科技11月25日消息，比亚迪官方宣布，公司已与英力士汽车（INEOS Automotive）就收购其位于法国汉巴赫的汽车制造工厂展开排他性谈判，拟议交易仍需履行相关员工代表委员会的协商程序。比亚迪执行副总裁李柯表示，“我们对欧洲市场的长期...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml"
+      ],
+      "publishedAt": "2026-11-25",
+      "date": "2026-11-25",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技11月25日消息，比亚迪官方宣布，公司已与英力士汽车（INEOS Automotive）就收购其位于法国汉巴赫的汽车制造工厂展开排他性谈判，拟议交易仍需履行相关员工代表委员会的协商程序。比亚迪执行副总裁李柯表示，“我们对欧洲市场的长期...",
+      "relatedTitles": [
+        "比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有",
+      "summary": "11月25日据快科技消息，小米互联网官微宣布小米浏览器迎来两大功能升级：手机、平板端正式支持扩展程序，AI搜索新增“互动广场”功能。目前小米浏览器支持广告拦截、网页翻译、AI助手、脚本管理等扩展，安装流程简便，常用扩展可置顶快速调用。新增的互动广场内置经营、塔防、飞行射击、跑酷等多类免下载互动应用，支持收藏、历史记录、",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml"
+      ],
+      "publishedAt": "2026-11-25",
+      "date": "2026-11-25",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "11月25日据快科技消息，小米互联网官微宣布小米浏览器迎来两大功能升级：手机、平板端正式支持扩展程序，AI搜索新增“互动广场”功能。目前小米浏览器支持广告拦截、网页翻译、AI助手、脚本管理等扩展，安装流程简便，常用扩展可置顶快速调用。新增的互动广场内置经营、塔防、飞行射击、跑酷等多类免下载互动应用，支持收藏、历史记录、添加桌面快捷入口，登录小米账号换机可找回收藏内容。升级需手机端浏览器达20.32及以上版本、平板端达20.6及以上版本，手机系统为小米澎湃OS 1或Android 11及以上版本。(AI生成)",
+      "relatedTitles": [
+        "小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有"
       ],
       "isNewSinceLastRun": true
     }
@@ -1693,73 +1936,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "AI的生态账，美国科技巨头们还想赖到几时？",
-      "summary": "ref=\"/shijiekexiansheng/2026_11_23_909638.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 93738 评论 6 AI的生态账，美国科技巨头们还想赖到几时？ <img original=\"https://i.guancha.cn/autho",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/yangjianchu/2026_11_23_909518.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/yangjianchu/2026_11_23_909518.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 136,
-      "reporterScore": 144,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI的生态账，美国科技巨头们还想赖到几时？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "ref=\"/shijiekexiansheng/2026_11_23_909638.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 93738 评论 6 AI的生态账，美国科技巨头们还想赖到几时？ <img original=\"https://i.guancha.cn/author/2026/11/23/40b3c77c5f7649eeae8d465e8c1bf997.png\" class=\"lazy height45\" data-original=\"https://i.guancha.cn/",
-      "relatedTitles": [
-        "AI的生态账，美国科技巨头们还想赖到几时？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "论“仁勋府的倒塌”：美国AI繁荣恐将与经济现实迎头相撞",
       "summary": "这正是美国AI繁荣最终自我毁灭的讽刺所在：AI本质上是中间服务，而非一个自给自足的闭环经济生态。超大规模云服务商不可能靠永远向彼此互卖token来将数百吉瓦的算力变现。要撑起每年高达7300亿美元的资本开支周期，必须依托繁荣、有偿付能力的实体经济底座。",
       "source": "观察者网-产业科技",
@@ -2230,7 +2406,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "黄仁勋回归提振美股，Anthropic却跌了，CEO再减持",
-      "summary": "当地时间11月23日，黄仁勋重返英伟达首席执行官岗位的消息刺激美股强劲反弹，纳斯达克综合指数大涨6.5%，人",
+      "summary": "=\"/GuoJi·ZhanLue/2026_11_24_909686.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 50459 评论 49 黄仁勋回归提振美股，Anthropic却跌了，CEO再减持 <img original=\"https://i.guancha.cn/new",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2243,7 +2419,7 @@ window.CHENCHEN_DAILY_DATA = {
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.72,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2289,7 +2465,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋回归提振美股，Anthropic却跌了，CEO再减持” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "当地时间11月23日，黄仁勋重返英伟达首席执行官岗位的消息刺激美股强劲反弹，纳斯达克综合指数大涨6.5%，人",
+      "rawText": "=\"/GuoJi·ZhanLue/2026_11_24_909686.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 50459 评论 49 黄仁勋回归提振美股，Anthropic却跌了，CEO再减持 <img original=\"https://i.guancha.cn/news/2026/11/24/2d29ed02e91a4ee2ae6fafba289b49c9.jpg\" class=\"lazy height254\" data-original=\"https://i.guan",
       "relatedTitles": [
         "黄仁勋回归提振美股，Anthropic却跌了，CEO再减持"
       ]
@@ -2360,33 +2536,100 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国数据中心之争，大家或许把它想复杂了"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "阅读 47591",
+      "summary": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/yangjianchu/2026_11_23_909518.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/yangjianchu/2026_11_23_909518.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "数字经济",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 3,
+      "score": 89,
+      "reporterScore": 97,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 0,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 80
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “阅读 47591” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "数字基础设施与数据要素",
+      "rawText": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
+      "relatedTitles": [
+        "阅读 47591"
+      ]
     }
   ],
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
-      "source": "WIRED Science",
-      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-      "publishedAt": "Tue, 24 Nov 2026 10:15:00 +0000",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "publishedAt": "Tue, 24 Nov 2026 01:35:38 +0000",
       "date": "2026-11-24",
       "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.88,
+      "category": "芯片",
+      "classificationConfidence": 0.71,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 70,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.",
+      "globalWhitelistScore": 85,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return” against primary-source evidence.",
       "priority": 5,
-      "score": 155,
-      "reporterScore": 163,
+      "score": 159,
+      "reporterScore": 167,
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
-        "interview": true,
+        "international": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
@@ -2429,28 +2672,28 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
-      "summary": "UN chief Antonio Guterres on Monday urged countries to agree on the creation of a global framework for managing the dangers posed by artificial intelligence within one year. Speaki",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
-      "publishedAt": "2026-11-23",
-      "date": "2026-11-23",
-      "region": "Europe",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "source": "WIRED Science",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "publishedAt": "Tue, 24 Nov 2026 10:15:00 +0000",
+      "date": "2026-11-24",
+      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.88,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
+      "globalWhitelistScore": 70,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “'Maintain control': UN chief calls for creation of global AI safety fram” against primary-source evidence.",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.",
       "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
+      "score": 155,
+      "reporterScore": 163,
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
@@ -2493,52 +2736,52 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. No",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "publishedAt": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "summary": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "publishedAt": "Mon, 23 Nov 2026 17:52:56 +0000",
       "date": "2026-11-24",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Jensen Huang Is Back, and So Is Nvidia’s Stock” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "publishedAt": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "date": "2026-11-25",
       "region": "US",
       "category": "AI",
       "classificationConfidence": 0.99,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 70,
+      "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Raising the stakes for enterprise networks with AI modernization” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 147,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jensen Huang reinstated as Nvidia CEO",
-      "summary": "In a stunning U-turn, Nvidia's board has reinstated Jensen Huang as the company's president and CEO. The announcement came just days after the board rejected a petition calling for",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
-      "publishedAt": "2026-11-23",
-      "date": "2026-11-23",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang reinstated as Nvidia CEO” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2550,91 +2793,27 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "publishedAt": "Tue, 24 Nov 2026 13:29:53 +0000",
-      "date": "2026-11-24",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Huang reportedly admitted to more than two affairs to Nvidia’s board” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "publishedAt": "Mon, 23 Nov 2026 20:38:53 +0000",
-      "date": "2026-11-23",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia employees greet Jensen Huang like a hero as he returns to company” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Claude Ship puts AI at the helm of pull request approvals",
-      "summary": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
+      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
+      "summary": "Meanwhile, Google",
       "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
-      "publishedAt": "Tue, 24 Nov 2026 14:29:00 +0000",
+      "url": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+      "publishedAt": "Tue, 24 Nov 2026 17:00:00 +0000",
       "date": "2026-11-24",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.88,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Claude Ship puts AI at the helm of pull request approvals” against primary-source evidence.",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Microsoft refreshes Copilot app search for users without an AI subscript” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2653,44 +2832,44 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
-      "summary": "There are only a few weeks left in the year and there have been more than 200,000 job losses across the tech industry. Here are the details.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-130817203.html",
-      "publishedAt": "2026-11-24",
-      "date": "2026-11-24",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon,” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia shares fall over 5% after Huang comeback rally",
-      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
       "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "publishedAt": "Tue, 24 Nov 2026 15:36:34 GMT",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "publishedAt": "Tue, 24 Nov 2026 16:42:57 GMT",
       "date": "2026-11-24",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.67,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang to face DC grilling the same day Nvidia releases new produc” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
+      "summary": "Read CNBC’s exclusive interview with President Donald Trump on how he “made the deal” to reinstate Jensen Huang as Nvidia CEO.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
+      "publishedAt": "Mon, 23 Nov 2026 21:53:49 GMT",
+      "date": "2026-11-23",
       "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.75,
@@ -2698,71 +2877,7 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia shares fall over 5% after Huang comeback rally” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Wants to Turn Your Life Into a 24/7 AI-Generated TV Show",
-      "summary": "Google's AI TV patent describes a system that generates personalized programming starring the viewer, with ads embedded directly into the story.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/google-wants-turn-life-24-152544406.html",
-      "publishedAt": "2026-11-24",
-      "date": "2026-11-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google Wants to Turn Your Life Into a 24/7 AI-Generated TV Show” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
-      "summary": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/were-racing-towards-huge-dangers-145033062.html",
-      "publishedAt": "2026-11-24",
-      "date": "2026-11-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Hu” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -2813,6 +2928,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. No",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "publishedAt": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "date": "2026-11-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 70,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Raising the stakes for enterprise networks with AI modernization” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 147,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "summary": "Anthropic warned investors that AI might be conscious—but acting accordingly could hurt its business. So what’s the plan?",
       "source": "MIT Technology Review",
@@ -2845,52 +2992,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This is What Happens When You Steal a Tesla in GTA 6",
-      "summary": "GTA 6 Coil vehicles can lock carjackers inside and drive them to police, making preparation essential before targeting these EVs.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/happens-steal-tesla-gta-6-153910960.html",
-      "publishedAt": "2026-11-24",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "publishedAt": "Tue, 24 Nov 2026 13:29:53 +0000",
       "date": "2026-11-24",
       "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “This is What Happens When You Steal a Tesla in GTA 6” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "summary": "PRESS REVIEW – Friday, November 13: We look at reactions to the resignation of Jensen Huang, the CEO of Nvidia. It comes in the wake of multiple affairs he allegedly had, including",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "publishedAt": "Mon, 23 Nov 2026 19:31:41 +0000",
-      "date": "2026-11-23",
-      "region": "US",
       "category": "芯片",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying abou” against primary-source evidence.",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Huang reportedly admitted to more than two affairs to Nvidia’s board” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2909,20 +3024,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump backs Nvidia boss's return but top Democrat vows probe",
-      "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as top Senate Democrat Chuck Schumer vowed to investigate potential wrongdo",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
-      "publishedAt": "2026-11-24",
-      "date": "2026-11-24",
-      "region": "Europe",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "publishedAt": "Mon, 23 Nov 2026 19:31:41 +0000",
+      "date": "2026-11-23",
+      "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Trump backs Nvidia boss's return but top Democrat vows probe” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying abou” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3037,6 +3152,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Claude Ship puts AI at the helm of pull request approvals",
+      "summary": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
+      "publishedAt": "Tue, 24 Nov 2026 14:29:00 +0000",
+      "date": "2026-11-24",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Claude Ship puts AI at the helm of pull request approvals” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
       "summary": "If the AI can",
       "source": "The Register",
@@ -3069,12 +3216,12 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "publishedAt": "Mon, 23 Nov 2026 14:40:11 GMT",
-      "date": "2026-11-23",
+      "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+      "summary": "There are only a few weeks left in the year and there have been more than 200,000 job losses across the tech industry. Here are the details.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-130817203.html",
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
       "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.62,
@@ -3082,7 +3229,71 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip ” against primary-source evidence.",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon,” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia shares fall 8% as Huang comeback rally cools",
+      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "publishedAt": "Tue, 24 Nov 2026 16:38:21 GMT",
+      "date": "2026-11-24",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia shares fall 8% as Huang comeback rally cools” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Wants to Turn Your Life Into a 24/7 AI-Generated TV Show",
+      "summary": "Google's AI TV patent describes a system that generates personalized programming starring the viewer, with ads embedded directly into the story.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-wants-turn-life-24-152544406.html",
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google Wants to Turn Your Life Into a 24/7 AI-Generated TV Show” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3130,10 +3341,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "This is What Happens When You Steal a Tesla in GTA 6",
+      "summary": "GTA 6 Coil vehicles can lock carjackers inside and drive them to police, making preparation essential before targeting these EVs.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/gaming/articles/happens-steal-tesla-gta-6-153910960.html",
+      "publishedAt": "2026-11-24",
+      "date": "2026-11-24",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “This is What Happens When You Steal a Tesla in GTA 6” against primary-source evidence.",
+      "priority": 5,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-25｜V3\n生成时间：2026/11/25 00:27:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2437｜确认今日 1｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 11 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n本次新增线索：\n- 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n- AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n- Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/\n- Jensen Huang reinstated as Nvidia CEO｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo\n- Huang reportedly admitted to more than two affairs to Nvidia’s board｜TechCrunch｜https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/\n- Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ｜TechCrunch｜https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-25｜V3\n生成时间：2026/11/25 00:27:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2437｜确认今日 1｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 11 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n本次新增线索：\n- 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n- AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n- Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/\n- Jensen Huang reinstated as Nvidia CEO｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo\n- Huang reportedly admitted to more than two affairs to Nvidia’s board｜TechCrunch｜https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/\n- Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ｜TechCrunch｜https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-25｜生成时间：2026/11/25 00:27:16｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2437｜确认今日 1｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 11 条<br>延续跟踪线索：国内 0 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车</strong>\n      <span>新浪科技｜2026-11-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It</strong>\n      <span>时间：Tue, 24 Nov 2026 10:15:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/ai-solved-maths-most-famous-problem/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy</strong>\n      <span>时间：Tue, 24 Nov 2026 02:37:39 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “U.S. adds Megaspeed to trade blacklist over export control concerns amid” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year</strong>\n      <span>时间：2026-11-23｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “'Maintain control': UN chief calls for creation of global AI safety fram” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</strong>\n      <span>时间：Mon, 23 Nov 2026 22:05:50 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic launches Claude Ship, letting AI agents review, fix, and appro” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Raising the stakes for enterprise networks with AI modernization</strong>\n      <span>时间：Tue, 24 Nov 2026 15:15:16 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Raising the stakes for enterprise networks with AI modernization” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/25 00:27:16\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 11 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n本次新增线索：\n- 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n- AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n- Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/\n- Jensen Huang reinstated as Nvidia CEO｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo\n- Huang reportedly admitted to more than two affairs to Nvidia’s board｜TechCrunch｜https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/\n- Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ｜TechCrunch｜https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-25｜V3\n生成时间：2026/11/25 01:05:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2221｜确认今日 4｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 1 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.\n\n2. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n3. [2026-11-25] 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.\n\n4. [2026-11-25] 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.\n\n本次新增线索：\n- Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n- 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n- 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n- Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n- Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/\n- Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving｜WIRED Business｜https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-25｜V3\n生成时间：2026/11/25 01:05:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2221｜确认今日 4｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 1 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.\n\n2. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n3. [2026-11-25] 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.\n\n4. [2026-11-25] 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有\n   新浪科技｜2026-11-25｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.\n\n本次新增线索：\n- Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n- 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n- 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n- Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n- Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/\n- Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving｜WIRED Business｜https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-25｜生成时间：2026/11/25 01:05:25｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2221｜确认今日 4｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 6 条<br>延续跟踪线索：国内 1 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-25] Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力</strong>\n      <span>新浪科技｜2026-11-25｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车</strong>\n      <span>新浪科技｜2026-11-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-25] 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂</strong>\n      <span>新浪科技｜2026-11-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：176｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-25] 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有</strong>\n      <span>新浪科技｜2026-11-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：169｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return</strong>\n      <span>时间：Tue, 24 Nov 2026 01:35:38 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy</strong>\n      <span>时间：Tue, 24 Nov 2026 02:37:39 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “U.S. adds Megaspeed to trade blacklist over export control concerns amid” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It</strong>\n      <span>时间：Tue, 24 Nov 2026 10:15:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/ai-solved-maths-most-famous-problem/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</strong>\n      <span>时间：Mon, 23 Nov 2026 22:05:50 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic launches Claude Ship, letting AI agents review, fix, and appro” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Jensen Huang Is Back, and So Is Nvidia’s Stock</strong>\n      <span>时间：Mon, 23 Nov 2026 17:52:56 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Jensen Huang Is Back, and So Is Nvidia’s Stock” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/25 01:05:25\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 1 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-25] Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.\n\n2. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml\n   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.\n\n3. [2026-11-25] 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.\n\n4. [2026-11-25] 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.\n\n本次新增线索：\n- Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml\n- 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml\n- 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml\n- Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n- Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/\n- Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving｜WIRED Business｜https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/\n2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n5. Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

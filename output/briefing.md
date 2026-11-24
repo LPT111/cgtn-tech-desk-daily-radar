@@ -3,31 +3,46 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/25 00:27:16
+生成时间：2026/11/25 01:05:25
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 11 条
-延续跟踪线索：国内 0 条｜国际 13 条
+新增核心线索：国内 3 条｜国际 6 条
+延续跟踪线索：国内 1 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车
+1. [2026-11-25] Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力” against primary-source evidence.
+
+2. [2026-11-25] 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml
    角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车” against primary-source evidence.
 
+3. [2026-11-25] 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂” against primary-source evidence.
+
+4. [2026-11-25] 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有” against primary-source evidence.
+
 本次新增线索：
-- 全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwfrc4676703.shtml
-- AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
-- Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
-- Jensen Huang reinstated as Nvidia CEO｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo
-- Huang reportedly admitted to more than two affairs to Nvidia’s board｜TechCrunch｜https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/
-- Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ｜TechCrunch｜https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/
+- Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml
+- 比亚迪官宣：与英力士进入排他谈判 拟接盘法国汉巴赫工厂｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwv1990017.shtml
+- 小米浏览器大升级！手机也能装扩展程序：广告拦截、网页翻译、AI助手全都有｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizwmwz4564677.shtml
+- Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/
+- Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/
+- Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving｜WIRED Business｜https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/
 
 今日热点方向：
-- AI 应用：
+- AI 应用：AI动态（2 条，1 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
@@ -35,11 +50,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：
 
 国际科技背景：
-1. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
+1. Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return｜WIRED Business｜https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/
 2. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html
-3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year
+3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
 4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
-5. Raising the stakes for enterprise networks with AI modernization｜MIT Technology Review｜https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
+5. Jensen Huang Is Back, and So Is Nvidia’s Stock｜WIRED Business｜https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
