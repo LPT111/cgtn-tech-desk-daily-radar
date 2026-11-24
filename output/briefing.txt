@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/24 02:19:57
+生成时间：2026/11/24 14:31:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 2 条
-延续跟踪线索：国内 6 条｜国际 6 条
+新增核心线索：国内 68 条｜国际 14 条
+延续跟踪线索：国内 0 条｜国际 4 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-24] 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量” against primary-source evidence.
+1. [2026-11-24] AI治理丨当AI批量产出科研成果，大模型思维链共享前景几何？
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-11/24/content_617932.html
+   角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “AI治理丨当AI批量产出科研成果，大模型思维链共享前景几何？” against primary-source evidence.
 
-2. [2026-11-24] 王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuaru8074110.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “王者归来！黄仁勋辞职11天火速重任英伟达CEO 马斯克力挺：错误已更正” against primary-source evidence.
+2. [03:23] 郭明錤：黄仁勋复职消除英伟达部分不确定性，但部分瓶颈仍在
+   来源：IT之家
+   链接：https://www.ithome.com/1/031/338.htm
+   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “郭明錤：黄仁勋复职消除英伟达部分不确定性，但部分瓶颈仍在” against primary-source evidence.
 
-3. [2026-11-24] 曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧
+3. [2026-11-24] 电车为何维修贵！汽车智能化程度不断提高：维修变得更贵、更慢
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-11-24/doc-inizuarq5359442.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “曾为支持黄仁勋辞职！前英伟达工程师考虑回归 网友喊话：回来吧” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizveck0159428.shtml
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “电车为何维修贵！汽车智能化程度不断提高：维修变得更贵、更慢” against primary-source evidence.
 
-4. [2026-11-24] 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LCFCGRRG05198CJN.html
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达” against primary-source evidence.
-
-5. [2026-11-24] AI证明了黎曼猜想 这算是数学家的"柯洁时刻"吗？
+4. [2026-11-24] “强劲的2027、审慎的2028”：高盛大幅下调三星电子、SK海力士目标价
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI证明了黎曼猜想 这算是数学家的"柯洁时刻"吗？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizvkme7725794.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind ““强劲的2027、审慎的2028”：高盛大幅下调三星电子、SK海力士目标价” against primary-source evidence.
+
+5. [2026-11-24] 英伟达是AI循环经济的“央行” 一文看懂资金流向
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizutpq0231648.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达是AI循环经济的“央行” 一文看懂资金流向” against primary-source evidence.
 
 本次新增线索：
-- 腾景科技披露近期生产经营情况：光通信与半导体设备订单同步放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5365864.shtml
-- 亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达｜网易科技｜https://www.163.com/dy/article/LCFCGRRG05198CJN.html
-- 诺华CEO质疑AI业界的治癌预期 称对缩短新药研发周期过于乐观｜网易科技｜https://www.163.com/dy/article/LCFCGBND05198CJN.html
-- A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
-- Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html
+- AI治理丨当AI批量产出科研成果，大模型思维链共享前景几何？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/24/content_617932.html
+- 郭明錤：黄仁勋复职消除英伟达部分不确定性，但部分瓶颈仍在｜IT之家｜https://www.ithome.com/1/031/338.htm
+- 电车为何维修贵！汽车智能化程度不断提高：维修变得更贵、更慢｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizveck0159428.shtml
+- “强劲的2027、审慎的2028”：高盛大幅下调三星电子、SK海力士目标价｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizvkme7725794.shtml
+- 英伟达是AI循环经济的“央行” 一文看懂资金流向｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizutpq0231648.shtml
+- U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html
 
 今日热点方向：
-- AI 应用：AI动态（2 条，2 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：
-- 太空与低空经济：
-- 科学前沿：
+- AI 应用：AI动态（13 条，5 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（11 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. Google Turns Its Search Homepage Into an AI Workspace｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-turns-search-homepage-ai-171940671.html
-2. A legendary philosopher isn’t buying Anthropic’s consciousness argument｜MIT Technology Review｜https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
-3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'｜CNBC Technology｜https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html
-4. Nvidia Is Powering Brain-Computer Interfaces Now｜WIRED Science｜https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/
-5. Trump reportedly called into Nvidia board meeting to advocate for Huang’s return｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
+1. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html
+2. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year
+3. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes｜TechCrunch｜https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+4. Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing｜TechCrunch｜https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
+5. Trump backs Nvidia boss's return but top Democrat vows probe｜France24 Technology｜https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
