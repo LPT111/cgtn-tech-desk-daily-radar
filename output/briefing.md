@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/25 13:22:45
+生成时间：2026/11/25 13:29:26
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 50 条｜国际 25 条
+新增核心线索：国内 0 条｜国际 6 条
+延续跟踪线索：国内 55 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,27 +23,27 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/shenji/2026-11-25/doc-inizxian8643636.shtml
    角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “众擎机器人创始人赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力” against primary-source evidence.
 
-3. [2026-11-25] 独家谈判启动 比亚迪拟再买一家欧洲工厂
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LCJ66VBN05198CJN.html
-   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “独家谈判启动 比亚迪拟再买一家欧洲工厂” against primary-source evidence.
-
-4. [2026-11-25] OpenAI 眼中的新 AI 金矿：从写代码转向防黑客
+3. [2026-11-25] OpenAI 眼中的新 AI 金矿：从写代码转向防黑客
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxian8670946.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 眼中的新 AI 金矿：从写代码转向防黑客” against primary-source evidence.
 
-5. [2026-11-25] 连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟
+4. [2026-11-25] 连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-11-25/doc-inizxiai9596634.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟” against primary-source evidence.
 
+5. [2026-11-25] 独家谈判启动 比亚迪拟再买一家欧洲工厂
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LCJ66VBN05198CJN.html
+   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “独家谈判启动 比亚迪拟再买一家欧洲工厂” against primary-source evidence.
+
 本次新增线索：
-- 独家谈判启动 比亚迪拟再买一家欧洲工厂｜网易科技｜https://www.163.com/dy/article/LCJ66VBN05198CJN.html
-- 星际荣耀双曲线三号火箭完成尾段极限载荷静力试验，为“首飞入轨 + 海上回收”铺路｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxpkf9535324.shtml
-- 知乎砸15亿元布局AI，还投资了DeepSeek，CEO：｜网易科技｜https://www.163.com/dy/article/LCJ5TTM10512B07B.html
-- 神舟二十四号航天员领命出征｜网易科技｜https://www.163.com/dy/article/LCIHAIPO0514R9OJ.html
-- 快讯：创业板指跌超2% 宁德时代跌超5%｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-11-25/detail-inizxpkf9532584.d.html
+- Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse｜The Register｜https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795
+- AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986
+- Microsoft refreshes Copilot app search for users without an AI subscription｜The Register｜https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895
+- Claude Ship puts AI at the helm of pull request approvals｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883
+- Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（8 条，4 个来源）
