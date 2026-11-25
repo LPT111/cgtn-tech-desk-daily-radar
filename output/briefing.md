@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/25 13:03:41
+生成时间：2026/11/25 13:22:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 53 条｜国际 14 条
-延续跟踪线索：国内 1 条｜国际 17 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 50 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,43 +23,42 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/shenji/2026-11-25/doc-inizxian8643636.shtml
    角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “众擎机器人创始人赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力” against primary-source evidence.
 
-3. [2026-11-25] OpenAI 眼中的新 AI 金矿：从写代码转向防黑客
+3. [2026-11-25] 独家谈判启动 比亚迪拟再买一家欧洲工厂
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LCJ66VBN05198CJN.html
+   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “独家谈判启动 比亚迪拟再买一家欧洲工厂” against primary-source evidence.
+
+4. [2026-11-25] OpenAI 眼中的新 AI 金矿：从写代码转向防黑客
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxian8670946.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 眼中的新 AI 金矿：从写代码转向防黑客” against primary-source evidence.
 
-4. [2026-11-25] 连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟
+5. [2026-11-25] 连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-11-25/doc-inizxiai9596634.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟” against primary-source evidence.
 
-5. [2026-11-25] 黄仁勋回归：全球AI供应链的变局与新机
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LCIL5I3D0552C2FY.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “黄仁勋回归：全球AI供应链的变局与新机” against primary-source evidence.
-
 本次新增线索：
-- 标准引领 我国人工智能产业基础持续夯实｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-25/doc-inizxiar4408993.shtml
-- 众擎机器人创始人赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-25/doc-inizxian8643636.shtml
-- OpenAI 眼中的新 AI 金矿：从写代码转向防黑客｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxian8670946.shtml
-- 连接大湾区与全球市场，百度智能云等发起前沿科技产业发展联盟｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-11-25/doc-inizxiai9596634.shtml
-- 黄仁勋回归：全球AI供应链的变局与新机｜网易科技｜https://www.163.com/dy/article/LCIL5I3D0552C2FY.html
-- Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+- 独家谈判启动 比亚迪拟再买一家欧洲工厂｜网易科技｜https://www.163.com/dy/article/LCJ66VBN05198CJN.html
+- 星际荣耀双曲线三号火箭完成尾段极限载荷静力试验，为“首飞入轨 + 海上回收”铺路｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxpkf9535324.shtml
+- 知乎砸15亿元布局AI，还投资了DeepSeek，CEO：｜网易科技｜https://www.163.com/dy/article/LCJ5TTM10512B07B.html
+- 神舟二十四号航天员领命出征｜网易科技｜https://www.163.com/dy/article/LCIHAIPO0514R9OJ.html
+- 快讯：创业板指跌超2% 宁德时代跌超5%｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-11-25/detail-inizxpkf9532584.d.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（7 条，4 个来源）
-- 芯片/半导体：半导体供应链（8 条，2 个来源）
+- AI 应用：AI 应用与智能体（8 条，4 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
-2. Saudi national charged in OpenAI bugging to be released on $1 million bond｜CNBC Technology｜https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html
-3. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
-4. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html
-5. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
+1. U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy｜CNBC Technology｜https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html
+2. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
+3. 'Maintain control': UN chief calls for creation of global AI safety framework within a year｜France24 Technology｜https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year
+4. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+5. Saudi national charged in OpenAI bugging to be released on $1 million bond｜CNBC Technology｜https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
