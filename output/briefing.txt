@@ -1,62 +1,39 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/26 23:47:31
+生成时间：2026/11/27 00:31:29
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 71 条｜国际 0 条
-延续跟踪线索：国内 15 条｜国际 27 条
+新增核心线索：国内 1 条｜国际 1 条
+延续跟踪线索：国内 0 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-26] 众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrf1372619.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算” against primary-source evidence.
-
-2. [2026-11-26] 光照堆叠半导体可“追踪”电子运动
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gjxw/2026-11/26/content_619039.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “光照堆叠半导体可“追踪”电子运动” against primary-source evidence.
-
-3. [2026-11-26] 曝苹果下架MiniMax AI聊天应用Talkie
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrh8204183.shtml
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “曝苹果下架MiniMax AI聊天应用Talkie” against primary-source evidence.
-
-4. [2026-11-26] 物理AI带火“电子皮肤”，部分厂商海外增速超国
+1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器
    来源：网易科技
-   链接：https://www.163.com/dy/article/LCMRTGQS0512B07B.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “物理AI带火“电子皮肤”，部分厂商海外增速超国” against primary-source evidence.
-
-5. [2026-11-26] 曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8083401.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位” against primary-source evidence.
+   链接：https://www.163.com/dy/article/LCMUGCUC0512B07B.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.
 
 本次新增线索：
-- 众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrf1372619.shtml
-- 光照堆叠半导体可“追踪”电子运动｜科技日报｜https://www.stdaily.com/web/gjxw/2026-11/26/content_619039.html
-- 曝苹果下架MiniMax AI聊天应用Talkie｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrh8204183.shtml
-- 物理AI带火“电子皮肤”，部分厂商海外增速超国｜网易科技｜https://www.163.com/dy/article/LCMRTGQS0512B07B.html
-- 曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8083401.shtml
+- 英伟达暂停向东南亚四国交付芯片服务器｜网易科技｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html
+- Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
 
 今日热点方向：
-- AI 应用：AI动态（25 条，4 个来源）
-- 芯片/半导体：半导体供应链（6 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（6 条，4 个来源）
+- AI 应用：
+- 芯片/半导体：
+- 机器人/具身智能：
+- 新能源车/智能驾驶：
+- 太空与低空经济：
+- 科学前沿：
 
 国际科技背景：
-1. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
-2. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
-3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
-4. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
-5. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html
+1. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
+2. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+3. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html
+4. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
+5. Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it｜TechCrunch｜https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
