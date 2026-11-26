@@ -1,17 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-11-26T04:56:22.982Z",
+  "generatedAt": "2026-11-26T05:10:53.638Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-26",
   "changeSummary": {
-    "domesticNew": 1,
+    "domesticNew": 9,
     "globalNew": 0,
-    "domesticContinued": 61,
+    "domesticContinued": 56,
     "globalContinued": 31,
     "topNewDomestic": [
       {
-        "title": "美国批准SpaceX部署100万颗数据中心卫星",
+        "title": "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/032/739.htm"
+      },
+      {
+        "title": "AI成为“数学高手”，数学界为何喜忧参半？",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml"
+      },
+      {
+        "title": "平板相控阵终端的全链路降本：芯片为什么是核心抓手",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LCL71QGK0511B8LM.html"
+        "url": "https://www.163.com/dy/article/LCLO3P3N0534A4SC.html"
+      },
+      {
+        "title": "向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/032/737.htm"
+      },
+      {
+        "title": "联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -21,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 838,
+    "domesticRejected": 835,
     "globalRejected": 869,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -36,13 +56,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -65,11 +80,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -193,9 +203,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -343,13 +352,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1495,
+  "itemsSeen": 1558,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 219,
-  "itemsAfterDedupe": 181,
-  "todayItemsSeen": 62,
+  "itemsAfterRelevantFilter": 262,
+  "itemsAfterDedupe": 201,
+  "todayItemsSeen": 65,
   "suspectedItemsSeen": 17,
-  "skippedNonToday": 101,
+  "skippedNonToday": 117,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -452,9 +461,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -757,11 +765,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -808,41 +811,24 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 978,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 193,
+  "globalItemsAfterRelevantFilter": 194,
   "topics": [
     {
       "topic": "科学前沿动态",
       "count": 6,
       "sourceCount": 4,
       "sources": [
-        "观察者网-产业科技",
         "IT之家",
         "科技日报",
-        "网易科技"
+        "网易科技",
+        "新浪科技"
       ],
       "items": [
-        "我国科学家在量子精密测量领域取得新突破",
         "国际首次，我国科研人员助力宇宙中性氢 21 厘米信号直接探测",
         "自然指数：中国包揽全球科研城市前三",
         "我国科研团队从地衣真菌中发现作物抗旱增产新基因",
-        "前苹果空间智能首席科学家权龙再创业，成立Envi"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 11,
-      "sourceCount": 3,
-      "sources": [
-        "科技日报",
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "广东AI科技特派员正式发布",
-        "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
-        "AI为什么能理解一个如此复杂的世界？答案可能是：世界可以被拆解",
-        "11月26日美股收盘：10月通胀仍未放缓 道指周三反弹收高 抹去1100点跌幅 标普纳指跌幅收窄至不足1%",
-        "5G基站525.4万座！前三季度数字产业收入32.41万亿元"
+        "前苹果空间智能首席科学家权龙再创业，成立Envi",
+        "蔡磊回应病情进入终末期：早做好最坏打算 希望大家多关注渐冻症本身"
       ]
     },
     {
@@ -855,11 +841,28 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
+        "AI成为“数学高手”，数学界为何喜忧参半？",
         "同道猎聘联合清华举办“非凡2026”论坛，发布AI转型调研报告并上线招聘智能体Lily",
         "八部门：稳妥有序推动云计算、大模型等人工智能相关服务出海",
         "“AI画不对13个鸡蛋”冲上热搜 大模型还需要补哪些短板",
-        "11月26日美股成交额前20：英伟达跌近4% 标普或下调其评级",
-        "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非"
+        "11月26日美股成交额前20：英伟达跌近4% 标普或下调其评级"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 10,
+      "sourceCount": 3,
+      "sources": [
+        "科技日报",
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "广东AI科技特派员正式发布",
+        "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
+        "AI为什么能理解一个如此复杂的世界？答案可能是：世界可以被拆解",
+        "11月26日美股收盘：10月通胀仍未放缓 道指周三反弹收高 抹去1100点跌幅 标普纳指跌幅收窄至不足1%",
+        "5G基站525.4万座！前三季度数字产业收入32.41万亿元"
       ]
     },
     {
@@ -892,13 +895,13 @@ window.CHENCHEN_DAILY_DATA = {
         "月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三",
         "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域",
         "高盛：美国AI用电的增长有望持续至2028年｜人工智能早参",
-        "扩产卡脖子！半导体基板设备交期暴涨4倍 最长等30个月",
-        "华为定制HBM方案曝光：4096个数据接口，五层混"
+        "Micro LED微显示领域五大技术路线与公司解读",
+        "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月"
       ]
     },
     {
       "topic": "新能源车动态",
-      "count": 6,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
         "IT之家",
@@ -911,6 +914,21 @@ window.CHENCHEN_DAILY_DATA = {
         "宁德时代累计回购60.8亿元 公司长期价值凸显",
         "财联社汽车早报「11月26日」",
         "奇瑞风云 A8 纯电版新车申报：单电机 178kW，宁德时代电池"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "平板相控阵终端的全链路降本：芯片为什么是核心抓手",
+        "联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片",
+        "11月26日隔夜要闻：美股低开反弹 标普或下调英伟达评级 万斯力挺黄仁勋 爱奇艺收纳斯达克不合规通知",
+        "存储芯片将出现分化？DRAM仍供不应求 NAND最早明年Q1开始降价"
       ]
     },
     {
@@ -929,19 +947,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "11月26日隔夜要闻：美股低开反弹 标普或下调英伟达评级 万斯力挺黄仁勋 爱奇艺收纳斯达克不合规通知",
-        "存储芯片将出现分化？DRAM仍供不应求 NAND最早明年Q1开始降价"
-      ]
-    },
-    {
       "topic": "新能源车与智能驾驶",
       "count": 2,
       "sourceCount": 1,
@@ -951,6 +956,40 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "对话何小鹏：颠覆汽车公司的可能是机器人公司",
         "汽车早报｜特斯拉上海超级工厂第500万辆整车即将下线 小鹏首款Robotaxi定制车型YOYO-01明年发布"
+      ]
+    },
+    {
+      "topic": "低空经济与无人机",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "无人机射频前端：低空经济里被忽视的细分赛道",
+        "两位大疆老兵，造了一台追着人跑的拍摄机器人"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击"
+      ]
+    },
+    {
+      "topic": "太空与低空动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户"
       ]
     },
     {
@@ -984,17 +1023,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "大晓机器人发布第一人称4D手部运动重建模型ACE-ViDiHand2"
-      ]
-    },
-    {
-      "topic": "低空经济与无人机",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "两位大疆老兵，造了一台追着人跑的拍摄机器人"
       ]
     }
   ],
@@ -1273,6 +1301,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击",
+      "summary": "人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/032/739.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/032/739.htm"
+      ],
+      "publishedAt": "Thu, 26 Nov 2026 04:55:46 GMT",
+      "date": "2026-11-26",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 174,
+      "reporterScore": 188,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人公司 Figure 于 11 月 24 日回应马斯克的“摆拍、预先编程”质疑，发布一段 41 秒视频，展示 Figure 03 机器人在桌子被人为移动后，仍能重新定位并取回放在桌上的苹果。",
+      "relatedTitles": [
+        "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域",
       "summary": "首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25 日）发布公告，其子公司首尔威迅（Seoul Viosys）开发的 WICOP Pixel 技术已进入全面量产，并开始向全球电视厂商供货。",
       "source": "IT之家",
@@ -1338,6 +1434,74 @@ window.CHENCHEN_DAILY_DATA = {
         "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AI成为“数学高手”，数学界为何喜忧参半？",
+      "summary": "在很多人的印象里，数学突破高度依赖灵感与直觉，是最难被机器替代的学科，但近期人工智能在数学领域的进化速度超出很多人的预期。大模型是如何突然变成“数学高手”的？在众多基础学科里，为什么它偏偏最擅长做数学？国际数学联盟副主席香港数学会理事长 何...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI成为“数学高手”，数学界为何喜忧参半？” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "在很多人的印象里，数学突破高度依赖灵感与直觉，是最难被机器替代的学科，但近期人工智能在数学领域的进化速度超出很多人的预期。大模型是如何突然变成“数学高手”的？在众多基础学科里，为什么它偏偏最擅长做数学？国际数学联盟副主席香港数学会理事长 何...",
+      "relatedTitles": [
+        "AI成为“数学高手”，数学界为何喜忧参半？"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1409,40 +1573,40 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "美国批准SpaceX部署100万颗数据中心卫星",
-      "summary": "美国FCC批准SpaceX在太空部署100万颗数据中心卫星,太空,无线电,地面站,火箭发射,spacex,数据中心卫星",
+      "title": "平板相控阵终端的全链路降本：芯片为什么是核心抓手",
+      "summary": "平板相控阵终端的全链路降本：芯片为什么是核心抓手,芯片,卫星,射频,天线,集成度,高密度,平板相控阵",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/LCL71QGK0511B8LM.html",
+      "url": "https://www.163.com/dy/article/LCLO3P3N0534A4SC.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/LCL71QGK0511B8LM.html"
+        "https://www.163.com/dy/article/LCLO3P3N0534A4SC.html"
       ],
       "publishedAt": "2026-11-26",
       "date": "2026-11-26",
-      "category": "太空与低空",
-      "classificationConfidence": 0.99,
+      "category": "芯片",
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 167,
+      "score": 175,
       "reporterScore": 181,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 8,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1454,24 +1618,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": true,
-        "international": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
+        "hardTechWeight": 95,
+        "reporterScore": 118
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “美国批准SpaceX部署100万颗数据中心卫星” against primary-source evidence.",
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “平板相控阵终端的全链路降本：芯片为什么是核心抓手” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "美国FCC批准SpaceX在太空部署100万颗数据中心卫星,太空,无线电,地面站,火箭发射,spacex,数据中心卫星",
+      "matchedTopic": "芯片动态",
+      "rawText": "平板相控阵终端的全链路降本：芯片为什么是核心抓手,芯片,卫星,射频,天线,集成度,高密度,平板相控阵",
       "relatedTitles": [
-        "美国批准SpaceX部署100万颗数据中心卫星"
+        "平板相控阵终端的全链路降本：芯片为什么是核心抓手"
       ],
       "isNewSinceLastRun": true
     },
@@ -2020,6 +2184,142 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "美国批准SpaceX部署100万颗数据中心卫星",
+      "summary": "美国FCC批准SpaceX在太空部署100万颗数据中心卫星,太空,无线电,地面站,火箭发射,spacex,数据中心卫星",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCL71QGK0511B8LM.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCL71QGK0511B8LM.html"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 181,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “美国批准SpaceX部署100万颗数据中心卫星” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "美国FCC批准SpaceX在太空部署100万颗数据中心卫星,太空,无线电,地面站,火箭发射,spacex,数据中心卫星",
+      "relatedTitles": [
+        "美国批准SpaceX部署100万颗数据中心卫星"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户",
+      "summary": "SpaceX 公司当地时间 11 月 25 日发布公告，将为每一个现有的特朗普儿童账户各捐赠 1 股新发行的 A 类普通股，帮助美国儿童建立长期储蓄。作为其“为每个美国孩子捐赠一股 SpaceX 股票”承诺的体现，SpaceX 首席执行官埃隆 · 马斯克还将亲自拿出与所捐赠股票数量相等的股份进行匹配捐赠，也就是 Spa",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/032/737.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/032/737.htm"
+      ],
+      "publishedAt": "Thu, 26 Nov 2026 04:48:52 GMT",
+      "date": "2026-11-26",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 125
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "SpaceX 公司当地时间 11 月 25 日发布公告，将为每一个现有的特朗普儿童账户各捐赠 1 股新发行的 A 类普通股，帮助美国儿童建立长期储蓄。作为其“为每个美国孩子捐赠一股 SpaceX 股票”承诺的体现，SpaceX 首席执行官埃隆 · 马斯克还将亲自拿出与所捐赠股票数量相等的股份进行匹配捐赠，也就是 SpaceX 每捐 1 股，马斯克也捐 1 股。",
+      "relatedTitles": [
+        "向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "标普可能下调英伟达评级",
       "summary": "国际评级机构标普将英伟达评级的原有稳定展望调整为负面信用观察。标普指出，近期相关事件动摇了其对英伟达管理与治理框架的原有判断，涉及该公司首席执行官的相关消息，以及潜在出口管制违规的相关疑问，暴露出英伟达管理与治理体系存在薄弱环节，相关短板集中体现在董事会架构、组成与履职有效性等核心维度。(AI生成)",
@@ -2088,45 +2388,45 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我国科学家在量子精密测量领域取得新突破",
-      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国科学家在量子精密测量领域取得新突破 分享到： 近日，清华大学交叉信息研究院孙麓岩教授团队联合中国科学技术大学、浙江大学团队（以下简称：联合团队）在量子增强精密测量领域取得重要突破。 在超导电路量子电动力学平台上，联合团队提出并实现了",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片",
+      "summary": "快科技11月26日消息，联想正在准备一款名为Legion Go Beam的新掌机，与此前采用Windows或SteamOS的Legion Go系列不同，这款新机据称将搭载Android系统，并以游戏串流为主要卖点。爆料称，Legion Go...",
+      "source": "新浪科技",
       "sources": [
-        "观察者网-产业科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_26_909981.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_26_909981.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml"
       ],
       "publishedAt": "2026-11-26",
       "date": "2026-11-26",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
+      "category": "芯片",
+      "classificationConfidence": 0.72,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
+      "score": 167,
+      "reporterScore": 167,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2134,26 +2434,162 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": true,
+        "international": false,
+        "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “我国科学家在量子精密测量领域取得新突破” against primary-source evidence.",
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国科学家在量子精密测量领域取得新突破 分享到： 近日，清华大学交叉信息研究院孙麓岩教授团队联合中国科学技术大学、浙江大学团队（以下简称：联合团队）在量子增强精密测量领域取得重要突破。 在超导电路量子电动力学平台上，联合团队提出并实现了Fock空间量子共焦显微方案，成功制备了平均光子数高达500的Fock空间聚焦态，将玻色子个数方差降低到原来的约0.71%。 联合团队还进一步发展Fock空间扫描层析方法，表征了大光子数玻色模式态的Fock空间分布，刷新了非高斯态光子数和量子计量增益两项纪录，同时解决了高光子数非高斯量子探针的确定性制备与高效信息提取两大难题。 相关成果于2026年11月26日，以《基于Fock空间共聚焦的500光子量子增强传感》（Quantum-enhanced sensing with 500 photons via Fock-space confocal focusing）为题在线发表于《自然》（Nature）。 《自然》期刊审稿人评价称，“这项成果令人印象深刻，其主要成就不仅在于制",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技11月26日消息，联想正在准备一款名为Legion Go Beam的新掌机，与此前采用Windows或SteamOS的Legion Go系列不同，这款新机据称将搭载Android系统，并以游戏串流为主要卖点。爆料称，Legion Go...",
       "relatedTitles": [
-        "我国科学家在量子精密测量领域取得新突破"
+        "联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Micro LED微显示领域五大技术路线与公司解读",
+      "summary": "Micro LED微显示领域五大技术路线与公司解读,微米,光刻,外延,芯片,led,纳米级,微显示,技术路线,先进制程",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCLO393G0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCLO393G0534A4SC.html"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “Micro LED微显示领域五大技术路线与公司解读” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "Micro LED微显示领域五大技术路线与公司解读,微米,光刻,外延,芯片,led,纳米级,微显示,技术路线,先进制程",
+      "relatedTitles": [
+        "Micro LED微显示领域五大技术路线与公司解读"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月",
+      "summary": "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月,载板,半导体,bga,基板设备,玻璃基板",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCLI4PMJ05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCLI4PMJ05198CJN.html"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “交期拉长4倍！半导体基板设备现短缺 拿货需等30个月” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月,载板,半导体,bga,基板设备,玻璃基板",
+      "relatedTitles": [
+        "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2496,74 +2932,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非",
-      "summary": "11月26日，Anthropic首席执行官达里奥·阿莫迪在X平台发推文，公开否认“主张人类应向AI交出自由意志”的指控，称其荒谬，强调AI需接受合法民主程序治理，人类不应牺牲自主决定权，将治理权交予AI是糟糕主意。 此次争论围绕“AI替人干活”与“AI替人做主”的界限展开，OpenAI、Meta相关负责人均表态支持人类",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsii1417661.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsii1417661.shtml"
-      ],
-      "publishedAt": "2026-11-26",
-      "date": "2026-11-26",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "11月26日，Anthropic首席执行官达里奥·阿莫迪在X平台发推文，公开否认“主张人类应向AI交出自由意志”的指控，称其荒谬，强调AI需接受合法民主程序治理，人类不应牺牲自主决定权，将治理权交予AI是糟糕主意。 此次争论围绕“AI替人干活”与“AI替人做主”的界限展开，OpenAI、Meta相关负责人均表态支持人类保留对未来的自主权。阿莫迪区分了完全让AI主导社会运行和AI自动化完成具体任务两类情形，指出过度自动化存在“递归自我改进”等风险，称Anthropic明确要求Claude不得在无有效人类监督下自主构建前沿模型，同时指责部分竞争对手打着人类控制旗号却不断推进产品自动化。(AI生成)",
-      "relatedTitles": [
-        "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "蔚来新乐道 L60 黑骑士版明日上市，全国展车同步到店",
       "summary": "新乐道 L60 黑骑士版将于 11 月 27 日正式上市，全国展车同步到店。同日 10:00 还将举行广州车展蔚来公司发布会。#乐道L60# #广州车展#",
@@ -2764,77 +3132,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "【天极网手机频道】工业和信息化部公布数据显示，前三季度，我国数字产业整体保持向优向好，收入增速加快、盈利改善，电子产品出口强劲，人工智能持续迭代、智能终端新品密集推出。 数据显示，前三季度数字产业收入32.41万亿元，同比增长14.8%。...",
       "relatedTitles": [
         "5G基站525.4万座！前三季度数字产业收入32.41万亿元"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "扩产卡脖子！半导体基板设备交期暴涨4倍 最长等30个月",
-      "summary": "快科技11月26日消息，随着AI带动半导体需求持续增长，基板需求随之激增，相关制造设备供应趋紧，部分基板制造设备采购交期已超过两年。据媒体报道，用于生产倒装芯片球栅格阵列（FC-BGA）基板的部分加工设备，交付周期较正常水平延长近4倍。此前...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3777342.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3777342.shtml",
-        "https://www.163.com/dy/article/LCLI4PMJ05198CJN.html"
-      ],
-      "publishedAt": "2026-11-26",
-      "date": "2026-11-26",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “扩产卡脖子！半导体基板设备交期暴涨4倍 最长等30个月” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "快科技11月26日消息，随着AI带动半导体需求持续增长，基板需求随之激增，相关制造设备供应趋紧，部分基板制造设备采购交期已超过两年。据媒体报道，用于生产倒装芯片球栅格阵列（FC-BGA）基板的部分加工设备，交付周期较正常水平延长近4倍。此前...",
-      "relatedTitles": [
-        "扩产卡脖子！半导体基板设备交期暴涨4倍 最长等30个月",
-        "交期拉长4倍！半导体基板设备现短缺 拿货需等30个月"
       ],
       "isNewSinceLastRun": false
     },
@@ -3107,74 +3404,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "三部门：探索大小模型协同、人机协同、机机协同等网络运维新范式,维新,运营,自动化,大模型,人机协同,机机协同,网络运维",
       "relatedTitles": [
         "三部门：探索大小模型协同、人机协同、机机协同等网络运维新范式"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "三部门：推动人工智能与信息网络融合发展，研究",
-      "summary": "三部门：推动人工智能与信息网络融合发展，研究布局智能互联网,算法,智能化,人工智能,ipv6,信息网络,软件企业,智能互联网",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/LCL89FSC0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/LCL89FSC0534A4SC.html"
-      ],
-      "publishedAt": "2026-11-26",
-      "date": "2026-11-26",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三部门：推动人工智能与信息网络融合发展，研究” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "三部门：推动人工智能与信息网络融合发展，研究布局智能互联网,算法,智能化,人工智能,ipv6,信息网络,软件企业,智能互联网",
-      "relatedTitles": [
-        "三部门：推动人工智能与信息网络融合发展，研究"
       ],
       "isNewSinceLastRun": false
     },
@@ -3519,6 +3748,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "无人机射频前端：低空经济里被忽视的细分赛道",
+      "summary": "无人机射频前端：低空经济里被忽视的细分赛道,射频,前端,图传,无人机,飞行器,工业级,高密度,无人航空载具",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LCLO3H3V0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LCLO3H3V0534A4SC.html"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 0,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “无人机射频前端：低空经济里被忽视的细分赛道” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "无人机射频前端：低空经济里被忽视的细分赛道,射频,前端,图传,无人机,飞行器,工业级,高密度,无人航空载具",
+      "relatedTitles": [
+        "无人机射频前端：低空经济里被忽视的细分赛道"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "北京怀柔：大科学装置加快“沿途下蛋”",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 北京怀柔：大科学装置加快“沿途下蛋” 2026-11-26 07:46:53 来源: 科技日报 点击数： 热点",
@@ -3651,74 +3948,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "（来源：AI信息Gap）美东时间 11 月 25 日，FCC 批准 SpaceX 在近地轨道部署最多 100 万颗 Starmind 卫星，把 AI 数据中心搬上太空。第一阶段的部署门槛低得出奇，2033 年 11 月 25 日前，只要有 ...",
       "relatedTitles": [
         "刚刚，马斯克牌太空AI机房获批！100万颗卫星，前7年只需1颗"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "消息称三星、SK 海力士已获得长江存储 Xtacking 架构部分技术使用权",
-      "summary": "这一举措表明，长江存储已经迅速赶上那些规模更大的半导体竞争对手，并拥有了庞大的知识产权储备。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/032/568.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/032/568.htm"
-      ],
-      "publishedAt": "Thu, 26 Nov 2026 01:20:30 GMT",
-      "date": "2026-11-26",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 163,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “消息称三星、SK 海力士已获得长江存储 Xtacking 架构部分技术使用权” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "这一举措表明，长江存储已经迅速赶上那些规模更大的半导体竞争对手，并拥有了庞大的知识产权储备。",
-      "relatedTitles": [
-        "消息称三星、SK 海力士已获得长江存储 Xtacking 架构部分技术使用权"
       ],
       "isNewSinceLastRun": false
     },
@@ -3993,6 +4222,74 @@ window.CHENCHEN_DAILY_DATA = {
         "大晓机器人发布第一人称4D手部运动重建模型ACE-ViDiHand2"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "蔡磊回应病情进入终末期：早做好最坏打算 希望大家多关注渐冻症本身",
+      "summary": "11月26日上午，“蔡磊病情进入终末期”登上微博热搜第一引发网友关注，蔡磊随后发文回应，称自身渐冻症进入终末期的情况从去年就已发生，并非近期突然恶化。他感谢公众关心，不希望外界过度关注其个人身体状况，坦言理解家人因他病情常情绪失控，也对家人承受的压力心怀歉意。他早已做好最坏打算，接受身体机能退化的现实，呼吁公众将注意力",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3815182.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3815182.shtml"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "科学前沿",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “蔡磊回应病情进入终末期：早做好最坏打算 希望大家多关注渐冻症本身” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "11月26日上午，“蔡磊病情进入终末期”登上微博热搜第一引发网友关注，蔡磊随后发文回应，称自身渐冻症进入终末期的情况从去年就已发生，并非近期突然恶化。他感谢公众关心，不希望外界过度关注其个人身体状况，坦言理解家人因他病情常情绪失控，也对家人承受的压力心怀歉意。他早已做好最坏打算，接受身体机能退化的现实，呼吁公众将注意力转向渐冻症本身、相关科研攻关，尤其是渐冻症基础研究、药物研发管线及各界推进的相关工作。曾任京东副总裁的他2019年确诊渐冻症后持续投入相关攻关，如今仍保持每天十几个小时的工作强度，全力推进攻克渐冻症的相关事业。(AI生成)",
+      "relatedTitles": [
+        "蔡磊回应病情进入终末期：早做好最坏打算 希望大家多关注渐冻症本身"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -5083,74 +5380,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "华为官宣智能汽车解决方案部件发货量超过 1 亿件，车型累计超过 60 款",
-      "summary": "截至 11 月 25 日，华为乾崑智能汽车解决方案已合作 26 个品牌、超 60 款车型，部件发货量突破 1 亿件。方案涵盖 ADS 智驾、车控、车载光、车云及鸿蒙座舱。 #华为乾崑# #智能汽车#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/032/569.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/032/569.htm"
-      ],
-      "publishedAt": "Thu, 26 Nov 2026 01:23:18 GMT",
-      "date": "2026-11-26",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 141,
-      "reporterScore": 141,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “华为官宣智能汽车解决方案部件发货量超过 1 亿件，车型累计超过 60 款” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "截至 11 月 25 日，华为乾崑智能汽车解决方案已合作 26 个品牌、超 60 款车型，部件发货量突破 1 亿件。方案涵盖 ADS 智驾、车控、车载光、车云及鸿蒙座舱。 #华为乾崑# #智能汽车#",
-      "relatedTitles": [
-        "华为官宣智能汽车解决方案部件发货量超过 1 亿件，车型累计超过 60 款"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "雷军：买车送AI眼镜啦！",
       "summary": "11月26日，雷军通过微博官宣小米汽车感恩节限时购车福利活动。活动规则明确，消费者需在11月24日0点至11月30日期间锁单小米汽车全系现车，且在2024年12月31日前完成提车，即可获赠价值1999元的玳瑁棕款小米AI眼镜。(AI生成)",
@@ -5423,7 +5652,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 27239",
+      "title": "阅读 27492",
       "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 数据中心疯抢钢材、美国生产不过来，钢价连涨18周 赖家琪 （文/王一 编辑/吕栋） 当地时间11月23日，美国最大钢铁生产商纽柯公司（Nucor）连续第18周上调热轧卷板现货价格，较上周每短吨上涨20美元，达到1330美元。与此同时，加",
       "source": "观察者网-产业科技",
       "sources": [
@@ -5480,12 +5709,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阅读 27239” against primary-source evidence.",
+      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “阅读 27492” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "国产 GPU / 算力基础设施",
       "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 数据中心疯抢钢材、美国生产不过来，钢价连涨18周 赖家琪 （文/王一 编辑/吕栋） 当地时间11月23日，美国最大钢铁生产商纽柯公司（Nucor）连续第18周上调热轧卷板现货价格，较上周每短吨上涨20美元，达到1330美元。与此同时，加州钢铁工业公司（CSI）也将报价上调20美元至每短吨1400美元。 除了涨价外，美国钢材买家还面临更棘手的问题——无法及时买到所需钢材。Nucor在致客户的信函中表示，目前钢材交货周期仍为3至5周。 钢铁市场分析机构SMU的一项调查显示，目前美国钢材买家普遍不认为价格会下跌，再加上国内市场钢材供应不足，使得进口钢材成为一个颇具吸引力的选择。 美国钢价走势 美国彭博社25日报道称，人工智能（AI）基础设施建设热潮带动数据中心及配套电力设施投资激增，进一步推高了对钢材的需求。而美国本土产能难以迅速跟上、钢材价格持续攀升，使得越来越多美国买家在高达50%的进口钢材关税下，仍选择从亚洲购买钢材。 根据美国钢铁协会（AISI）汇总的数据，今年1月至10月，美国从韩国进口的扁平轧制钢",
       "relatedTitles": [
-        "阅读 27239"
+        "阅读 27492"
       ]
     },
     {
@@ -6160,21 +6389,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "硬科技早报｜曝多家手机厂商下调出货目标；大量英伟达GPU涌入转售市场",
-      "summary": "【11月26日硬科技早报】",
+      "title": "1nm黄豆制程、光刻机业务、收购腾讯…炒作九阳股份太离谱",
+      "summary": "已连续5年双双下滑",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/CaiJing/2026_11_26_909980.shtml",
+      "url": "https://www.guancha.cn/CaiJing/2026_11_26_910006.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/CaiJing/2026_11_26_909980.shtml"
+        "https://www.guancha.cn/CaiJing/2026_11_26_910006.shtml"
       ],
       "publishedAt": "",
       "date": "",
       "category": "芯片",
-      "classificationConfidence": 0.97,
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
@@ -6217,12 +6446,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “硬科技早报｜曝多家手机厂商下调出货目标；大量英伟达GPU涌入转售市场” against primary-source evidence.",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “1nm黄豆制程、光刻机业务、收购腾讯…炒作九阳股份太离谱” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "【11月26日硬科技早报】",
+      "matchedTopic": "半导体供应链",
+      "rawText": "已连续5年双双下滑",
       "relatedTitles": [
-        "硬科技早报｜曝多家手机厂商下调出货目标；大量英伟达GPU涌入转售市场"
+        "1nm黄豆制程、光刻机业务、收购腾讯…炒作九阳股份太离谱"
       ]
     },
     {
@@ -6294,7 +6523,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 50732",
+      "title": "阅读 50742",
       "summary": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -6351,12 +6580,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "graphic",
-      "angle": "Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “阅读 50732” against primary-source evidence.",
+      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “阅读 50742” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "数字基础设施与数据要素",
       "rawText": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "relatedTitles": [
-        "阅读 50732"
+        "阅读 50742"
       ]
     }
   ],
@@ -7354,8 +7583,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-26｜V3\n生成时间：2026/11/26 12:56:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 62｜国际背景 31\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 61 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   科技日报｜2026-11-26｜https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [03:10] 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域\n   IT之家｜2026-11-26｜https://www.ithome.com/1/032/614.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.\n\n本次新增线索：\n- 美国批准SpaceX部署100万颗数据中心卫星｜网易科技｜https://www.163.com/dy/article/LCL71QGK0511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-26｜V3\n生成时间：2026/11/26 12:56:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 62｜国际背景 31\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 61 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   科技日报｜2026-11-26｜https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [03:10] 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域\n   IT之家｜2026-11-26｜https://www.ithome.com/1/032/614.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.\n\n本次新增线索：\n- 美国批准SpaceX部署100万颗数据中心卫星｜网易科技｜https://www.163.com/dy/article/LCL71QGK0511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-26｜生成时间：2026/11/26 12:56:22｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2473｜确认今日 62｜国际背景 31</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 61 条｜国际 31 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-26] 广东AI科技特派员正式发布</strong>\n      <span>科技日报｜2026-11-26｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：206｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [03:10] 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域</strong>\n      <span>IT之家｜2026-11-26｜<a href=\"https://www.ithome.com/1/032/614.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China's Google Just Released Its Fast New AI Model for Free</strong>\n      <span>时间：2026-11-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China's Google Just Released Its Fast New AI Model for Free” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC</strong>\n      <span>时间：Wed, 25 Nov 2026 17:28:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sourc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It</strong>\n      <span>时间：Tue, 24 Nov 2026 10:15:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/ai-solved-maths-most-famous-problem/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks</strong>\n      <span>时间：Wed, 25 Nov 2026 22:44:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “S&P considers Nvidia credit downgrade over governance and ‘key man’ risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</strong>\n      <span>时间：Wed, 25 Nov 2026 00:12:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/26 12:56:22\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 61 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [03:10] 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域\n   来源：IT之家\n   链接：https://www.ithome.com/1/032/614.htm\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.\n\n本次新增线索：\n- 美国批准SpaceX部署100万颗数据中心卫星｜网易科技｜https://www.163.com/dy/article/LCL71QGK0511B8LM.html\n\n今日热点方向：\n- AI 应用：AI动态（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-26｜V3\n生成时间：2026/11/26 13:10:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2536｜确认今日 65｜国际背景 31\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 56 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   科技日报｜2026-11-26｜https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击\n   IT之家｜2026-11-26｜https://www.ithome.com/1/032/739.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.\n\n本次新增线索：\n- 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击｜IT之家｜https://www.ithome.com/1/032/739.htm\n- AI成为“数学高手”，数学界为何喜忧参半？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml\n- 平板相控阵终端的全链路降本：芯片为什么是核心抓手｜网易科技｜https://www.163.com/dy/article/LCLO3P3N0534A4SC.html\n- 向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户｜IT之家｜https://www.ithome.com/1/032/737.htm\n- 联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（2 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-26｜V3\n生成时间：2026/11/26 13:10:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2536｜确认今日 65｜国际背景 31\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 56 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   科技日报｜2026-11-26｜https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   新浪科技｜2026-11-26｜https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击\n   IT之家｜2026-11-26｜https://www.ithome.com/1/032/739.htm\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.\n\n本次新增线索：\n- 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击｜IT之家｜https://www.ithome.com/1/032/739.htm\n- AI成为“数学高手”，数学界为何喜忧参半？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml\n- 平板相控阵终端的全链路降本：芯片为什么是核心抓手｜网易科技｜https://www.163.com/dy/article/LCLO3P3N0534A4SC.html\n- 向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户｜IT之家｜https://www.ithome.com/1/032/737.htm\n- 联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（2 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-26｜生成时间：2026/11/26 13:10:53｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2536｜确认今日 65｜国际背景 31</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 9 条｜国际 0 条<br>延续跟踪线索：国内 56 条｜国际 31 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-26] 广东AI科技特派员正式发布</strong>\n      <span>科技日报｜2026-11-26｜<a href=\"https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：206｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考</strong>\n      <span>新浪科技｜2026-11-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击</strong>\n      <span>IT之家｜2026-11-26｜<a href=\"https://www.ithome.com/1/032/739.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：188｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China's Google Just Released Its Fast New AI Model for Free</strong>\n      <span>时间：2026-11-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “China's Google Just Released Its Fast New AI Model for Free” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC</strong>\n      <span>时间：Wed, 25 Nov 2026 17:28:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sourc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It</strong>\n      <span>时间：Tue, 24 Nov 2026 10:15:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/ai-solved-maths-most-famous-problem/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Under” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks</strong>\n      <span>时间：Wed, 25 Nov 2026 22:44:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “S&P considers Nvidia credit downgrade over governance and ‘key man’ risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</strong>\n      <span>时间：Wed, 25 Nov 2026 00:12:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/26 13:10:53\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 56 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.\n\n2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.\n\n3. [2026-11-26] 广东AI科技特派员正式发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.\n\n4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.\n\n5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击\n   来源：IT之家\n   链接：https://www.ithome.com/1/032/739.htm\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.\n\n本次新增线索：\n- 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击｜IT之家｜https://www.ithome.com/1/032/739.htm\n- AI成为“数学高手”，数学界为何喜忧参半？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml\n- 平板相控阵终端的全链路降本：芯片为什么是核心抓手｜网易科技｜https://www.163.com/dy/article/LCLO3P3N0534A4SC.html\n- 向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户｜IT之家｜https://www.ithome.com/1/032/737.htm\n- 联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（7 条，3 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（2 条，1 个来源）\n- 科学前沿：科学前沿动态（6 条，4 个来源）\n\n国际科技背景：\n1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html\n2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

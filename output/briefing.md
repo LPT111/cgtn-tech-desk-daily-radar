@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/26 12:56:22
+生成时间：2026/11/26 13:10:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 61 条｜国际 31 条
+新增核心线索：国内 9 条｜国际 0 条
+延续跟踪线索：国内 56 条｜国际 31 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -33,20 +33,24 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.
 
-5. [03:10] 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域
+5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击
    来源：IT之家
-   链接：https://www.ithome.com/1/032/614.htm
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.
+   链接：https://www.ithome.com/1/032/739.htm
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.
 
 本次新增线索：
-- 美国批准SpaceX部署100万颗数据中心卫星｜网易科技｜https://www.163.com/dy/article/LCL71QGK0511B8LM.html
+- 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击｜IT之家｜https://www.ithome.com/1/032/739.htm
+- AI成为“数学高手”，数学界为何喜忧参半？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml
+- 平板相控阵终端的全链路降本：芯片为什么是核心抓手｜网易科技｜https://www.163.com/dy/article/LCLO3P3N0534A4SC.html
+- 向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户｜IT之家｜https://www.ithome.com/1/032/737.htm
+- 联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml
 
 今日热点方向：
-- AI 应用：AI动态（11 条，3 个来源）
+- AI 应用：AI 应用与智能体（11 条，3 个来源）
 - 芯片/半导体：半导体供应链（7 条，3 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，1 个来源）
 - 科学前沿：科学前沿动态（6 条，4 个来源）
 
 国际科技背景：
