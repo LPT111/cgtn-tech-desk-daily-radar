@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/26 12:31:34
+生成时间：2026/11/26 12:56:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 65 条｜国际 11 条
-延续跟踪线索：国内 0 条｜国际 20 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 61 条｜国际 31 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,12 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域” against primary-source evidence.
 
 本次新增线索：
-- 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml
-- SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml
-- 广东AI科技特派员正式发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html
-- 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml
-- 全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域｜IT之家｜https://www.ithome.com/1/032/614.htm
-- China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html
+- 美国批准SpaceX部署100万颗数据中心卫星｜网易科技｜https://www.163.com/dy/article/LCL71QGK0511B8LM.html
 
 今日热点方向：
 - AI 应用：AI动态（11 条，3 个来源）
@@ -57,9 +52,9 @@ ChenChen 今日 Briefing｜V3
 国际科技背景：
 1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html
 2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
-3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
-4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html
-5. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
+3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
+4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
