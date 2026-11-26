@@ -3,62 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/26 13:10:53
+生成时间：2026/11/26 23:47:31
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 56 条｜国际 31 条
+新增核心线索：国内 71 条｜国际 0 条
+延续跟踪线索：国内 15 条｜国际 27 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-26] 月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三
+1. [2026-11-26] 众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsip3789440.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “月产50万片！奕斯伟武汉12英寸硅片基地设备搬入：剑指全球前三” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrf1372619.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算” against primary-source evidence.
 
-2. [2026-11-26] SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1444924.shtml
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了” against primary-source evidence.
-
-3. [2026-11-26] 广东AI科技特派员正式发布
+2. [2026-11-26] 光照堆叠半导体可“追踪”电子运动
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-11/26/content_619502.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广东AI科技特派员正式发布” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gjxw/2026-11/26/content_619039.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “光照堆叠半导体可“追踪”电子运动” against primary-source evidence.
 
-4. [2026-11-26] 中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考
+3. [2026-11-26] 曝苹果下架MiniMax AI聊天应用Talkie
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-26/doc-inizzsip3787795.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrh8204183.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “曝苹果下架MiniMax AI聊天应用Talkie” against primary-source evidence.
 
-5. [04:55] 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击
-   来源：IT之家
-   链接：https://www.ithome.com/1/032/739.htm
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击” against primary-source evidence.
+4. [2026-11-26] 物理AI带火“电子皮肤”，部分厂商海外增速超国
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LCMRTGQS0512B07B.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “物理AI带火“电子皮肤”，部分厂商海外增速超国” against primary-source evidence.
+
+5. [2026-11-26] 曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8083401.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位” against primary-source evidence.
 
 本次新增线索：
-- 马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击｜IT之家｜https://www.ithome.com/1/032/739.htm
-- AI成为“数学高手”，数学界为何喜忧参半？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-26/doc-inizzsii1477113.shtml
-- 平板相控阵终端的全链路降本：芯片为什么是核心抓手｜网易科技｜https://www.163.com/dy/article/LCLO3P3N0534A4SC.html
-- 向全美孩子每人赠送 2 股股票，SpaceX 和马斯克本人出手力挺特朗普儿童账户｜IT之家｜https://www.ithome.com/1/032/737.htm
-- 联想新平价掌机突然换赛道！告别Windows和AMD：改用安卓+高通芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1471164.shtml
+- 众擎机器人圆桌会谈机器人规模化：脉冲式卖出几百台不算规模化，能持续复购才算｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrf1372619.shtml
+- 光照堆叠半导体可“追踪”电子运动｜科技日报｜https://www.stdaily.com/web/gjxw/2026-11/26/content_619039.html
+- 曝苹果下架MiniMax AI聊天应用Talkie｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-26/doc-inizzwrh8204183.shtml
+- 物理AI带火“电子皮肤”，部分厂商海外增速超国｜网易科技｜https://www.163.com/dy/article/LCMRTGQS0512B07B.html
+- 曝阿里加码北美AI人才招聘，千问事业部国内已开放500+岗位｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8083401.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（11 条，3 个来源）
-- 芯片/半导体：半导体供应链（7 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，1 个来源）
+- AI 应用：AI动态（25 条，4 个来源）
+- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（6 条，4 个来源）
 
 国际科技背景：
-1. China's Google Just Released Its Fast New AI Model for Free｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/chinas-google-just-released-fast-223809479.html
-2. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
-3. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
-4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
-5. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+1. Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
+2. AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It｜WIRED Science｜https://www.wired.com/story/ai-solved-maths-most-famous-problem/
+3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+4. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion｜TechCrunch｜https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+5. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
