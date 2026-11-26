@@ -1,24 +1,18 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-11-26T16:31:29.237Z",
+  "generatedAt": "2026-11-26T16:59:33.087Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-27",
   "changeSummary": {
-    "domesticNew": 1,
+    "domesticNew": 0,
     "globalNew": 1,
-    "domesticContinued": 0,
-    "globalContinued": 14,
-    "topNewDomestic": [
-      {
-        "title": "英伟达暂停向东南亚四国交付芯片服务器",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LCMUGCUC0512B07B.html"
-      }
-    ],
+    "domesticContinued": 1,
+    "globalContinued": 15,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+        "title": "Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html"
       }
     ],
     "hasPrevious": true
@@ -28,7 +22,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 899,
-    "globalRejected": 885,
+    "globalRejected": 884,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -42,27 +36,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -70,13 +49,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -87,24 +61,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -112,13 +71,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -131,7 +85,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 168,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -229,9 +183,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -295,16 +248,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -325,9 +276,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -335,7 +285,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -382,18 +332,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1470,
+  "itemsSeen": 1556,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 245,
-  "itemsAfterDedupe": 184,
+  "itemsAfterRelevantFilter": 277,
+  "itemsAfterDedupe": 200,
   "todayItemsSeen": 1,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 166,
+  "suspectedItemsSeen": 17,
+  "skippedNonToday": 183,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 168,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -491,9 +441,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -557,16 +506,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -587,9 +534,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -597,7 +543,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -799,24 +745,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -824,13 +755,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -865,7 +791,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 977,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 189,
+  "globalItemsAfterRelevantFilter": 191,
   "topics": [
     {
       "topic": "芯片动态",
@@ -946,7 +872,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达暂停向东南亚四国交付芯片服务器"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1354,73 +1280,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我国科学家在量子精密测量领域取得新突破",
-      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国科学家在量子精密测量领域取得新突破 分享到： 近日，清华大学交叉信息研究院孙麓岩教授团队联合中国科学技术大学、浙江大学团队（以下简称：联合团队）在量子增强精密测量领域取得重要突破。 在超导电路量子电动力学平台上，联合团队提出并实现了",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_26_909981.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_26_909981.shtml"
-      ],
-      "publishedAt": "2026-11-26",
-      "date": "2026-11-26",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 150,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “我国科学家在量子精密测量领域取得新突破” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国科学家在量子精密测量领域取得新突破 分享到： 近日，清华大学交叉信息研究院孙麓岩教授团队联合中国科学技术大学、浙江大学团队（以下简称：联合团队）在量子增强精密测量领域取得重要突破。 在超导电路量子电动力学平台上，联合团队提出并实现了Fock空间量子共焦显微方案，成功制备了平均光子数高达500的Fock空间聚焦态，将玻色子个数方差降低到原来的约0.71%。 联合团队还进一步发展Fock空间扫描层析方法，表征了大光子数玻色模式态的Fock空间分布，刷新了非高斯态光子数和量子计量增益两项纪录，同时解决了高光子数非高斯量子探针的确定性制备与高效信息提取两大难题。 相关成果于2026年11月26日，以《基于Fock空间共聚焦的500光子量子增强传感》（Quantum-enhanced sensing with 500 photons via Fock-space confocal focusing）为题在线发表于《自然》（Nature）。 《自然》期刊审稿人评价称，“这项成果令人印象深刻，其主要成就不仅在于制",
-      "relatedTitles": [
-        "我国科学家在量子精密测量领域取得新突破"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "欧洲第二座乘用车工厂？比亚迪拟收购英力士法国组装厂",
       "summary": "中国电动汽车巨头比亚迪11月24日宣布，已与英国英力士汽车展开排他性谈判，拟收购后者位于法国东北部昂巴克的一座汽车组装厂。",
       "source": "观察者网-产业科技",
@@ -1755,6 +1614,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶",
+      "summary": "在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶。新版的华为星驰辅助驾驶将只专注于辅助驾驶领域，与面向自动驾驶的乾崑智驾技术同源（WEWA 架构）、资源共享（云端训练算力 | 高质量训练里程数据）、流程 & 质量（IPD 研发流程 | 车规质量管理体系）。#华",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaappc3617827.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaappc3617827.shtml"
+      ],
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "category": "新能源车",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 125,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "【文/观察者网 王艺儒 编辑/高莘】11月26日，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌“星驰”，预计明年深蓝汽车、上汽通用五菱、北汽极狐、东风奕派等超10款新车将搭载星驰量产上市。2027年7月1日...",
+      "relatedTitles": [
+        "华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "黄仁勋“熹妃回宫”，但英伟达已不再是11天前的英伟达",
       "summary": "11天，不仅改变了黄仁勋，也改变了英伟达。",
@@ -2024,73 +1950,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶",
-      "summary": "11月26日，华为引望CEO靳玉志公布智驾新品牌“星驰”。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/qiche/2026_11_26_910077.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/qiche/2026_11_26_910077.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 117,
-      "reporterScore": 117,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "11月26日，华为引望CEO靳玉志公布智驾新品牌“星驰”。",
-      "relatedTitles": [
-        "华为智驾品牌新布局：引望旗下“星驰”专注辅助驾驶，乾崑智驾主攻自动驾驶"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "阅读 51338",
       "summary": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "source": "观察者网-产业科技",
@@ -2160,6 +2019,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids",
+      "summary": "Apple pulled the Talkie AI chatbot app from the App Store worldwide after reports alleged its virtual characters sent inappropriate messages to children.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html",
+      "publishedAt": "2026-11-26",
+      "date": "2026-11-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple pulls Chinese-developed AI chatbot from App Store over reports of ” against primary-source evidence.",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 166,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
       "summary": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers",
       "source": "CNBC Technology",
@@ -2188,7 +2079,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2639,8 +2530,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-27｜V3\n生成时间：2026/11/27 00:31:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2447｜确认今日 1｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 0 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   网易科技｜2026-11-27｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- 英伟达暂停向东南亚四国交付芯片服务器｜网易科技｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n- Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n2. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n3. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n4. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n5. Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it｜TechCrunch｜https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-27｜V3\n生成时间：2026/11/27 00:31:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2447｜确认今日 1｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 0 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   网易科技｜2026-11-27｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- 英伟达暂停向东南亚四国交付芯片服务器｜网易科技｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n- Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n2. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n3. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n4. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n5. Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it｜TechCrunch｜https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-27｜生成时间：2026/11/27 00:31:29｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2447｜确认今日 1｜国际背景 15</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 0 条｜国际 14 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器</strong>\n      <span>网易科技｜2026-11-27｜<a href=\"https://www.163.com/dy/article/LCMUGCUC0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say</strong>\n      <span>时间：Thu, 26 Nov 2026 15:34:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks</strong>\n      <span>时间：Wed, 25 Nov 2026 22:44:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “S&P considers Nvidia credit downgrade over governance and ‘key man’ risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release</strong>\n      <span>时间：Wed, 25 Nov 2026 19:11:53 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Saudi national in OpenAI bugging case is out on bond after DOJ tries to ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The FCC has authorized SpaceX to deploy 1 million satellites</strong>\n      <span>时间：Wed, 25 Nov 2026 18:22:38 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “The FCC has authorized SpaceX to deploy 1 million satellites” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</strong>\n      <span>时间：Wed, 25 Nov 2026 19:54:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Jensen Huang broke Nvidia’s code of conduct, and his employees may not f” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/27 00:31:29\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 0 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- 英伟达暂停向东南亚四国交付芯片服务器｜网易科技｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n- Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n2. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n3. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n4. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n5. Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it｜TechCrunch｜https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-27｜V3\n生成时间：2026/11/27 00:59:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 1｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   网易科技｜2026-11-27｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n2. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n5. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-27｜V3\n生成时间：2026/11/27 00:59:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 1｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   网易科技｜2026-11-27｜https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n2. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n5. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-27｜生成时间：2026/11/27 00:59:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2533｜确认今日 1｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 1 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器</strong>\n      <span>网易科技｜2026-11-27｜<a href=\"https://www.163.com/dy/article/LCMUGCUC0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids</strong>\n      <span>时间：2026-11-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple pulls Chinese-developed AI chatbot from App Store over reports of ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say</strong>\n      <span>时间：Thu, 26 Nov 2026 15:34:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks</strong>\n      <span>时间：Wed, 25 Nov 2026 22:44:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “S&P considers Nvidia credit downgrade over governance and ‘key man’ risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release</strong>\n      <span>时间：Wed, 25 Nov 2026 19:11:53 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Saudi national in OpenAI bugging case is out on bond after DOJ tries to ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The FCC has authorized SpaceX to deploy 1 million satellites</strong>\n      <span>时间：Wed, 25 Nov 2026 18:22:38 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “The FCC has authorized SpaceX to deploy 1 million satellites” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/27 00:59:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-27] 英伟达暂停向东南亚四国交付芯片服务器\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LCMUGCUC0512B07B.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达暂停向东南亚四国交付芯片服务器” against primary-source evidence.\n\n本次新增线索：\n- Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-pulls-chinese-developed-ai-143542996.html\n2. Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html\n5. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
