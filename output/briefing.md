@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/27 12:35:58
+生成时间：2026/11/27 12:55:50
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 58 条｜国际 2 条
-延续跟踪线索：国内 0 条｜国际 14 条
+新增核心线索：国内 1 条｜国际 1 条
+延续跟踪线索：国内 53 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,38 +28,34 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/shenji/2026-11-27/doc-inkacvhp3251896.shtml
    角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “泽景股份披露物理AI业务布局，推出EGO第一视角数据采集套件” against primary-source evidence.
 
-4. [2026-11-27] 零次方新一轮融资启示：大模型无法击穿的，才是具身智能真正壁垒
+4. [04:20] 长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4
+   来源：IT之家
+   链接：https://www.ithome.com/1/033/320.htm
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4” against primary-source evidence.
+
+5. [2026-11-27] 零次方新一轮融资启示：大模型无法击穿的，才是具身智能真正壁垒
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-11-27/doc-inkaczqm3209765.shtml
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “零次方新一轮融资启示：大模型无法击穿的，才是具身智能真正壁垒” against primary-source evidence.
 
-5. [2026-11-27] 小鹏：今年海外销量预计将突破10万辆，明年将在海外市场发布5款国际化车型
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-11-27/doc-inkacvhq5583057.shtml
-   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小鹏：今年海外销量预计将突破10万辆，明年将在海外市场发布5款国际化车型” against primary-source evidence.
-
 本次新增线索：
-- Jeep携手Momenta联合打造全地形智驾方案，首款合作车型将于2027年量产｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-27/doc-inkacqyr3310923.shtml
-- 【商业航天】一边放行100万颗轨道卫星，一边定｜网易科技｜https://www.163.com/dy/article/LCNUTPQO0534A4SC.html
-- 泽景股份披露物理AI业务布局，推出EGO第一视角数据采集套件｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-27/doc-inkacvhp3251896.shtml
-- 零次方新一轮融资启示：大模型无法击穿的，才是具身智能真正壁垒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-27/doc-inkaczqm3209765.shtml
-- 小鹏：今年海外销量预计将突破10万辆，明年将在海外市场发布5款国际化车型｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-27/doc-inkacvhq5583057.shtml
-- Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433
+- 长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4｜IT之家｜https://www.ithome.com/1/033/320.htm
+- SpaceX shares jump on alternative trading platform after Musk says he will expand share donations｜CNBC Technology｜https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，4 个来源）
+- AI 应用：AI动态（11 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：机器人动态（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（14 条，3 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433
 2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
 3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks｜TechCrunch｜https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
 4. Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release｜CNBC Technology｜https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html
-5. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+5. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
