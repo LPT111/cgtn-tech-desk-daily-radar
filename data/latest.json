@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T16:17:25.592Z",
+  "generatedAt": "2026-11-27T16:45:07.548Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-28",
   "changeSummary": {
     "domesticNew": 0,
     "globalNew": 0,
     "domesticContinued": 0,
-    "globalContinued": 8,
+    "globalContinued": 7,
     "topNewDomestic": [],
     "topNewGlobal": [],
     "hasPrevious": true
@@ -16,7 +16,7 @@
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 900,
-    "globalRejected": 892,
+    "globalRejected": 816,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -30,15 +30,10 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 30,
   "failedSources": [
     {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "中国科学院",
+      "name": "快科技-综合",
       "error": "This operation was aborted",
       "optional": false
     },
@@ -65,12 +60,7 @@
   ],
   "failures": [
     {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "中国科学院",
+      "name": "快科技-综合",
       "error": "This operation was aborted",
       "optional": false
     },
@@ -99,7 +89,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 52,
+      "parsed": 182,
       "failed": false,
       "optional": false
     },
@@ -114,15 +104,15 @@
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -198,9 +188,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -348,18 +337,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1371,
+  "itemsSeen": 1564,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 216,
-  "itemsAfterDedupe": 177,
+  "itemsAfterRelevantFilter": 240,
+  "itemsAfterDedupe": 179,
   "todayItemsSeen": 0,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 160,
+  "suspectedItemsSeen": 16,
+  "skippedNonToday": 164,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 52,
+      "parsed": 182,
       "failed": false,
       "optional": false
     },
@@ -374,15 +363,15 @@
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -458,9 +447,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -620,8 +608,9 @@
     {
       "name": "France24 Technology",
       "tier": "international",
-      "parsed": 155,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -763,12 +752,7 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "快科技-硬件",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "中国科学院",
+      "name": "快科技-综合",
       "error": "This operation was aborted",
       "optional": false
     },
@@ -800,6 +784,11 @@
       "optional": false
     },
     {
+      "name": "France24 Technology",
+      "error": "403 Forbidden",
+      "optional": false
+    },
+    {
       "name": "Reuters Technology",
       "error": "401 HTTP Forbidden",
       "optional": false
@@ -816,147 +805,13 @@
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 17,
-  "globalItemsSeen": 978,
+  "globalSuccessSources": 16,
+  "globalItemsSeen": 823,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 182,
+  "globalItemsAfterRelevantFilter": 148,
   "topics": [],
   "leads": [],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
-      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
-      "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
-      "relatedTitles": [
-        "MEET大会"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET2027 倒计时一周｜量子位2026人工智能年度榜单征集即将截止！ 量子位在寻找“能干”的答案 量子位 21小时前 MEET2027 前排围观！MEET2027报名通道正式开启",
-      "summary": "MEET2027 倒计时一周｜量子位2026人工智能年度榜单征集即将截止！ 量子位在寻找“能干”的答案 量子位 21小时前 MEET2027 前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位 量子位 2026-10-30 MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/meet2027",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/meet2027"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “MEET2027 倒计时一周｜量子位2026人工智能年度榜单征集即将截止！ 量子位在寻找“能干”的答案 量子位 21小时前 MEET2027 前” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "MEET2027 倒计时一周｜量子位2026人工智能年度榜单征集即将截止！ 量子位在寻找“能干”的答案 量子位 21小时前 MEET2027 前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位 量子位 2026-10-30 MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参与！ 量子位 2026-09-16 MEET2027 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中 今年12月，北京，MEET2027智能未来大会！ 量子位 2026-09-11 MEET2027 热门文章 百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年 抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？ 资本正在撤离“世界模型” Linux内核被挖出948个漏洞！OpenAI花120万美元找到的 99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "relatedTitles": [
-        "MEET2027 倒计时一周｜量子位2026人工智能年度榜单征集即将截止！ 量子位在寻找“能干”的答案 量子位 21小时前 MEET2027 前排围观！MEET2027报名通道正式开启"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "深扒Anthropic如何把“造福全人类”做成华盛顿生意",
@@ -1223,73 +1078,6 @@
       "rawText": "当地时间11月26日，俄罗斯总统普京出席在莫斯科举行的“人工智能（AI）世界之旅”大会全体会议并发表讲话。他",
       "relatedTitles": [
         "普京：俄罗斯不能再陷入“别人按下按钮就能让一切停止运行”的处境"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubmV3",
-      "title": "解码未来产业",
-      "summary": "clearfix\"> 2026“人工智能+”行业应用创新案例征集启动 解码未来产业 上新了・好物 <div class=\"swiper-wrapper\" data=\"datasource:eb93f30e7b814601a9a41e5c5026fb7f\" datatype=\"ds\" datalength=\"10\" pr",
-      "source": "新华网-科技",
-      "sources": [
-        "新华网-科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.news.cn/tech/zt/jmwlcy/index.html",
-      "sourceUrls": [
-        "https://www.news.cn/tech/zt/jmwlcy/index.html"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “解码未来产业” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "clearfix\"> 2026“人工智能+”行业应用创新案例征集启动 解码未来产业 上新了・好物 <div class=\"swiper-wrapper\" data=\"datasource:eb93f30e7b814601a9a41e5c5026fb7f\" datatype=\"ds\" datalength=\"10\" previ",
-      "relatedTitles": [
-        "解码未来产业"
       ]
     },
     {
@@ -1628,70 +1416,137 @@
       ]
     },
     {
-      "id": "aHR0cDovL3d3dy5uZXdz",
-      "title": "高水平科技自立自强院士说",
-      "summary": "> 大国科技 高水平科技自立自强院士说 力箭二号遥二运载火箭发射成",
-      "source": "新华网-科技",
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "AI Engineering",
+      "summary": "邓思邈 10小时前 AI Engineering ClickBench TabbyML <div class=\"pict",
+      "source": "量子位",
       "sources": [
-        "新华网-科技"
+        "量子位"
       ],
-      "sourceTier": "mainstream",
-      "url": "http://www.news.cn/tech/zt/kjzlzq2022/index.html",
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/ai-engineering",
       "sourceUrls": [
-        "http://www.news.cn/tech/zt/kjzlzq2022/index.html"
+        "https://www.qbitai.com/tag/ai-engineering"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "太空与低空",
-      "classificationConfidence": 0.84,
+      "category": "AI",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 4,
-      "score": 130,
-      "reporterScore": 136,
+      "score": 129,
+      "reporterScore": 137,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
+        "visual": 0,
         "international": 0,
         "policy": 0,
-        "sourceWeight": 8,
+        "sourceWeight": 6,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
+        "hardTechWeight": 95,
+        "reporterScore": 105
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “高水平科技自立自强院士说” against primary-source evidence.",
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI Engineering” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "> 大国科技 高水平科技自立自强院士说 力箭二号遥二运载火箭发射成",
+      "matchedTopic": "AI动态",
+      "rawText": "邓思邈 10小时前 AI Engineering ClickBench TabbyML <div class=\"pict",
       "relatedTitles": [
-        "高水平科技自立自强院士说"
+        "AI Engineering"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET2027 量子位2026人工智能年度榜单",
+      "summary": "MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参与！ 量子位 2026-09-16 MEET2027 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中 今年12月，北京，MEET2027智能未来大会！ 量子位 2026-09-11 MEET2027 热门文章 刚刚，Hi",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/meet2027",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/meet2027"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 115,
+      "reporterScore": 131,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": -35,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": true,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 80
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “MEET2027 量子位2026人工智能年度榜单” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参与！ 量子位 2026-09-16 MEET2027 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中 今年12月，北京，MEET2027智能未来大会！ 量子位 2026-09-11 MEET2027 热门文章 刚刚，Hinton发了首篇RSI论文 限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来 刚刚，诺贝尔奖颁给光遗传学！ 特斯拉FSD，在欧洲被打回原形",
+      "relatedTitles": [
+        "MEET2027 量子位2026人工智能年度榜单"
       ]
     },
     {
@@ -1896,22 +1751,22 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cubmV3",
-      "title": "AI视界，不止于想象",
-      "summary": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
-      "source": "新华网-科技",
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
+      "source": "量子位",
       "sources": [
-        "新华网-科技"
+        "量子位"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.news.cn/tech/zt/zhikanai/index.html",
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
       "sourceUrls": [
-        "https://www.news.cn/tech/zt/zhikanai/index.html"
+        "https://www.qbitai.com/meet/meet2026/"
       ],
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1921,18 +1776,18 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 4,
-      "score": 127,
-      "reporterScore": 127,
+      "score": 121,
+      "reporterScore": 121,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
-        "sourceWeight": 8,
+        "sourceWeight": 6,
         "primarySource": 0,
         "interviewValue": 0,
         "marketingPenalty": 0,
@@ -1954,17 +1809,17 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI视界，不止于想象” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
+      "rawText": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
       "relatedTitles": [
-        "AI视界，不止于想象"
+        "MEET大会"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 52318",
+      "title": "阅读 52338",
       "summary": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -1988,13 +1843,13 @@
       "hardTechPriority": 70,
       "keywords": "digital infrastructure, data flows and the platform economy",
       "priority": 3,
-      "score": 111,
-      "reporterScore": 119,
+      "score": 89,
+      "reporterScore": 97,
       "scoreBreakdown": {
         "hardTech": 70,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 0,
         "cgtFocus": 0,
         "visual": 0,
         "international": 9,
@@ -2021,12 +1876,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "graphic",
-      "angle": "Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “阅读 52318” against primary-source evidence.",
+      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “阅读 52338” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "数字基础设施与数据要素",
       "rawText": "数字经济看着没烟囱，背后电表转得飞快，水也哗哗地流。过去一些欧美国家搞高科技，习惯先抢技术、抢市场、抢规模，能源怎么供、环境受不受得了、资源够不够，都往后放。",
       "relatedTitles": [
-        "阅读 52318"
+        "阅读 52338"
       ]
     }
   ],
@@ -2225,38 +2080,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
-      "summary": "TSMC brings agentic AI to chip design as A14 design rule count hits 3.6X that of N5 while customers demand 33% shorter development cycle.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/tsmc-gives-sneap-peak-ai-130000134.html",
-      "publishedAt": "2026-11-27",
-      "date": "2026-11-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expert” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
       "source": "CNBC Technology",
@@ -2288,8 +2111,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-28｜V3\n生成时间：2026/11/28 00:17:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2349｜确认今日 0｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-28｜V3\n生成时间：2026/11/28 00:17:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2349｜确认今日 0｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-28｜生成时间：2026/11/28 00:17:25｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2349｜确认今日 0｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      <p>暂无高优先级科技新闻。</p>\n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems</strong>\n      <span>时间：Thu, 26 Nov 2026 19:04:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into g” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say</strong>\n      <span>时间：Thu, 26 Nov 2026 17:04:54 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, so” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The FCC has authorized SpaceX to deploy 1 million satellites</strong>\n      <span>时间：Wed, 25 Nov 2026 18:22:38 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “The FCC has authorized SpaceX to deploy 1 million satellites” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia hits pause on chip shipments to Southeast Asia</strong>\n      <span>时间：Thu, 26 Nov 2026 20:03:54 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia hits pause on chip shipments to Southeast Asia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Intel faced a choice: Give Trump 10% or face the consequences</strong>\n      <span>时间：Fri, 27 Nov 2026 12:05:01 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel faced a choice: Give Trump 10% or face the consequences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/28 00:17:25\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-28｜V3\n生成时间：2026/11/28 00:45:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2387｜确认今日 0｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-28｜V3\n生成时间：2026/11/28 00:45:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2387｜确认今日 0｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-28｜生成时间：2026/11/28 00:45:07｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2387｜确认今日 0｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 0 条｜国际 7 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      <p>暂无高优先级科技新闻。</p>\n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems</strong>\n      <span>时间：Thu, 26 Nov 2026 19:04:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into g” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say</strong>\n      <span>时间：Thu, 26 Nov 2026 17:04:54 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, so” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The FCC has authorized SpaceX to deploy 1 million satellites</strong>\n      <span>时间：Wed, 25 Nov 2026 18:22:38 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “The FCC has authorized SpaceX to deploy 1 million satellites” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia hits pause on chip shipments to Southeast Asia</strong>\n      <span>时间：Thu, 26 Nov 2026 20:03:54 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia hits pause on chip shipments to Southeast Asia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Intel faced a choice: Give Trump 10% or face the consequences</strong>\n      <span>时间：Fri, 27 Nov 2026 12:05:01 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel faced a choice: Give Trump 10% or face the consequences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/28 00:45:07\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n暂无高优先级科技新闻。\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433\n2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

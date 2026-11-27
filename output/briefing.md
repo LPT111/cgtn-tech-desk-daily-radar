@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/28 00:17:25
+生成时间：2026/11/28 00:45:07
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
 新增核心线索：国内 0 条｜国际 0 条
-延续跟踪线索：国内 0 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 7 条
 本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
