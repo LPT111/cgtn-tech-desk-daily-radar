@@ -3,55 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/28 12:41:12
+生成时间：2026/11/28 22:32:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 19 条｜国际 7 条
+新增核心线索：国内 38 条｜国际 0 条
+延续跟踪线索：国内 7 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-28] 推进人工智能辅助科研规范有序发展
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/1128/c1004-40842071.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “推进人工智能辅助科研规范有序发展” against primary-source evidence.
-
-2. [2026-11-28] 戴尔科技集团首席执行官迈克尔·戴尔：从宿舍一千美元，不造芯片不训大模型，他成了AI热潮的接单人丨【商业人物档案】
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkafyfk7482041.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “戴尔科技集团首席执行官迈克尔·戴尔：从宿舍一千美元，不造芯片不训大模型，他成了AI热潮的接单人丨【商业人物档案】” against primary-source evidence.
-
-3. [2026-11-28] 微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-28/doc-inkafyfk7501620.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11” against primary-source evidence.
-
-4. [03:18] Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能
+1. [07:38] 长城皮卡 300 万全球用户大会明日举行，27 款长城山海炮亮相发布
    来源：IT之家
-   链接：https://www.ithome.com/1/033/822.htm
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能” against primary-source evidence.
+   链接：https://www.ithome.com/1/033/911.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “长城皮卡 300 万全球用户大会明日举行，27 款长城山海炮亮相发布” against primary-source evidence.
 
-5. [2026-11-28] 我国发布地球大模型引擎SUICE V0.1版
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-11/28/content_620744.html
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “我国发布地球大模型引擎SUICE V0.1版” against primary-source evidence.
+2. [2026-11-28] 场景拓展 AI引领职场进入协同进化新阶段
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta9198919.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “场景拓展 AI引领职场进入协同进化新阶段” against primary-source evidence.
+
+3. [2026-11-28] 国产芯片IP巨头发力！芯动科技布局HBM4E、LPDDR6、GDDR7
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4765842.shtml
+   角度：Use export controls and supply-chain resilience as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产芯片IP巨头发力！芯动科技布局HBM4E、LPDDR6、GDDR7” against primary-source evidence.
+
+4. [2026-11-28] 开源鸿蒙发布具身智能操作系统RoboOH 2.0
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LCRF8CK50534A4SC.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “开源鸿蒙发布具身智能操作系统RoboOH 2.0” against primary-source evidence.
+
+5. [2026-11-28] 对话长安汽车先进电池研究院牟丽莎：掌握动力电池核心技术，在整车竞争中有更高溢价或话语权
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4764049.shtml
+   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “对话长安汽车先进电池研究院牟丽莎：掌握动力电池核心技术，在整车竞争中有更高溢价或话语权” against primary-source evidence.
 
 本次新增线索：
-- 推进人工智能辅助科研规范有序发展｜人民网-科技｜http://finance.people.com.cn/n1/2026/1128/c1004-40842071.html
-- 微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-28/doc-inkafyfk7501620.shtml
-- Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能｜IT之家｜https://www.ithome.com/1/033/822.htm
-- 八达通遭网络攻击：7500 名客户、2.2 万名商户资料受影响｜IT之家｜https://www.ithome.com/1/033/773.htm
-- OpenAI反诉苹果窃取商业秘密｜网易科技｜https://www.163.com/dy/article/LCQC2KB30534A4SC.html
+- 长城皮卡 300 万全球用户大会明日举行，27 款长城山海炮亮相发布｜IT之家｜https://www.ithome.com/1/033/911.htm
+- 场景拓展 AI引领职场进入协同进化新阶段｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta9198919.shtml
+- 国产芯片IP巨头发力！芯动科技布局HBM4E、LPDDR6、GDDR7｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4765842.shtml
+- 开源鸿蒙发布具身智能操作系统RoboOH 2.0｜网易科技｜https://www.163.com/dy/article/LCRF8CK50534A4SC.html
+- 对话长安汽车先进电池研究院牟丽莎：掌握动力电池核心技术，在整车竞争中有更高溢价或话语权｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4764049.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（9 条，4 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（9 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
 1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433
