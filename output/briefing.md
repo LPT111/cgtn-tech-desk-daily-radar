@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/28 23:10:54
+生成时间：2026/11/28 23:37:49
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 41 条｜国际 7 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 42 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,20 +28,18 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4765842.shtml
    角度：Use export controls and supply-chain resilience as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产芯片IP巨头发力！芯动科技布局HBM4E、LPDDR6、GDDR7” against primary-source evidence.
 
-4. [2026-11-28] 芯片、服务器、手机迎来好消息！美国新一轮关税方案拟豁免多类科技产品
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkaifyy4677651.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “芯片、服务器、手机迎来好消息！美国新一轮关税方案拟豁免多类科技产品” against primary-source evidence.
-
-5. [2026-11-28] 开源鸿蒙发布具身智能操作系统RoboOH 2.0
+4. [2026-11-28] 开源鸿蒙发布具身智能操作系统RoboOH 2.0
    来源：网易科技
    链接：https://www.163.com/dy/article/LCRF8CK50534A4SC.html
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “开源鸿蒙发布具身智能操作系统RoboOH 2.0” against primary-source evidence.
 
+5. [2026-11-28] 对话长安汽车先进电池研究院牟丽莎：掌握动力电池核心技术，在整车竞争中有更高溢价或话语权
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkahzta4764049.shtml
+   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “对话长安汽车先进电池研究院牟丽莎：掌握动力电池核心技术，在整车竞争中有更高溢价或话语权” against primary-source evidence.
+
 本次新增线索：
-- 芯片、服务器、手机迎来好消息！美国新一轮关税方案拟豁免多类科技产品｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkaifyy4677651.shtml
-- 广汽本田未来2年将陆续推出5款新车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkaifyy9127213.shtml
-- 蔚来江苏第 500 座换电站投运，充换电覆盖全省 95 个行政区县｜IT之家｜https://www.ithome.com/1/033/984.htm
+- 松鼠Ai为何仍有新增诉讼记录？案件来源与重整清偿进展｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-28/doc-inkaifyy9137713.shtml
 
 今日热点方向：
 - AI 应用：AI动态（9 条，3 个来源）
@@ -49,14 +47,14 @@ ChenChen 今日 Briefing｜V3
 - 机器人/具身智能：机器人动态（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，2 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems｜The Register｜https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433
-2. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
-3. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
-4. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
-5. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/
+1. Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say｜CNBC Technology｜https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
+2. The FCC has authorized SpaceX to deploy 1 million satellites｜Ars Technica｜https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
+3. Nvidia hits pause on chip shipments to Southeast Asia｜TechCrunch｜https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+4. Intel faced a choice: Give Trump 10% or face the consequences｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/
+5. Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others｜Yahoo News Technology｜https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-disney-intel-amazon-microsoft-apple-meta-and-others-182529412.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
